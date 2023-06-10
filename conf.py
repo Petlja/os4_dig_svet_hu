@@ -4,7 +4,7 @@ import petljadoc
 
 from runestone import runestone_static_dirs, runestone_extensions
 
-#petljadoc.runestone_ext.add_module('blockly')
+petljadoc.runestone_ext.add_module('blockly')
 #petljadoc.runestone_ext.add_module('blockpylib')
 #petljadoc.runestone_ext.add_module('simanim')
 #petljadoc.runestone_ext.add_module('pycode')
