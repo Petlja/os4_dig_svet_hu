@@ -149,12 +149,16 @@ lessons:
         file: 54_Grananje.rst
         guid: 486dc900-6a8e-416b-9909-bb1aa01bf2a1  
       - type: reading
+        title: Аритметика
+        file: 55_Aritmetika.rst
+        guid: 8e408051-983c-45ce-9707-5ba47ea4d4bf 
+      - type: reading
         title: Променљиве вредности
-        file: 55_Promenljive.rst
+        file: 56_Promenljive.rst
         guid: fe79ddd7-2104-42af-ba60-4bc4fc25a6af
-      - type: quiz
-        title: Квиз - алгоритамски начин размишљања
-        file: 56_Kviz.rst
+      - type: reading
+        title: Разни задаци
+        file: 57_Razni zadaci.rst
         guid: 893d26d1-d52d-4ac3-bfc9-9c37b3cde3f6
   - title: Примери са микробитом
     guid: bf2179f8-9056-4a59-8030-a0c31a4d4586

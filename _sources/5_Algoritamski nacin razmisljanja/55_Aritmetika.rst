@@ -1,0 +1,70 @@
+Аритметичке операције
+=====================
+
+Подсети се како се у Кареловом свету пишу математички изрази.
+
+Пример 9
+--------
+
+Састави блокове за решавање следећег задатка: Од разлике бројева 138 и 23 одузми производ бројева 6 и 4.
+
+.. blockly-karel:: p551  
+  :categories: KarelSays, Arithmetic, Logic
+
+  {
+            setup:function() {
+                var world = new World(3,3);
+                world.setRobotStartAvenue(2);
+                world.setRobotStartStreet(2);
+                world.setRobotStartDirection("S");;
+                var robot = new Robot();
+                return {robot:robot, world:world};
+            },
+			
+            isSuccess: function(robot, world) {
+              return robot.getLastMessage() == 101
+            },
+  }
+  
+**Помоћ**:
+
+Mатематички израз за овај задатак je следећи:
+
+(138-23)-(6*4)
+
+Којим ћеш редоследом постављати блокове? Колико ти је блокова са аритметичким операцијама потребно? 
+ 
+Треба ти један блок за разлику бројева 138 и 13. Други ће ти послужити да помножиш бројеве 6 и 4. Трећи блок треба да послужи да одузмеш ова два резултата.
+ 
+
+
+Пример 10
+---------
+
+Јована и Никола сваког дана проверавају колико су направили корака. Јована је направила 5286 корака, а Марко 800 корака 
+више од Јоване. Састави израз којим се рачуна колико су корака заједно прешли Јована и Марко.
+
+.. blockly-karel:: p552  
+  :categories: KarelSays, Arithmetic, Logic
+
+  {
+            setup:function() {
+                var world = new World(3,3);
+                world.setRobotStartAvenue(2);
+                world.setRobotStartStreet(2);
+                world.setRobotStartDirection("S");;
+                var robot = new Robot();
+                return {robot:robot, world:world};
+            },
+			
+            isSuccess: function(robot, world) {
+              return robot.getLastMessage() == 11372
+            },
+  }
+  
+Који си резултат ти добио када си рачунао? Да ли се слаже са оним што је израчунао Карел? Ако ниси, још једном провери
+да ли си добро поређао блокове!
+
+.. infonote::
+
+ Научио си како се у Ворду копирају слике и делови текста. Покушај и у овом окружењу да користиш пречице на тастатури **Ctrl + C** и **Ctrl + V** када ти је неки блок потребан више пута. 
