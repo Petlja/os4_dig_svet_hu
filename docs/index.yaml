@@ -34,18 +34,11 @@ lessons:
     title: Радујемо се поновном дружењу!
     type: reading
   - description: ''
-    file: 01_Uvodna vezba 1.html
+    file: 01_Uvodne vezbe.html
     guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
-    normalized_title: Уводна вежба 1
-    src: 01_Uvodna vezba 1.rst
-    title: Уводна вежба 1
-    type: reading
-  - description: ''
-    file: 02_Uvodna vezba 2.html
-    guid: df367d73-b168-4183-9ee1-c84e83e2a955
-    normalized_title: Уводна вежба 2
-    src: 02_Uvodna vezba 2.rst
-    title: Уводна вежба 2
+    normalized_title: Уводне активности
+    src: 01_Uvodne vezbe.rst
+    title: Уводне активности
     type: reading
   - description: ''
     file: 03_Uvodni kviz.html
@@ -279,26 +272,33 @@ lessons:
     title: Програми са понављањем
     type: reading
   - description: ''
-    file: 64_Grananje.html
+    file: 64_Aritmetika.html
     guid: 27e055f0-a383-48b3-8ad2-8ae520d98a3f
+    normalized_title: Аритметика
+    src: 64_Aritmetika.rst
+    title: Аритметика
+    type: reading
+  - description: ''
+    file: 65_Grananje.html
+    guid: 178e7d53-67eb-4d3d-8aef-87e7101da3df
     normalized_title: Програми са гранањем
-    src: 64_Grananje.rst
+    src: 65_Grananje.rst
     title: Програми са гранањем
     type: reading
   - description: ''
-    file: 65_Promenljive.html
-    guid: 178e7d53-67eb-4d3d-8aef-87e7101da3df
+    file: 66_Promenljive.html
+    guid: ad58595a-3f82-4afd-8620-0127d4e91755
     normalized_title: Променљиве вредности
-    src: 65_Promenljive.rst
+    src: 66_Promenljive.rst
     title: Променљиве вредности
     type: reading
   - description: ''
-    file: 66_Kviz.html
-    guid: ad58595a-3f82-4afd-8620-0127d4e91755
-    normalized_title: Квиз - програмирање микробита
-    src: 66_Kviz.rst
-    title: Квиз - програмирање микробита
-    type: quiz
+    file: 67_Zadaci.html
+    guid: a31cbebb-a464-4389-bacb-deea649219f7
+    normalized_title: Променљиве вредности
+    src: 67_Zadaci.rst
+    title: Променљиве вредности
+    type: reading
   archived-activities: []
   description: ''
   folder: 6_Programiranje mikrobita - primeri

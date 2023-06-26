@@ -34,15 +34,10 @@ lessons:
         description: 
         guid: 82c30d11-1b71-46fb-846f-68a9ed3062bb 
       - type: reading
-        title: Уводна вежба 1
-        file: 01_Uvodna vezba 1.rst
+        title: Уводне активности
+        file: 01_Uvodne vezbe.rst
         description: 
         guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
-      - type: reading
-        title: Уводна вежба 2
-        file: 02_Uvodna vezba 2.rst
-        description: 
-        guid: df367d73-b168-4183-9ee1-c84e83e2a955
       - type: quiz
         title: Уводни квиз
         file: 03_Uvodni kviz.rst
@@ -177,17 +172,21 @@ lessons:
         file: 63_Petlje.rst
         guid: 92ae8d15-b8d0-4a85-a6b8-8b181b7aae67 
       - type: reading
-        title: Програми са гранањем
-        file: 64_Grananje.rst
+        title: Аритметика
+        file: 64_Aritmetika.rst
         guid: 27e055f0-a383-48b3-8ad2-8ae520d98a3f 
       - type: reading
-        title: Променљиве вредности
-        file: 65_Promenljive.rst
+        title: Програми са гранањем
+        file: 65_Grananje.rst
         guid: 178e7d53-67eb-4d3d-8aef-87e7101da3df 
-      - type: quiz
-        title: Квиз - програмирање микробита
-        file: 66_Kviz.rst
+      - type: reading
+        title: Променљиве вредности
+        file: 66_Promenljive.rst
         guid: ad58595a-3f82-4afd-8620-0127d4e91755
+      - type: reading
+        title: Променљиве вредности
+        file: 67_Zadaci.rst
+        guid: a31cbebb-a464-4389-bacb-deea649219f7
  
         
  
