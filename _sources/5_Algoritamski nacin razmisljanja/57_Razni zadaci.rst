@@ -16,7 +16,7 @@
 Задатак 1
 ---------
 
-**Карел се нашао з уском пролазу. Помози му да узме обе лоптице!**
+**Карел се нашао у уском пролазу. Помози му да узме обе лоптице!**
 
 .. blockly-karel:: p561
   :categories: KarelCommands, Loops, KarelLoops, Branching
@@ -207,12 +207,12 @@
 Задатак 7
 ---------
  
-**Карел треба да сакупи свих 14 лоптица.**
+**Карел треба да сакупи свих 12 лоптица.**
 
 |
 
 .. blockly-karel:: p567
-  :categories: KarelCommands, Loops, KarelLoops, Branching
+  :categories: KarelCommands, Loops, Branching
   
   {
       setup: function() {
