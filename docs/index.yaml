@@ -1,0 +1,308 @@
+courseId: courseID
+description:
+  externalLinks:
+  - href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+    text: Sphinx Docs
+  - href: https://github.com/Petlja/PetljaDoc/blob/master/README.md
+    text: Petljadoc
+  - href: https://github.com/RunestoneInteractive/overview
+    text: Runestone Interactive
+  longDescription: '<div class="document">
+
+    <p>This is an example of a long description...</p>
+
+    </div>
+
+    '
+  requirements:
+  - Petljadoc
+  - Runestone
+  - Sphinx
+  shortDescription: Shrot description
+  toc:
+  - Intro to Petljadoc INDEX.yaml
+  willLearn:
+  - Preview of Petljadoc course
+lang: en
+lessons:
+- activities:
+  - description: ''
+    file: 00_Uvod.html
+    guid: 82c30d11-1b71-46fb-846f-68a9ed3062bb
+    normalized_title: Радујемо се поновном дружењу!
+    src: 00_Uvod.rst
+    title: Радујемо се поновном дружењу!
+    type: reading
+  - description: ''
+    file: 01_Uvodne vezbe.html
+    guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
+    normalized_title: Уводне активности
+    src: 01_Uvodne vezbe.rst
+    title: Уводне активности
+    type: reading
+  - description: ''
+    file: 03_Uvodni kviz.html
+    guid: d460f8d1-f99d-4e68-923f-bbb8169ee594
+    normalized_title: Уводни квиз
+    src: 03_Uvodni kviz.rst
+    title: Уводни квиз
+    type: quiz
+  archived-activities: []
+  description: ''
+  folder: 0_Uvod
+  guid: e34fdbcc-d9f3-4ccd-a217-0149708d13f1
+  normalized_title: Уводне активности
+  title: Уводне активности
+- activities:
+  - description: ''
+    file: 11_Podebljan tekst.html
+    guid: 1c701ad5-a389-4d0f-93de-11953709f21c
+    normalized_title: Подебљан текст
+    src: 11_Podebljan tekst.rst
+    title: Подебљан текст
+    type: reading
+  - description: ''
+    file: 12_Promena boje teksta.html
+    guid: 42938e84-89b0-4fdc-843b-71e64296371f
+    normalized_title: Промена боје текста
+    src: 12_Promena boje teksta.rst
+    title: Промена боје текста
+    type: reading
+  - description: ''
+    file: 13_Iskosen tekst.html
+    guid: 9321adf0-25d7-4846-858b-53940451b6bd
+    normalized_title: Искошен текст
+    src: 13_Iskosen tekst.rst
+    title: Искошен текст
+    type: reading
+  - description: ''
+    file: 14_Podvucen tekst.html
+    guid: f2557582-9004-4a80-ac40-0a0f5f4210e0
+    normalized_title: Подвучен текст
+    src: 14_Podvucen tekst.rst
+    title: Подвучен текст
+    type: reading
+  - description: ''
+    file: 15_Kopiranje_isecanje_lepljenje.html
+    guid: 2c200b12-7e7b-47e9-ad94-8a2bf687e1bc
+    normalized_title: Копирањеисецање и лепљење текста
+    src: 15_Kopiranje_isecanje_lepljenje.rst
+    title: Копирање/исецање и лепљење текста
+    type: reading
+  - description: ''
+    file: 16_Kviz.html
+    guid: f852c1b8-76df-4f7d-a652-719c4799d769
+    normalized_title: Квиз - уређивање текста
+    src: 16_Kviz.rst
+    title: Квиз - уређивање текста
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 1_Uredjivanje teksta
+  guid: e285927b-b445-4063-baad-7091c73475b6
+  normalized_title: Уређивање текста
+  title: Уређивање текста
+- activities:
+  - description: ''
+    file: 21_Umetanje slike u dokument.html
+    guid: 065a3d10-0411-4616-af26-0bfa2cc008b8
+    normalized_title: Уметање слике у документ
+    src: 21_Umetanje slike u dokument.rst
+    title: Уметање слике у документ
+    type: reading
+  - description: ''
+    file: 22_Velicina slike.html
+    guid: 28f80caa-4596-450c-a344-62c6955b083a
+    normalized_title: Величина слике
+    src: 22_Velicina slike.rst
+    title: Величина слике
+    type: reading
+  - description: ''
+    file: 23_Pozicija slike.html
+    guid: 453fffc3-cb16-4e2b-a25d-098349a3cd9e
+    normalized_title: Позиција слике у односу на текст
+    src: 23_Pozicija slike.rst
+    title: Позиција слике у односу на текст
+    type: reading
+  - description: ''
+    file: 24_Dodavanje okvira slike.html
+    guid: f3756158-3a78-4ec2-bc81-bc40950c7bb8
+    normalized_title: Додавање оквира слике
+    src: 24_Dodavanje okvira slike.rst
+    title: Додавање оквира слике
+    type: reading
+  - description: ''
+    file: 25_Kviz.html
+    guid: 28f73702-f195-4e8d-a788-587f3da548cd
+    normalized_title: Квиз - уметање слике у документ
+    src: 25_Kviz.rst
+    title: Квиз - уметање слике у документ
+    type: quiz
+  archived-activities: []
+  description: ''
+  folder: 2_Slika u dokumentu
+  guid: ab443d51-d613-4dbd-be32-c1e68b3add4a
+  normalized_title: Слика у документу
+  title: Слика у документу
+- activities:
+  - description: ''
+    file: 31_Projektni zadatak.html
+    guid: 42659138-0db6-44cb-8b13-9d65f1e189a2
+    normalized_title: Опис пројектног задатка
+    src: 31_Projektni zadatak.rst
+    title: Опис пројектног задатка
+    type: reading
+  - description: ''
+    file: 32_Preuzimanje teksta.html
+    guid: bb7f4762-78cd-44f4-b7a2-270534d3a26b
+    normalized_title: Преузимање текста са интернета
+    src: 32_Preuzimanje teksta.rst
+    title: Преузимање текста са интернета
+    type: reading
+  - description: ''
+    file: 33_Preuzimanje slike.html
+    guid: 4c9b9bfa5-7923-4a02-b83f-1bdb8d5deeea
+    normalized_title: Преузимање слике са интернета
+    src: 33_Preuzimanje slike.rst
+    title: Преузимање слике са интернета
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 3_Projektni zadatak
+  guid: 30ece6d1-bcd0-496d-a205-40d29f418b73
+  normalized_title: Пројектни задатак
+  title: Пројектни задатак
+- activities:
+  - description: ''
+    file: 41_Mali podsetnik.html
+    guid: 301394f3-9f8e-40fa-be96-8992ba4f180b
+    normalized_title: Mali podsetnik
+    src: 41_Mali podsetnik.rst
+    title: Mali podsetnik
+    type: quiz
+  - description: ''
+    file: 42_Uputstvo.html
+    guid: 0a5a1231-0bdc-492c-85aa-6aa3db0a4e9a
+    normalized_title: Опис појектног задатка
+    src: 42_Uputstvo.rst
+    title: Опис појектног задатка
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 4_Bezbedno koriscenje digitalnih uredjaja
+  guid: b5516de1-a043-42fb-934f-ffdff3561349
+  normalized_title: Безбедно коришћење дигиталних уређаја
+  title: Безбедно коришћење дигиталних уређаја
+- activities:
+  - description: ''
+    file: 51_Mali podsetnik.html
+    guid: df092de1-d9ee-467f-ad92-c53afeba4aed
+    normalized_title: Мали подсетник
+    src: 51_Mali podsetnik.rst
+    title: Мали подсетник
+    type: quiz
+  - description: ''
+    file: 52_Linijski programi.html
+    guid: 978648af-ea49-4f11-9d47-0fdb90727035
+    normalized_title: Линијски програми
+    src: 52_Linijski programi.rst
+    title: Линијски програми
+    type: reading
+  - description: ''
+    file: 53_Petlje.html
+    guid: e976bc3e-dc21-4244-859e-5328a441ef9c
+    normalized_title: Програми са понављањем
+    src: 53_Petlje.rst
+    title: Програми са понављањем
+    type: reading
+  - description: ''
+    file: 54_Grananje.html
+    guid: 486dc900-6a8e-416b-9909-bb1aa01bf2a1
+    normalized_title: Програми са гранањем
+    src: 54_Grananje.rst
+    title: Програми са гранањем
+    type: reading
+  - description: ''
+    file: 55_Aritmetika.html
+    guid: 8e408051-983c-45ce-9707-5ba47ea4d4bf
+    normalized_title: Аритметика
+    src: 55_Aritmetika.rst
+    title: Аритметика
+    type: reading
+  - description: ''
+    file: 56_Promenljive.html
+    guid: fe79ddd7-2104-42af-ba60-4bc4fc25a6af
+    normalized_title: Променљиве вредности
+    src: 56_Promenljive.rst
+    title: Променљиве вредности
+    type: reading
+  - description: ''
+    file: 57_Razni zadaci.html
+    guid: 893d26d1-d52d-4ac3-bfc9-9c37b3cde3f6
+    normalized_title: Разни задаци
+    src: 57_Razni zadaci.rst
+    title: Разни задаци
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 5_Algoritamski nacin razmisljanja
+  guid: c93ae497-abb5-4270-9e15-8b01a6b657a8
+  normalized_title: Алгоритамски начин размишљања
+  title: Алгоритамски начин размишљања
+- activities:
+  - description: ''
+    file: 61_Mali podsetnik.html
+    guid: f9aa58cf-1f49-4dd4-8e89-81502cfd6c25
+    normalized_title: Мали подсетник
+    src: 61_Mali podsetnik.rst
+    title: Мали подсетник
+    type: quiz
+  - description: ''
+    file: 62_Linijski programi.html
+    guid: 4825f767-ef82-484e-b1c9-35c4360e587a
+    normalized_title: Линијски програми
+    src: 62_Linijski programi.rst
+    title: Линијски програми
+    type: reading
+  - description: ''
+    file: 63_Petlje.html
+    guid: 92ae8d15-b8d0-4a85-a6b8-8b181b7aae67
+    normalized_title: Програми са понављањем
+    src: 63_Petlje.rst
+    title: Програми са понављањем
+    type: reading
+  - description: ''
+    file: 64_Aritmetika.html
+    guid: 27e055f0-a383-48b3-8ad2-8ae520d98a3f
+    normalized_title: Аритметика
+    src: 64_Aritmetika.rst
+    title: Аритметика
+    type: reading
+  - description: ''
+    file: 65_Grananje.html
+    guid: 178e7d53-67eb-4d3d-8aef-87e7101da3df
+    normalized_title: Програми са гранањем
+    src: 65_Grananje.rst
+    title: Програми са гранањем
+    type: reading
+  - description: ''
+    file: 66_Promenljive.html
+    guid: ad58595a-3f82-4afd-8620-0127d4e91755
+    normalized_title: Променљиве вредности
+    src: 66_Promenljive.rst
+    title: Променљиве вредности
+    type: reading
+  - description: ''
+    file: 67_Zadaci.html
+    guid: a31cbebb-a464-4389-bacb-deea649219f7
+    normalized_title: Променљиве вредности
+    src: 67_Zadaci.rst
+    title: Променљиве вредности
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 6_Programiranje mikrobita - primeri
+  guid: bf2179f8-9056-4a59-8030-a0c31a4d4586
+  normalized_title: Примери са микробитом
+  title: Примери са микробитом
+title: Petljadoc Course
