@@ -19,12 +19,12 @@ description:
       href: https://github.com/RunestoneInteractive/overview
   longDescription: |
     This is an example of a long description...
-  shortDescription: Shrot description
+  shortDescription: Програмирање I за информатичке профиле у средњим стручним школама
 
 
 lessons:
   - title: Lesson 1
-    guid: c2c651cd-53d9-4a3d-ba4f-650b8422f0bc
+    guid: 5433d5ee-fac5-4cba-aa79-4afddd7be1a5
     description: Your first lesson. Description is not required attribute
     folder: 1_Lesson
     activities:
@@ -32,13 +32,13 @@ lessons:
         title: Intro
         file: intro.rst 
         description: #Optional
-        guid: 71c00155-f7f3-410d-8019-e88d22cb7f01
+        guid: a1a5e773-257d-4fa2-9818-f459e8e83754
       - type: video
         title: Video activity for your lesson
         decription: Nice video
         url: https://www.youtube.com/watch?v=2KYuzJKemXw
-        guid: 978760d0-a133-4ffd-af30-85fdb38aa384
+        guid: 0d368f47-4c90-4887-8fc5-9e03fbc7d321
       - type: quiz
         title: Test your students
         file: quiz.rst
-        guid: dd96bf63-e558-4540-95a6-00b96e45e3ef
+        guid: 380cf4d9-0d79-486f-8a6a-58d3adc6cf83
