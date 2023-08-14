@@ -1,13 +1,18 @@
 courseId: os4_dig_svet
-lang: en
+lang: sr-Cyrl
 title: Дигитални свет за четврти разред
 description:
   willLearn: 
-    - Preview of Petljadoc course
+    - како се уређује текст
+    - како се копира и исеца текст
+    - како се умеће слика у документ
+    - како се преузима текст са интернета
+    - како се преузима слика са интернета
+    - безбедно коришћење дигиталних уређаја
+    - како се решавају алгоритамски проблеми у визуелном програмском језику
   requirements:
-    - Petljadoc
-    - Runestone
-    - Sphinx
+    - Персонални рачунар са оперативним системом <i>Windows</i> и приступом интернету
+    - Инсталиран <i>Microsoft Word</i> на персоналном рачунару
   toc:
     - Intro to Petljadoc INDEX.yaml
   externalLinks:  
@@ -18,7 +23,17 @@ description:
     - text: Runestone Interactive
       href: https://github.com/RunestoneInteractive/overview
   longDescription: |
-    This is an example of a long description...
+    Овај курс је намењен ученицима четвртог разреда основне школе за предмет Дигитални свет. 
+    У оквиру курса детаљно су обрађене наставне теме предвиђене програмом наставе и учења за овај предмет. 
+
+    Поред рада у школи, курс се може пролазити и самостално.
+    
+    <p>
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
+    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+    <br />Овај курс Фондација Петља објавила je под лиценцом <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)</a>.
+    </p>  
+
   shortDescription: Дигитални свет за четврти разред
 
 
@@ -184,7 +199,7 @@ lessons:
         file: 66_Promenljive.rst
         guid: ad58595a-3f82-4afd-8620-0127d4e91755
       - type: reading
-        title: Променљиве вредности
+        title: Задаци за вежбу
         file: 67_Zadaci.rst
         guid: a31cbebb-a464-4389-bacb-deea649219f7
  

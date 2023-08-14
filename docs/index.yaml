@@ -1,4 +1,4 @@
-courseId: courseID
+courseId: os4_dig_svet
 description:
   externalLinks:
   - href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
@@ -9,21 +9,45 @@ description:
     text: Runestone Interactive
   longDescription: '<div class="document">
 
-    <p>This is an example of a long description...</p>
+    <p>Овај курс је намењен ученицима четвртог разреда основне школе за предмет Дигитални
+    свет.
+
+    У оквиру курса детаљно су обрађене наставне теме предвиђене програмом наставе
+    и учења за овај предмет.</p>
+
+    <p>Поред рада у школи, курс се може пролазити и самостално.</p>
+
+    <p>&lt;p&gt;
+
+    &lt;a rel=&quot;license&quot; href=&quot;<a class="reference external" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">https://creativecommons.org/licenses/by/4.0/deed.sr_LATN</a>&quot;&gt;
+
+    &lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot;
+    src=&quot;https://i.creativecommons.org/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+
+    &lt;br /&gt;Овај курс Фондација Петља објавила je под лиценцом &lt;a rel=&quot;license&quot;
+    href=&quot;https://creativecommons.org/licenses/by/4.0/deed.sr_LATN&quot;&gt;Creative
+    Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)&lt;/a&gt;.
+
+    &lt;/p&gt;</p>
 
     </div>
 
     '
   requirements:
-  - Petljadoc
-  - Runestone
-  - Sphinx
-  shortDescription: Shrot description
+  - Персонални рачунар са оперативним системом <i>Windows</i> и приступом интернету
+  - Инсталиран <i>Microsoft Word</i> на персоналном рачунару
+  shortDescription: Дигитални свет за четврти разред
   toc:
   - Intro to Petljadoc INDEX.yaml
   willLearn:
-  - Preview of Petljadoc course
-lang: en
+  - како се уређује текст
+  - како се копира и исеца текст
+  - како се умеће слика у документ
+  - како се преузима текст са интернета
+  - како се преузима слика са интернета
+  - безбедно коришћење дигиталних уређаја
+  - како се решавају алгоритамски проблеми у визуелном програмском језику
+lang: sr-Cyrl
 lessons:
 - activities:
   - description: ''
@@ -295,9 +319,9 @@ lessons:
   - description: ''
     file: 67_Zadaci.html
     guid: a31cbebb-a464-4389-bacb-deea649219f7
-    normalized_title: Променљиве вредности
+    normalized_title: Задаци за вежбу
     src: 67_Zadaci.rst
-    title: Променљиве вредности
+    title: Задаци за вежбу
     type: reading
   archived-activities: []
   description: ''
@@ -305,4 +329,4 @@ lessons:
   guid: bf2179f8-9056-4a59-8030-a0c31a4d4586
   normalized_title: Примери са микробитом
   title: Примери са микробитом
-title: Petljadoc Course
+title: Дигитални свет за четврти разред
