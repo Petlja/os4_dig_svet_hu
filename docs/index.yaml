@@ -114,10 +114,17 @@ lessons:
     title: Копирање/исецање и лепљење текста
     type: reading
   - description: ''
-    file: 16_Kviz.html
+    file: 16_Velicina i oblik slova.html
+    guid: 514d2bcc-6329-4a8a-a14a-83d55f4d3641
+    normalized_title: Величина и облик слова
+    src: 16_Velicina i oblik slova.rst
+    title: Величина и облик слова
+    type: reading
+  - description: ''
+    file: 17_Kviz.html
     guid: f852c1b8-76df-4f7d-a652-719c4799d769
     normalized_title: Квиз - уређивање текста
-    src: 16_Kviz.rst
+    src: 17_Kviz.rst
     title: Квиз - уређивање текста
     type: reading
   archived-activities: []

@@ -83,8 +83,12 @@ lessons:
         file: 15_Kopiranje_isecanje_lepljenje.rst
         guid: 2c200b12-7e7b-47e9-ad94-8a2bf687e1bc
       - type: reading
+        title: Величина и облик слова
+        file: 16_Velicina i oblik slova.rst
+        guid: 514d2bcc-6329-4a8a-a14a-83d55f4d3641
+      - type: reading
         title: Квиз - уређивање текста
-        file: 16_Kviz.rst
+        file: 17_Kviz.rst
         guid: f852c1b8-76df-4f7d-a652-719c4799d769         
   - title: Слика у документу
     guid: ab443d51-d613-4dbd-be32-c1e68b3add4a

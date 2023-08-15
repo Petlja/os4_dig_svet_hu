@@ -3,7 +3,7 @@
 
 .. quizq:: 
 
-    .. mchoice:: p161
+    .. mchoice:: p171
 	:multiple_answers:
         :correct: a, d
         :answer_a: Селектујеш жељени текст, а потом кликнеш на дугменце са ознаком B.
@@ -19,7 +19,7 @@
 
 .. quizq:: 
 
-    .. mchoice:: p162
+    .. mchoice:: p172
         :correct: a
         :answer_a: Ctrl + V
         :answer_b: Ctrl + R
@@ -35,7 +35,7 @@
 
 .. quizq:: 
 
-    .. mchoice:: p163
+    .. mchoice:: p173
         :correct: d
         :answer_a: Ctrl + V
         :answer_b: Ctrl + R
@@ -50,7 +50,7 @@
 
 .. quizq:: 
 
-    .. mchoice:: p164
+    .. mchoice:: p174
         :correct: a
         :answer_a: Да, када кликнеш на стрелицу која се налази на дугменцету са словом U, добијаш више врста линија.
         :answer_b: Не, не постоји таква могућност.
@@ -62,7 +62,7 @@
 		
 .. quizq:: 
 
-    .. mchoice:: p165
+    .. mchoice:: p175
 	:multiple_answers:
         :correct: b,c
         :answer_a: косар
@@ -78,7 +78,7 @@
 		
 .. quizq:: 
 
-    .. mchoice:: p166
+    .. mchoice:: p176
         :correct: c
         :answer_a: искошеним словима.
         :answer_b: подвученим словима.
