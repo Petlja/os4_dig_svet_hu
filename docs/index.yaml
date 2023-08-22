@@ -126,7 +126,7 @@ lessons:
     normalized_title: Квиз - уређивање текста
     src: 17_Kviz.rst
     title: Квиз - уређивање текста
-    type: reading
+    type: quiz
   archived-activities: []
   description: ''
   folder: 1_Uredjivanje teksta
@@ -207,9 +207,9 @@ lessons:
   - description: ''
     file: 41_Mali podsetnik.html
     guid: 301394f3-9f8e-40fa-be96-8992ba4f180b
-    normalized_title: Mali podsetnik
+    normalized_title: Мали подсетник
     src: 41_Mali podsetnik.rst
-    title: Mali podsetnik
+    title: Мали подсетник
     type: quiz
   - description: ''
     file: 42_Uputstvo.html
