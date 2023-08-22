@@ -45,18 +45,15 @@ lessons:
     activities:
       - type: reading
         title: Радујемо се поновном дружењу!
-        file: 00_Uvod.rst
-        description: 
+        file: 00_Uvod.rst 
         guid: 82c30d11-1b71-46fb-846f-68a9ed3062bb 
       - type: reading
         title: Уводне активности
         file: 01_Uvodne vezbe.rst
-        description: 
         guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
       - type: quiz
         title: Уводни квиз
         file: 03_Uvodni kviz.rst
-        description: 
         guid: d460f8d1-f99d-4e68-923f-bbb8169ee594
   - title: Уређивање текста
     guid: e285927b-b445-4063-baad-7091c73475b6
@@ -86,7 +83,7 @@ lessons:
         title: Величина и облик слова
         file: 16_Velicina i oblik slova.rst
         guid: 514d2bcc-6329-4a8a-a14a-83d55f4d3641
-      - type: reading
+      - type: quiz
         title: Квиз - уређивање текста
         file: 17_Kviz.rst
         guid: f852c1b8-76df-4f7d-a652-719c4799d769         
@@ -135,7 +132,7 @@ lessons:
     folder: 4_Bezbedno koriscenje digitalnih uredjaja
     activities:
       - type: quiz
-        title: Mali podsetnik
+        title: Мали подсетник
         file: 41_Mali podsetnik.rst
         guid: 301394f3-9f8e-40fa-be96-8992ba4f180b
       - type: reading
