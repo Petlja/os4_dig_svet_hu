@@ -51,7 +51,7 @@ lessons:
         title: Уводне активности
         file: 01_Uvodne vezbe.rst
         guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
-      - type: quiz
+      - type: reading
         title: Уводни квиз
         file: 03_Uvodni kviz.rst
         guid: d460f8d1-f99d-4e68-923f-bbb8169ee594
@@ -83,7 +83,7 @@ lessons:
         title: Величина и облик слова
         file: 16_Velicina i oblik slova.rst
         guid: 514d2bcc-6329-4a8a-a14a-83d55f4d3641
-      - type: quiz
+      - type: reading
         title: Квиз - уређивање текста
         file: 17_Kviz.rst
         guid: f852c1b8-76df-4f7d-a652-719c4799d769         
@@ -107,7 +107,7 @@ lessons:
         title: Додавање оквира слике
         file: 24_Dodavanje okvira slike.rst
         guid: f3756158-3a78-4ec2-bc81-bc40950c7bb8 
-      - type: quiz
+      - type: reading
         title: Квиз - уметање слике у документ
         file: 25_Kviz.rst
         guid: 28f73702-f195-4e8d-a788-587f3da548cd 
@@ -131,7 +131,7 @@ lessons:
     guid: b5516de1-a043-42fb-934f-ffdff3561349
     folder: 4_Bezbedno koriscenje digitalnih uredjaja
     activities:
-      - type: quiz
+      - type: reading
         title: Мали подсетник
         file: 41_Mali podsetnik.rst
         guid: 301394f3-9f8e-40fa-be96-8992ba4f180b
@@ -143,7 +143,7 @@ lessons:
     guid: c93ae497-abb5-4270-9e15-8b01a6b657a8
     folder: 5_Algoritamski nacin razmisljanja
     activities:
-      - type: quiz
+      - type: reading
         title: Мали подсетник
         file: 51_Mali podsetnik.rst
         guid: df092de1-d9ee-467f-ad92-c53afeba4aed
@@ -175,7 +175,7 @@ lessons:
     guid: bf2179f8-9056-4a59-8030-a0c31a4d4586
     folder: 6_Programiranje mikrobita - primeri
     activities:
-      - type: quiz
+      - type: reading
         title: Мали подсетник
         file: 61_Mali podsetnik.rst
         guid: f9aa58cf-1f49-4dd4-8e89-81502cfd6c25
