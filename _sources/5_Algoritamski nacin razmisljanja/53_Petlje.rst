@@ -191,8 +191,7 @@
 
 .. blockly-karel:: p536
   :categories: KarelCommands, Loops, KarelBrain
-  :exportmode:
-  
+
   {
       setup: function() {
            function random(n) {

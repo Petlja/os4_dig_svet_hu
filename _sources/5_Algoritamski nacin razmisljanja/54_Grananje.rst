@@ -19,7 +19,6 @@
 
 .. blockly-karel:: p542
   :categories: 
-  :exportmode:
   
   {
       setup: function() {

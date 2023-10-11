@@ -25,7 +25,6 @@
 
 .. blockly-karel:: p551
   :categories:
-  :exportmode:
 
   {
       setup: function() {
