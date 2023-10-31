@@ -70,7 +70,7 @@ lessons:
     normalized_title: Уводни квиз
     src: 03_Uvodni kviz.rst
     title: Уводни квиз
-    type: quiz
+    type: reading
   archived-activities: []
   description: ''
   folder: 0_Uvod
@@ -126,7 +126,7 @@ lessons:
     normalized_title: Квиз - уређивање текста
     src: 17_Kviz.rst
     title: Квиз - уређивање текста
-    type: quiz
+    type: reading
   archived-activities: []
   description: ''
   folder: 1_Uredjivanje teksta
@@ -168,7 +168,7 @@ lessons:
     normalized_title: Квиз - уметање слике у документ
     src: 25_Kviz.rst
     title: Квиз - уметање слике у документ
-    type: quiz
+    type: reading
   archived-activities: []
   description: ''
   folder: 2_Slika u dokumentu
@@ -210,7 +210,7 @@ lessons:
     normalized_title: Мали подсетник
     src: 41_Mali podsetnik.rst
     title: Мали подсетник
-    type: quiz
+    type: reading
   - description: ''
     file: 42_Uputstvo.html
     guid: 0a5a1231-0bdc-492c-85aa-6aa3db0a4e9a
@@ -231,7 +231,7 @@ lessons:
     normalized_title: Мали подсетник
     src: 51_Mali podsetnik.rst
     title: Мали подсетник
-    type: quiz
+    type: reading
   - description: ''
     file: 52_Linijski programi.html
     guid: 978648af-ea49-4f11-9d47-0fdb90727035
@@ -287,7 +287,7 @@ lessons:
     normalized_title: Мали подсетник
     src: 61_Mali podsetnik.rst
     title: Мали подсетник
-    type: quiz
+    type: reading
   - description: ''
     file: 62_Linijski programi.html
     guid: 4825f767-ef82-484e-b1c9-35c4360e587a
