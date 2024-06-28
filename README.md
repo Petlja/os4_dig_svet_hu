@@ -1,4 +1,4 @@
-# Digitalni svet za četvrti razred
+# Digitalni svet za četvrti razred - HU
 
 Ovaj repozitorijum posvećen je kursu za Digitalni svet za četvrti razred. 
 
