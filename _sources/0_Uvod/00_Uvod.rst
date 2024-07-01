@@ -41,12 +41,12 @@ az **első önálló mini projektjeidhez**.
 .. learnmorenote::
 
  A piros blokk azoknak szól, akik többet szeretnének megtudni. Ebben a blokkban a leckéhez kapcsolódó kiegészítő információk találhatók. 
- Mindenképp ajánljuk, hogy nézd meg, mi „rejtőzik“ benne. Ennek a blokknak a jobb oldalán van egy nyíl, amellyel kinyithatod és így láthatóvá válik tartalma.
+ Mindenképp ajánljuk, hogy nézd meg, mi „rejtőzik“ benne. Ennek a blokknak a jobb oldalán van egy nyíl, amellyel kinyithatod és így láthatóvá válik a tartalma.
  
  
 .. suggestionnote::
 
- Жути блок служи за додатна упутства, објашњења, идеје – помаже ти да разрешиш недоумице, пружа ти подршку.
+ A sárga blokk további instrukciókra, magyarázatokra, ötletekre szolgál - segít a kétségek feloldásában, támogatást nyújt.
  
 .. technicalnote::
 
