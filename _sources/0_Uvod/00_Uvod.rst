@@ -50,7 +50,7 @@ az **első önálló mini projektjeidhez**.
  
 .. technicalnote::
 
- Сиви блок је намењен за техничка упутства. Његов садржај треба да ти омогући или олакша даљи рад.
+ A szürke blokk műszaki útmutatást tartalmaz. Lehetővé teszi vagy megkönnyíti számodra a további munkát.
 
 -------------------
 
