@@ -6,7 +6,7 @@
     
 |
 
-**Дигитални свет ти и ове школске године широм отвара своја врата и жели добродошлицу!**
+**A digitális világ ebben a tanévben is megnyitja kapuit előtted és szeretettel vár!**
 
 |
 
