@@ -20,7 +20,7 @@ hogyan emeld ki a szöveg egyes részeit – félkövérré változtatva vagy al
 és hogyan helyezd el egy pontosan meghatározott helyre a dokumentumban.
 Azt tervezzük, hogy az internet segítségével **önállóan készítesz plakátot** egy adott témáról. 
 Ehhez felelevenítjük majd a digitális világban való viselkedés szabályait. Mivel most már több tapasztalattal rendelkezel, 
-**ismertető anyagot készítesz fiatalabb társaid számára**, hogy ők is tisztában legyenek azokkal a problémákkal és veszélyekkel, 
+**ismertető anyagot kell készítened fiatalabb társaid számára**, hogy ők is tisztában legyenek azokkal a problémákkal és veszélyekkel, 
 amelyekkel a digitális eszközök használata és az internet böngészése során találkozhatnak.
 
 И ове године ћеш **помагати роботу Kарелу** да сакупља лоптице, рачуна и извршава различите задатке. Kарел је, у 
