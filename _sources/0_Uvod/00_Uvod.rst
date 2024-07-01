@@ -1,4 +1,4 @@
-Örülünk, hogy ismét barátkozhatunk!
+Örülünk, hogy ismét itt vagy!
 =============================
 
 ..
