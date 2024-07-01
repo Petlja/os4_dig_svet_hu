@@ -26,9 +26,9 @@ amelyekkel a digitális eszközök használata és az internet böngészése sor
 Ebben az tanévben is **segítened kell Karel robotnak** labdákat gyűjteni, számolni és különféle feladatokat végrehajtani. 
 Közben Karel néhány új parancsot is megtanult. Most már **bonyolultabb problémákat** is meg tud oldani.
 
-Знање које стекнеш играјући се са Kарелом применићеш и на микробит. Верујемо да ће те изненадити шта све можеш да 
-урадиш са овим уређајем. Надамо се да ћеш увидети колико програмирање може бити корисно и забавно и да ћеш добити много идеја 
-за своје **прве самосталне мини пројекте**.
+A Karellal játszva szerzett tudást alkalmazni fogod a microbitnél is. Meg fogsz lepődni, mennyi mindent tudsz ezzel az eszközzel csinálni. 
+Biztosak vagyunk benne, hogy felismered, hogy milyen hasznos és szórakoztató lehet a programozás, és sok ötletet fogsz kapni 
+az **első önálló mini projektjeidhez**.
 
 -------------------
 
