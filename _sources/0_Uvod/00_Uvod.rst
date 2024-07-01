@@ -9,13 +9,12 @@
 **A digitális világ ebben a tanévben is megnyitja kapuit előtted és szeretettel vár!**
 
 |
+Mit készítettünk számodra ezúttal?
 
-Шта смо овог пута припремили за тебе? 
+Sok érdekes és hasznos lecke illetve tevékenység vár rád.
 
-Очекује те много интересантних, пре свега корисних лекција и активности.
-
-Већ знаш како се уноси текст у документ на рачунару. Направићеш следећи корак – научићеш **како да га уредиш**, 
-да истакнеш његове делове - подебљаш или подвучеш неку реч, искосиш слова, промениш им боју и облик.
+Már tudod, hogyan kell szöveget bevinni egy dokumentumba a számítógépen. Most meg fogod tenni a következő lépést – megtanulod **hogyan szerkeszd**, 
+hogyan emeld ki a szöveg egyes részeit – félkövérré változtatva vagy aláhúzva egy szót, dőltté téve a betűket, megváltoztatva azok színét és formáját.
 
 **Допунићеш своје документе сликама**. Објаснићемо ти како да подесиш величину слике, додаш јој оквир, поставиш је 
 на тачно одређено место у документу.
