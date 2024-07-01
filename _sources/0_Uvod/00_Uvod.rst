@@ -54,15 +54,15 @@ az **első önálló mini projektjeidhez**.
 
 -------------------
 
-После сваке лекције очекује те кратак квиз, који ће ти помоћи да провериш да ли си све добро разумео.
+Minden lecke után egy rövid kvíz vár rád, amely segít ellenőrizni, hogy jól megértetted-e a tananyagot.
 
-Важно је да пажљиво прочиташ и поруке које ће се појавити када одговориш на питање. У њима ће писати да ли је одговор тачан или не. Ако погрешиш, 
-не брини, грешке су део сваког учења. Важно је да на њих обратимо пажњу и тако из њих учимо.
+Fontos, hogy figyelmesen olvasd el azokat az üzeneteket, amelyek a válaszaid után megjelennek. Ezek jelzik, hogy a válaszod helyes volt-e. 
+Ha hibázol, ne aggódj, a hibák a tanulás részét képezik. Fontos, hogy figyelmet fordítsunk rájuk, és így tanuljunk belőlük.
 
-Иако је већина уџбеника за твој узраст украшена бројним скицама и цртаним ликовима који те воде кроз лекције и 
-усмеравају те, у овом приручнику их нема. Идеја нам је да што јасније прикажемо оно што треба да разумеш и начин на 
-који нешто треба да урадиш. Највећи украс, овог пута, треба да буду управо твоји радови – дигитални цртежи, документа, 
-плакати, анимације на микробиту.
+Habár a korosztályod számára készült tankönyvek többsége számos ábrát és rajzfigurát tartalmaz, amelyek végigvezetnek a leckéken és irányítanak téged, 
+ebben a digitális tankönyvben nincsenek ilyenek. Az a célunk, hogy minél világosabban bemutassuk azt, amit meg kell értened és azt, 
+hogy miként valamit megcsinálni. E tankönyv legszebb illusztrációi a te munkáid legyenek – az általad készített digitális rajzok, 
+dokumentumok, plakátok, microbit animációk!
 
 .. infonote::
 
