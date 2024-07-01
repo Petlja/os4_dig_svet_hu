@@ -66,7 +66,7 @@ dokumentumok, plakátok, microbit animációk!
 
 .. infonote::
 
- Пажљиво читај сваку реченицу и прати упутства. До циља скоро увек води више различитих путева. Можда откријеш лакши и једноставнији начин да урадиш нешто што одраније већ знаш.
+ Figyelmesen olvass el minden mondatot, és kövesd az utasításokat. A célhoz szinte mindig több különböző út vezet. Lehet, hogy felfedezel egy könnyebb és egyszerűbb módot arra, hogy megcsinálj valamit, amit már korábban is ismertél.
 
 |
 
