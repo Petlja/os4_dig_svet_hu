@@ -36,8 +36,7 @@ az **első önálló mini projektjeidhez**.
  
 .. questionnote::
  
- Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés.
-E kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
+ Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés.  E kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
  
 .. learnmorenote::
 
