@@ -32,8 +32,8 @@ az **első önálló mini projektjeidhez**.
 
 -------------------
 
-.. infonote:: A szöveg bizonyos részei különböző színű blokkokban vannak elhelyezve. A felkiáltójellel ellátott kék blokk azt jelenti, 
-hogy ez egy fontos információ, amire különös figyelmet kell fordítani. A lecke végén rövid emlékeztetőként is fogjuk használni.
+.. infonote:: 
+A szöveg bizonyos részei különböző színű blokkokban vannak elhelyezve. A felkiáltójellel ellátott kék blokk azt jelenti, hogy ez egy fontos információ, amire különös figyelmet kell fordítani. A lecke végén rövid emlékeztetőként is fogjuk használni.
  
 .. questionnote::
  
