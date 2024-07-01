@@ -23,8 +23,8 @@ Ehhez felelevenítjük majd a digitális világban való viselkedés szabályait
 **ismertető anyagot kell készítened fiatalabb társaid számára**, hogy ők is tisztában legyenek azokkal a problémákkal és veszélyekkel, 
 amelyekkel a digitális eszközök használata és az internet böngészése során találkozhatnak.
 
-И ове године ћеш **помагати роботу Kарелу** да сакупља лоптице, рачуна и извршава различите задатке. Kарел је, у 
-међувремену, научио неколико нових наредби. Сада решава и **мало сложеније проблеме**.
+Ebben az tanévben is **segítened kell Karel robotnak** labdákat gyűjteni, számolni és különféle feladatokat végrehajtani. 
+Közben Karel néhány új parancsot is megtanult. Most már **bonyolultabb problémákat** is meg tud oldani.
 
 Знање које стекнеш играјући се са Kарелом применићеш и на микробит. Верујемо да ће те изненадити шта све можеш да 
 урадиш са овим уређајем. Надамо се да ћеш увидети колико програмирање може бити корисно и забавно и да ћеш добити много идеја 
