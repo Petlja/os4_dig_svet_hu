@@ -16,12 +16,12 @@ Sok érdekes és hasznos lecke illetve tevékenység vár rád.
 Már tudod, hogyan kell szöveget bevinni egy dokumentumba a számítógépen. Most meg fogod tenni a következő lépést – megtanulod **hogyan szerkeszd**, 
 hogyan emeld ki a szöveg egyes részeit – félkövérré változtatva vagy aláhúzva egy szót, dőltté téve a betűket, megváltoztatva azok színét és formáját.
 
-**Допунићеш своје документе сликама**. Објаснићемо ти како да подесиш величину слике, додаш јој оквир, поставиш је 
-на тачно одређено место у документу.
-Предвидели смо и да, уз мало истраживања по интернету, **самостално направиш плакат** на одређену тему. 
-Подсетићеш се још једном правила понашања у дигиталном свету. Пошто сада имаш више искуства, **припремићеш материјал 
-за своје млађе другаре** како би и они били упознати са којим проблемима и опасностима могу да се сусретну током 
-коришћења дигиталних уређаја и претраживања интернета. 
+**Megtanulod majd képekkel kiegészíteni a dokumentumaidat**. Megmagyarázzuk, hogyan állítsd be a kép méretét, miként adj neki keretet, 
+és hogyan helyezd el egy pontosan meghatározott helyre a dokumentumban.
+Azt tervezzük, hogy az internet segítségével **önállóan készítesz plakátot** egy adott témáról. 
+Ehhez felelevenítjük majd a digitális világban való viselkedés szabályait. Mivel most már több tapasztalattal rendelkezel, 
+**ismertető anyagot készítesz fiatalabb társaid számára**, hogy ők is tisztában legyenek azokkal a problémákkal és veszélyekkel, 
+amelyekkel a digitális eszközök használata és az internet böngészése során találkozhatnak.
 
 И ове године ћеш **помагати роботу Kарелу** да сакупља лоптице, рачуна и извршава различите задатке. Kарел је, у 
 међувремену, научио неколико нових наредби. Сада решава и **мало сложеније проблеме**.
