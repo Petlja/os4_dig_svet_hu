@@ -37,7 +37,7 @@ A szöveg bizonyos részei különböző színű blokkokban vannak elhelyezve. A
  
 .. questionnote::
  
- Када наиђеш на блок са знаком питања, застани и размисли. Обично се у овом блоку налази текст задатка или неко питање. 
+ Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés. E kérdésekre adott válaszok az óra további részéhez kapcsolódnak. Када наиђеш на блок са знаком питања, застани и размисли. Обично се у овом блоку налази текст задатка или неко питање. 
  Одговори на ова питања повезани су са остатком лекције.
  
 .. learnmorenote::
