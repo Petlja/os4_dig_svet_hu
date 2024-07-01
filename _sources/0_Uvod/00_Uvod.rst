@@ -36,13 +36,12 @@ az **első önálló mini projektjeidhez**.
  
 .. questionnote::
  
- Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés.  E kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
+ Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés. E kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
  
 .. learnmorenote::
 
- Црвени блок намењен је читаоцима који желе да науче више. У њему се налазе додаци лекцији коју читаш. 
- Свакако, препоручујемо ти да погледаш шта се у њему „крије“. Овај блок са десне стране има стрелицу која омогућава да се прошири и постане 
- видљиво шта у њему пише.
+ A piros blokk azoknak szól, akik többet szeretnének megtudni. Ebben a blokkban a leckéhez kapcsolódó kiegészítő információk találhatók. 
+ Mindenképp ajánljuk, hogy nézd meg, mi „rejtőzik“ benne. Ennek a blokknak a jobb oldalán van egy nyíl, amellyel kinyithatod és így láthatóvá válik tartalma.
  
  
 .. suggestionnote::
