@@ -1,4 +1,4 @@
- szöveg színének megváltoztatása
+A szöveg színének megváltoztatása
 =================================
 
 Ahogy papírra írás közben néha színes ceruzákat vagy filctollakat is használsz, úgy a Wordben is megváltoztathatod a betűk színét.
