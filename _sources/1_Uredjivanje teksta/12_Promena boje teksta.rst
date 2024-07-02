@@ -1,4 +1,4 @@
-A szöveg színének megváltoztatása
+ szöveg színének megváltoztatása
 =================================
 
 Ahogy papírra írás közben néha színes ceruzákat vagy filctollakat is használsz, úgy a Wordben is megváltoztathatod a betűk színét.
@@ -45,6 +45,8 @@ Annak érdekében, hogy minél jobban begyakorold a bemutatott eljárásokat, b�
 |
 	
 Ahogy a szöveg félkövérré tételét elvégezheted a billentyűzettel, úgy a visszalépést is elvégezheted a **Ctrl + Z** billentyűkombinációval.
+
+Ezt a szöveget később is használni fogjuk. Mentsd el a változtatásokat és zárd be.
 
 .. infonote::
 
