@@ -35,8 +35,8 @@ Amikor az egeret a gomb fölé viszed, megjelenik egy szövegdoboz **Ctrl + B** 
 
  Ha félkövérré szeretnéd alakítani a szöveget a billentyűzet segítségével, használd a **Ctrl + B** billentyűkombinációt.
  
-Селектуј мишем речи *Линијски програми*, којима почиње трећи пасус, и притисни на тастатури тастер **Ctrl**. 
-Затим (и даље држећи притиснуто **Ctrl**) притисни и слово **B** (Б ћирилицом). Да ли си успешно подебљао слова ове речи? 
+Jelöld ki az egérrel a *Lineáris programok* szavakat, amelyekkel a harmadik bekezdés kezdődik, és nyomd meg a billentyűzeten a **Ctrl** gombot.
+Ezután (továbbra is nyomva tartva a **Ctrl**-t) nyomd meg a B betűt. Sikerült megvastagítanod ezeknek a szavaknak a betűit?
 
 .. questionnote::
 
