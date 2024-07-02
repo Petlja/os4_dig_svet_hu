@@ -38,169 +38,169 @@ description:
 
 
 lessons:
-  - title: Уводне активности
+  - title: Első lépések
     guid: e34fdbcc-d9f3-4ccd-a217-0149708d13f1
     description:
     folder: 0_Uvod
     activities:
       - type: reading
-        title: Радујемо се поновном дружењу!
+        title: Örülünk, hogy ismét itt vagy!
         file: 00_Uvod.rst 
         guid: 82c30d11-1b71-46fb-846f-68a9ed3062bb 
       - type: reading
-        title: Уводне активности
+        title: Bevezető tevékenységek
         file: 01_Uvodne vezbe.rst
         guid: 1eb5ca5d-6188-4e65-8105-3658f135b19b
       - type: reading
-        title: Уводни квиз
+        title: Bevezető kvíz
         file: 03_Uvodni kviz.rst
         guid: d460f8d1-f99d-4e68-923f-bbb8169ee594
-  - title: Уређивање текста
+  - title: Szövegszerkesztés
     guid: e285927b-b445-4063-baad-7091c73475b6
     folder: 1_Uredjivanje teksta
     activities:
       - type: reading
-        title: Подебљан текст
+        title: Félkövér betűs szöveg
         file: 11_Podebljan tekst.rst
         guid: 1c701ad5-a389-4d0f-93de-11953709f21c
       - type: reading
-        title: Промена боје текста
+        title: A szöveg színének megváltoztatása
         file: 12_Promena boje teksta.rst
         guid: 42938e84-89b0-4fdc-843b-71e64296371f
       - type: reading
-        title: Искошен текст
+        title: Dőlt betűs szöveg
         file: 13_Iskosen tekst.rst
         guid: 9321adf0-25d7-4846-858b-53940451b6bd
       - type: reading
-        title: Подвучен текст
+        title: Aláhúzott szöveg
         file: 14_Podvucen tekst.rst
         guid: f2557582-9004-4a80-ac40-0a0f5f4210e0
       - type: reading
-        title: Копирање/исецање и лепљење текста
+        title: Szöveg másolása/kivágása és beillesztése
         file: 15_Kopiranje_isecanje_lepljenje.rst
         guid: 2c200b12-7e7b-47e9-ad94-8a2bf687e1bc
       - type: reading
-        title: Величина и облик слова
+        title: Betűméret és betűtípus
         file: 16_Velicina i oblik slova.rst
         guid: 514d2bcc-6329-4a8a-a14a-83d55f4d3641
       - type: reading
-        title: Квиз - уређивање текста
+        title: Kvíz - Szövegszerkesztés
         file: 17_Kviz.rst
         guid: f852c1b8-76df-4f7d-a652-719c4799d769         
-  - title: Слика у документу
+  - title: Kép a dokumentumban
     guid: ab443d51-d613-4dbd-be32-c1e68b3add4a
     folder: 2_Slika u dokumentu
     activities:
       - type: reading
-        title: Уметање слике у документ
+        title: Kép beillesztése a dokumentumba
         file: 21_Umetanje slike u dokument.rst
         guid: 065a3d10-0411-4616-af26-0bfa2cc008b8
       - type: reading
-        title: Величина слике
+        title: A kép mérete
         file: 22_Velicina slike.rst
         guid: 28f80caa-4596-450c-a344-62c6955b083a
       - type: reading
-        title: Позиција слике у односу на текст
+        title: A kép helyzete a szöveghez viszonyítva
         file: 23_Pozicija slike.rst
         guid: 453fffc3-cb16-4e2b-a25d-098349a3cd9e  
       - type: reading
-        title: Додавање оквира слике
+        title: Képszegély hozzáadása
         file: 24_Dodavanje okvira slike.rst
         guid: f3756158-3a78-4ec2-bc81-bc40950c7bb8 
       - type: reading
-        title: Квиз - уметање слике у документ
+        title: Kvíz - Kép beillesztése a dokumentumba
         file: 25_Kviz.rst
         guid: 28f73702-f195-4e8d-a788-587f3da548cd 
-  - title: Пројектни задатак
+  - title: Projektfeladat
     guid: 30ece6d1-bcd0-496d-a205-40d29f418b73
     folder: 3_Projektni zadatak
     activities:
       - type: reading
-        title: Опис пројектног задатка
+        title: A projektfeladat leírása
         file: 31_Projektni zadatak.rst
         guid: 42659138-0db6-44cb-8b13-9d65f1e189a2
       - type: reading
-        title: Преузимање текста са интернета
+        title: Szöveg letöltése az internetről
         file: 32_Preuzimanje teksta.rst
         guid: bb7f4762-78cd-44f4-b7a2-270534d3a26b
       - type: reading
-        title: Преузимање слике са интернета
+        title: Kép letöltése az internetről
         file: 33_Preuzimanje slike.rst
         guid: 4c9b9bfa5-7923-4a02-b83f-1bdb8d5deeea
-  - title: Безбедно коришћење дигиталних уређаја
+  - title: A digitális eszközök biztonságos használata
     guid: b5516de1-a043-42fb-934f-ffdff3561349
     folder: 4_Bezbedno koriscenje digitalnih uredjaja
     activities:
       - type: reading
-        title: Мали подсетник
+        title: Egy kis emlékeztető
         file: 41_Mali podsetnik.rst
         guid: 301394f3-9f8e-40fa-be96-8992ba4f180b
       - type: reading
-        title: Опис појектног задатка
+        title: A projektfeladat leírása
         file: 42_Uputstvo.rst
         guid: 0a5a1231-0bdc-492c-85aa-6aa3db0a4e9a      
-  - title: Алгоритамски начин размишљања
+  - title: Algoritmikus gondolkodásmód
     guid: c93ae497-abb5-4270-9e15-8b01a6b657a8
     folder: 5_Algoritamski nacin razmisljanja
     activities:
       - type: reading
-        title: Мали подсетник
+        title: Egy kis emlékeztető
         file: 51_Mali podsetnik.rst
         guid: df092de1-d9ee-467f-ad92-c53afeba4aed
       - type: reading
-        title: Линијски програми
+        title: Lineáris programok
         file: 52_Linijski programi.rst
         guid: 978648af-ea49-4f11-9d47-0fdb90727035   
       - type: reading
-        title: Програми са понављањем
+        title: Ismétlődő programok
         file: 53_Petlje.rst
         guid: e976bc3e-dc21-4244-859e-5328a441ef9c  
       - type: reading
-        title: Програми са гранањем
+        title: Elágazó programok
         file: 54_Grananje.rst
         guid: 486dc900-6a8e-416b-9909-bb1aa01bf2a1  
       - type: reading
-        title: Аритметика
+        title: Aritmetika
         file: 55_Aritmetika.rst
         guid: 8e408051-983c-45ce-9707-5ba47ea4d4bf 
       - type: reading
-        title: Променљиве вредности
+        title: Változó értékek
         file: 56_Promenljive.rst
         guid: fe79ddd7-2104-42af-ba60-4bc4fc25a6af
       - type: reading
-        title: Разни задаци
+        title: Feladatok
         file: 57_Razni zadaci.rst
         guid: 893d26d1-d52d-4ac3-bfc9-9c37b3cde3f6
-  - title: Примери са микробитом
+  - title: Micro:bit példák
     guid: bf2179f8-9056-4a59-8030-a0c31a4d4586
     folder: 6_Programiranje mikrobita - primeri
     activities:
       - type: reading
-        title: Мали подсетник
+        title: Egy kis emlékeztető
         file: 61_Mali podsetnik.rst
         guid: f9aa58cf-1f49-4dd4-8e89-81502cfd6c25
       - type: reading
-        title: Линијски програми
+        title: Lineáris programok
         file: 62_Linijski programi.rst
         guid: 4825f767-ef82-484e-b1c9-35c4360e587a  
       - type: reading
-        title: Програми са понављањем
+        title: Ismétlődő programok
         file: 63_Petlje.rst
         guid: 92ae8d15-b8d0-4a85-a6b8-8b181b7aae67 
       - type: reading
-        title: Аритметика
+        title: Aritmetika
         file: 64_Aritmetika.rst
         guid: 27e055f0-a383-48b3-8ad2-8ae520d98a3f 
       - type: reading
-        title: Програми са гранањем
+        title: Elágazó programok
         file: 65_Grananje.rst
         guid: 178e7d53-67eb-4d3d-8aef-87e7101da3df 
       - type: reading
-        title: Променљиве вредности
+        title: Változó értékek
         file: 66_Promenljive.rst
         guid: ad58595a-3f82-4afd-8620-0127d4e91755
       - type: reading
-        title: Задаци за вежбу
+        title: Gyakorló feladatok
         file: 67_Zadaci.rst
         guid: a31cbebb-a464-4389-bacb-deea649219f7
  
