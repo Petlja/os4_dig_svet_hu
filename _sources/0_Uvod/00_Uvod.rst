@@ -11,23 +11,23 @@
 |
 Mit készítettünk számodra ezúttal?
 
-Sok érdekes és hasznos lecke illetve tevékenység vár rád.
+Sok érdekes és hasznos lecke, illetve tevékenység vár rád.
 
-Már tudod, hogyan kell szöveget bevinni egy dokumentumba a számítógépen. Most meg fogod tenni a következő lépést – megtanulod **hogyan szerkeszd**, 
+Már tudod, hogyan kell a szöveget bevinni egy dokumentumba a számítógépen. Most meg fogod tenni a következő lépést – megtanulod **hogyan szerkeszd** a szöveget, 
 hogyan emeld ki a szöveg egyes részeit – félkövérré változtatva vagy aláhúzva egy szót, dőltté téve a betűket, megváltoztatva azok színét és formáját.
 
 **Megtanulod majd képekkel kiegészíteni a dokumentumaidat**. Megmagyarázzuk, hogyan állítsd be a kép méretét, miként adj neki keretet, 
 és hogyan helyezd el egy pontosan meghatározott helyre a dokumentumban.
-Azt tervezzük, hogy az internet segítségével **önállóan készítesz plakátot** egy adott témáról. 
-Ehhez felelevenítjük majd a digitális világban való viselkedés szabályait. Mivel most már több tapasztalattal rendelkezel, 
+Azt tervezzük, hogy az internet segítségével **önállóan fogsz készíteni plakátot** egy adott témáról. 
+Ezért fel fogjuk eleveníteni a digitális világban követendő viselkedés szabályait. Mivel most már több tapasztalattal rendelkezel, 
 **ismertető anyagot kell készítened fiatalabb társaid számára**, hogy ők is tisztában legyenek azokkal a problémákkal és veszélyekkel, 
 amelyekkel a digitális eszközök használata és az internet böngészése során találkozhatnak.
 
-Ebben az tanévben is **segítened kell Karel robotnak** labdákat gyűjteni, számolni és különféle feladatokat végrehajtani. 
+Ebben a tanévben is **segítened kell Karel robotnak** labdákat gyűjteni, számolni és különféle feladatokat végrehajtani. 
 Közben Karel néhány új parancsot is megtanult. Most már **bonyolultabb problémákat** is meg tud oldani.
 
-A Karellal játszva szerzett tudást alkalmazni fogod a microbitnél is. Meg fogsz lepődni, mennyi mindent tudsz ezzel az eszközzel csinálni. 
-Biztosak vagyunk benne, hogy felismered, hogy milyen hasznos és szórakoztató lehet a programozás, és sok ötletet fogsz kapni 
+A Karellal játszva szerzett tudást alkalmazni fogod a microbitnél is. Meg fogsz lepődni, mennyi mindent tudsz majd ezzel az eszközzel csinálni.
+Biztosak vagyunk benne, hogy felismered, hogy milyen hasznos és szórakoztató lehet a programozás, és sok ötleted támad majd 
 az **első önálló mini projektjeidhez**.
 
 -------------------
@@ -36,12 +36,12 @@ az **első önálló mini projektjeidhez**.
  
 .. questionnote::
  
- Amikor egy kérdőjeles blokkra bukkansz, állj meg és gondolkodj el. Általában ebben a blokkban található a feladat szövege vagy egy kérdés. E kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
+ Amikor egy kérdőjeles blokkra bukkansz, állj meg, és gondolkozz! Általában ebben a blokkban található a feladat szövege vagy egy kérdés. Az ezekre a kérdésekre adott válaszok az óra további részéhez kapcsolódnak.
  
 .. learnmorenote::
 
- A piros blokk azoknak szól, akik többet szeretnének megtudni. Ebben a blokkban a leckéhez kapcsolódó kiegészítő információk találhatók. 
- Mindenképp ajánljuk, hogy nézd meg, mi „rejtőzik“ benne. Ennek a blokknak a jobb oldalán van egy nyíl, amellyel kinyithatod és így láthatóvá válik a tartalma.
+ A piros blokk azoknak szól, akik többet szeretnének megtudni. Ebben a blokkban a leckéhez kapcsolódó kiegészítő információk találhatók.
+ Mindenképpen ajánljuk, hogy nézd meg, mi „rejtőzik“ benne. Ennek a blokknak a jobb oldalán van egy nyíl, amellyel kinyithatod a tartalmát, és így láthatóvá válik.
  
  
 .. suggestionnote::
@@ -54,19 +54,19 @@ az **első önálló mini projektjeidhez**.
 
 -------------------
 
-Minden lecke után egy rövid kvíz vár rád, amely segít ellenőrizni, hogy jól megértetted-e a tananyagot.
+Minden lecke után egy rövid kvíz vár rád, amely segít abban, hogy ellenőrizhesd, jól megértetted-e a tananyagot.
 
-Fontos, hogy figyelmesen olvasd el azokat az üzeneteket, amelyek a válaszaid után megjelennek. Ezek jelzik, hogy a válaszod helyes volt-e. 
+Fontos, hogy figyelmesen olvasd el azokat az üzeneteket, amelyek a válaszaid után megjelennek. Ezek jelzik, hogy a válaszod helyes volt-e.
 Ha hibázol, ne aggódj, a hibák a tanulás részét képezik. Fontos, hogy figyelmet fordítsunk rájuk, és így tanuljunk belőlük.
 
 Habár a korosztályod számára készült tankönyvek többsége számos ábrát és rajzfigurát tartalmaz, amelyek végigvezetnek a leckéken és irányítanak téged, 
-ebben a digitális tankönyvben nincsenek ilyenek. Az a célunk, hogy minél világosabban bemutassuk azt, amit meg kell értened és azt, 
-hogy miként valamit megcsinálni. E tankönyv legszebb illusztrációi a te munkáid legyenek – az általad készített digitális rajzok, 
+ebben a digitális tankönyvben nincsenek ilyenek. Az a célunk, hogy minél világosabban bemutassuk azt, amit meg kell értened, és az, 
+hogy miként kell valamit megcsinálnod. E tankönyv legszebb illusztrációi a te munkáid legyenek – az általad készített digitális rajzok, 
 dokumentumok, plakátok, microbit animációk!
 
 .. infonote::
 
- Figyelmesen olvass el minden mondatot, és kövesd az utasításokat. A célhoz szinte mindig több különböző út vezet. Lehet, hogy felfedezel egy könnyebb és egyszerűbb módot arra, hogy megcsinálj valamit, amit már korábban is ismertél.
+ Figyelmesen olvass el minden mondatot, és kövesd az utasításokat. A célhoz szinte mindig többféle út vezet. Lehet, hogy felfedezel egy könnyebb és egyszerűbb módot arra, hogy megcsinálj valamit, amit már korábban is ismertél.
 
 |
 
