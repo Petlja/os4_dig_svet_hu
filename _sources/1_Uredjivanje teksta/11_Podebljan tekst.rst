@@ -48,8 +48,8 @@ Ezután (továbbra is nyomva tartva a **Ctrl**-t) nyomd meg a B betűt. Sikerül
 
 .. questionnote::
 
- Још једном пажљиво прочитај текст. О чему говори? Који су појмови објашњени? Подебљај кључне речи. 
+ Olvasd el újra figyelmesen a szöveget. Miről szól? Mely fogalmak vannak elmagyarázva? Emeld ki a kulcsszavakat félkövér betűkkel. 
  
- Које си речи изабрао и због чега?
+ Mely szavakat választottad, és miért?
  
 
