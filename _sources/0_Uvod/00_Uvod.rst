@@ -66,7 +66,7 @@ dokumentumok, plakátok, microbit animációk!
 
 .. infonote::
 
- Figyelmesen olvass el minden mondatot, és kövesd az utasításokat. A célhoz szinte mindig többféle út vezet. Lehet, hogy felfedezel egy könnyebb és egyszerűbb módot arra, hogy megcsinálj valamit, amit már korábban is ismertél.
+ Figyelmesen olvass el minden mondatot, és kövesd az utasításokat! A célhoz szinte mindig többféle út vezet. Lehet, hogy felfedezel egy könnyebb és egyszerűbb módot arra, hogy megcsinálj valamit, amit már korábban is ismertél.
 
 |
 
