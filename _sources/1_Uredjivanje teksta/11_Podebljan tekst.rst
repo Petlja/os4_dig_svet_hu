@@ -40,7 +40,7 @@ Ezután (továbbra is nyomva tartva a **Ctrl**-t) nyomd meg a B betűt. Sikerül
 
 .. questionnote::
 
- Који ти је начин лакши – преко тастатуре или кликом на дугменце?
+ Melyik módszer könnyebb számodra – a billentyűzet használata vagy a gombra kattintás?
 
 .. image:: ../../_images/bold2.png
 	:width: 800
