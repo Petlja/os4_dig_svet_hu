@@ -12,16 +12,16 @@
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Amikor új rajzot szeretnél megnyitni a Paintben, a *Fájl* elemre kattintasz, majd az alábbiakra:
+        Amikor új rajzot szeretnél megnyitni a Paintben, a *File* elemre kattintasz, majd az alábbiakra:
 
 .. mchoice:: p032
         :correct: a
-        :answer_a: Да, за то служи иконица са словом А.
-        :answer_b: Не, Бојанка служи само за цртање.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
+        :answer_a: Igen, erre szolgál az A betűs ikon. 
+        :answer_b: Nincs, mert a Paint csak rajzolásra szolgál. 
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz nem helyes. 
 
-        Да ли у Бојанци имаш могућност да додаш текст на слику?
+        Van lehetőséged a Paintben szöveget hozzáadni a képhez?
 		
 .. mchoice:: p033
         :correct: b
