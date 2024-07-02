@@ -61,7 +61,7 @@ Ha hibázol, ne aggódj, a hibák a tanulás részét képezik. Fontos, hogy fig
 
 Habár a korosztályod számára készült tankönyvek többsége számos ábrát és rajzfigurát tartalmaz, amelyek végigvezetnek a leckéken és irányítanak téged, 
 ebben a digitális tankönyvben nincsenek ilyenek. Az a célunk, hogy minél világosabban bemutassuk azt, amit meg kell értened, és az, 
-hogy miként kell valamit megcsinálnod. E tankönyv legszebb illusztrációi a te munkáid legyenek – az általad készített digitális rajzok, 
+hogy megmagyarázzuk, miként kell valamit megcsinálnod. E tankönyv legszebb illusztrációi a te munkáid legyenek – az általad készített digitális rajzok, 
 dokumentumok, plakátok, microbit animációk!
 
 .. infonote::
