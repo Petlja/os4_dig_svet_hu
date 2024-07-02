@@ -32,7 +32,7 @@ A feladat a következő:
 	
 .. questionnote:: 
 
- Овако је слику нацртао Марко. По чему се твоја идеја разликује од његове?
+ Márk így rajzolta a képet. Miben különbözik a te ötleted az övétől?
  
  
 Уводна вежба 2
