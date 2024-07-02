@@ -28,9 +28,8 @@ Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a c
 	:width: 800
 	:align: center
 
-Кликни на дугменце са ознаком **B** (2). Да ли си успешно променио дебљину слова?
-Када приближиш миша овом дугменцету, појавиће се и оквир са текстом **Ctrl + B**. То је комбинација тастера помоћу које 
-можеш да урадиш исту радњу – да подебљаш изабран текст. 
+Kattints a **B** jelű gombra (2). Sikerült megváltoztatni a betűk vastagságát?
+Amikor az egeret a gomb fölé viszed, megjelenik egy szövegdoboz **Ctrl + B** felirattal. Ez a billentyűkombináció ugyanezt a műveletet végzi el – azaz megvastagítja a kijelölt szöveget.
 
 .. infonote::
 
