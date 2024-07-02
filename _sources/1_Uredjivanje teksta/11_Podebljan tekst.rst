@@ -11,9 +11,9 @@ Félkövér betűs szöveg
 
 .. questionnote::
 
- Прелистај било који од уџбеника које користиш. Да ли је сав текст написан на исти начин? 
- Да ли си уочио неке речи које су написане подебљаним словима? 
- Због чега су издвојене баш те речи? Шта су аутори желели тиме да постигну?
+ Lapozz bele bármelyik tankönyvbe, amit használsz. Minden szöveg ugyanúgy van írva? 
+ Észrevettél olyan szavakat, amelyek vastag betűkkel vannak írva? 
+ Miért emelték ki pont ezeket a szavakat? Mit akartak ezzel elérni a szerzők?
  
 Један од начина да се истакне нека значајна реч у тексту (или део текста) јесте да се напише **подебљаним словима**. 
 Можеш чути да неко каже и „масним словима“. На овај начин текст постаје прегледнији, а оно што је у њему важно лакше 
