@@ -37,16 +37,16 @@ Bevezető kvíz
 .. mchoice:: p034
         :multiple_answers:
         :correct: b, d
-        :answer_a: На небу има пуно облака.Падаће киша.
-        :answer_b: Тамара иде у други разред музичке школе „Јован Бандур“.
-        :answer_c: Здраво, Весна ! Много сам срећна што те видим.
-        :answer_d: Влада има папагаја Жику. Анђелин папагај се зове Тикица.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор је тачан. 
+        :answer_a: Sok felhő van az égen.Esni fog.
+        :answer_b: Tünde a Bartók Béla Zeneiskola második osztályába jár.
+        :answer_c: Szia, Vera ! Nagyon örülök, hogy látlak.
+        :answer_d: Vincének van egy papagája, Gyurinak hívják. Angéla papagáját Tinának hívják.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz helyes. 
 
-        Означи правилно написане реченице (обрати пажњу на дигитални правопис!):
+        Jelöld meg a helyesen írt mondatokat (figyelj a digitális helyesírásra!):
 
 .. mchoice:: p035
         :correct: b
