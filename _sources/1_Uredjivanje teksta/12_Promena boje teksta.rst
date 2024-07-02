@@ -44,10 +44,7 @@ Annak érdekében, hogy minél jobban begyakorold a bemutatott eljárásokat, b�
 
 |
 	
-Као што подебљавање текста можеш да урадиш преко тастатуре тако за враћање корак уназад можеш да користиш 
-комбинацију **Ctrl + Z**. 
-
-Овај текст ћемо користити и касније. Сачувај измене и затвори га.
+Ahogy a szöveg félkövérré tételét elvégezheted a billentyűzettel, úgy a visszalépést is elvégezheted a **Ctrl + Z** billentyűkombinációval.
 
 .. infonote::
 
