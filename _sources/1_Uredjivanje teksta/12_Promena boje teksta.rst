@@ -24,12 +24,12 @@ Az eredmény a következő:
 	:width: 800
 	:align: center
 	
-Наслов је написан бојом коју си изабрао, у нашем случају плавом. Промени боју још неких делова текста.
+A cím az általad választott színnel, jelen esetben kékkel lett kiírva. Változtasd meg a szöveg további részeinek színét is.
 
 .. questionnote::
 
- Размисли, у којим је ситуацијама оправдано и подебљавање и бојење истог текста? Шта ако то урадимо, а није потребно – 
- да ли ће текст бити једнако читљив? Погледај свој документ после измена које су направљене. Да ли је сада прегледнији? 
+ Gondold át, milyen helyzetekben indokolt ugyanazt a szöveget félkövérré és színessé is változtatni? Mi történik, ha ezt szükségtelenül tesszük meg –  
+ ugyanolyan olvasható lesz a szöveg? Nézd meg a dokumentumodat a változtatások után. Áttekinthetőbb lett így?
 
 Како би што боље увежбао технике које објашњавамо, слободно испробај различите могућности!
 
