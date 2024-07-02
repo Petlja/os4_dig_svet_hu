@@ -31,12 +31,12 @@ A cím az általad választott színnel, jelen esetben kékkel lett kiírva. Vá
  Gondold át, milyen helyzetekben indokolt ugyanazt a szöveget félkövérré és színessé is változtatni? Mi történik, ha ezt szükségtelenül tesszük meg –  
  ugyanolyan olvasható lesz a szöveg? Nézd meg a dokumentumodat a változtatások után. Áttekinthetőbb lett így?
 
-Како би што боље увежбао технике које објашњавамо, слободно испробај различите могућности!
+Annak érdekében, hogy minél jobban begyakorold a bemutatott eljárásokat, bátran próbálj ki különböző lehetőségeket!
 
 .. suggestionnote::
 
- Подсећамо те да увек можеш да се вратиш један или више корака уназад! Најједноставнији начин да то урадиш јесте да 
- кликнеш на стрелицу, односно дугменце приказано на слици испод (1).
+ Emlékeztetünk, hogy mindig visszaléphetsz egy vagy több lépéssel! A legegyszerűbb módja ennek az,  
+ ha rákattintasz a nyílra vagy a gombra, amely az alábbi képen látható (1).
  
 .. image:: ../../_images/korak_nazad.png
 	:width: 800
