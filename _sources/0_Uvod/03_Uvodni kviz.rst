@@ -7,12 +7,12 @@
         :answer_b: Open
         :answer_c: New
         :answer_d: Print
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz nem helyes.
 
-        Када желиш да отвориш нови цртеж у Бојанци, кликнућеш на *File*, па затим на:
+        Amikor új rajzot szeretnél megnyitni a Paintben, a *Fájl* elemre kattintasz, majd az alábbiakra:
 
 .. mchoice:: p032
         :correct: a
