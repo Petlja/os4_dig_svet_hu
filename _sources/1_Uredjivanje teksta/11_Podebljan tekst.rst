@@ -3,11 +3,11 @@ Félkövér betűs szöveg
 
 .. infonote::
 
- У овој лекцији научићеш како да…
+ Ebben a leckében megtanulod, hogy miként lehet...
 
- - подебљаш текст, искосиш га и подвучеш, 
- - промениш величину и боју текста,
- - исечеш, копираш и налепиш исечени/копирани текст на одговарајуће место. 
+ - félkövér, dőlt betűs és aláhúzott szöveget létrehozni, 
+ - megváltoztatni a szöveg méretét és színét,
+ - kivágni és másolni a szöveget, illetve a kivágott/másolt szöveget beilleszteni a megfelelő helyre. 
 
 .. questionnote::
 
