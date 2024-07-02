@@ -68,13 +68,13 @@ Bevezető kvíz
         :answer_b: Space
         :answer_c: Shift
         :answer_d: Backspace
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор је тачан. 
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz helyes. 
 
-        За брисање знака који се налази лево од курсора користи се тастер:
+        A kurzortól balra lévő karakter törléséhez a következő billentyűt kell megnyomni:
 
 |
 
-Ако си тачно одговорио на претходна питања, имаш припремљен текст и нацртану слику, можемо да наставимо…
+Ha helyesen válaszoltál az előző kérdésekre, valamint előkészítetted szöveget és lerajzoltad a képet, akkor folytathatjuk...
