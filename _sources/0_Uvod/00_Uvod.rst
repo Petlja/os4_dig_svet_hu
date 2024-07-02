@@ -9,6 +9,7 @@
 **A digitális világ ebben a tanévben is megnyitja kapuit előtted és szeretettel vár!**
 
 |
+
 Mit készítettünk számodra ezúttal?
 
 Sok érdekes és hasznos lecke, illetve tevékenység vár rád.
@@ -70,5 +71,4 @@ dokumentumok, plakátok, microbit animációk!
 
 |
 
--------------------
 

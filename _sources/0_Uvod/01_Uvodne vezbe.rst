@@ -1,5 +1,5 @@
 Bevezető tevékenységek
-=================
+=======================
 
 .. infonote::
 
@@ -16,7 +16,7 @@ A harmadik osztályos digitális tankönyvet továbbra is `ugyanazon a címen <h
 Miközben átlapozod a tavalyi tankönyvet, végezz el néhány gyakorlatot is – készíts szöveges dokumentumot, majd mentsd azt el, készíts digitális rajzot, adj a képhez szöveget, keress rá az interneten egy fogalomra, stb. A gyakorlati feladatok a Digitális világban sokkal nagyobb jelentőséggel bírnak, mint a száraz elmélettel való ismerkedés. 
 
 Bevezető gyakorlat 1
-``````````````
+````````````````````
 
 Az előző évek során megtanultad, hogyan készíts digitális rajzokat a *Paint* segítségével. Ismételjük át, hogyan kell ezt csinálni!
 
