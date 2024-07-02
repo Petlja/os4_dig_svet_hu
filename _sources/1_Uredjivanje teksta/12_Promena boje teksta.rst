@@ -11,15 +11,14 @@ Ahogy papírra írás közben néha színes ceruzákat vagy filctollakat is hasz
 	:width: 800
 	:align: center
 
-Промени боју наслова. Како се то ради? Прати слику изнад. 
+Változtasd meg a cím színét. Hogyan lehet ezt elérni? Kövesd a fenti képet.
 
-Као и у претходној вежби, селектуј наслов (1). 
+Ahogy az előző feladatban is, jelöld ki a címet (1).
 
-Кликни **на стрелицу** са леве стране **слова А** дугменцета са слике (2). Отворила се палета боја (3). 
-Када кликнеш на неки од квадратића, слова текста која си селектовао добиће његову боју. 
+Kattints a képen jelölt **A betűs** gomb jobb oldalán levő **nyílra** (2). Ennek hatására megnyílik egy színpaletta (3).
+Ha rákattintasz valamelyik négyzetre, a kijelölt szöveg betűi annak a színét veszik fel.
 
-Резултат је следећи:
- 
+Az eredmény a következő:
  
 .. image:: ../../_images/boja2.png
 	:width: 800
