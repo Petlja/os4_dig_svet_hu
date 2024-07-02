@@ -10,8 +10,8 @@ Bevezető tevékenységek
  - hogyan kell szöveget bevinni egy dokumentumba,
  - hogyan kell a dokumentumokat elmenteni.
 
-Пре него што започнеш прве активности, подсети се шта све знаш да урадиш у Дигиталном свету! 
-Приручник за трећи разред и даље је на `истој адреси <https://petlja.org/kurs/8533/1/>`_.
+Mielőtt elkezdenéd a munkát, emlékezz vissza arra, hogy mennyi mindent meg tudsz már megcsinálni a Digitális világban! 
+A harmadik osztályos kézikönyv továbbra is `ugyanazon a címen <https://petlja.org/kurs/8533/1/>`_.
 
 Док прелиставаш прошлогодишње странице, уради и понеку вежбу – направи текстуални документ, сачувај га, нацртај дигитални цртеж, додај текст на слику, потражи више информација о неком појму на интернету и слично. Практична вежба у Дигиталном свету има много већи значај него само ишчитавање теорије. 
 
