@@ -1,14 +1,14 @@
-Уводнe активности
+Bevezető tevékenységek
 =================
 
 .. infonote::
 
- У овој лекцији подсетићеш се неколико ствари које си раније научио:
+ Ebben a leckében felidézünk néhány korábban tanult dolgot:
 
- - како се црта у Бојанци,
- - како се додаје текст на слику,
- - како се уноси текст у документ,
- - како се чувају документи.
+ - hogyan kell rajzolni a Paintben,
+ - hogyan lehet szöveget hozzáadni egy képhez,
+ - hogyan kell szöveget bevinni egy dokumentumba,
+ - hogyan kell a dokumentumokat elmenteni.
 
 Пре него што започнеш прве активности, подсети се шта све знаш да урадиш у Дигиталном свету! 
 Приручник за трећи разред и даље је на `истој адреси <https://petlja.org/kurs/8533/1/>`_.
