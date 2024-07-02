@@ -24,7 +24,7 @@ A feladat a következő:
 
 .. questionnote:: 
 
- Нацртај робота Карела онако како га ти замишљаш. На слику додај и његово име. Сачувај слику као *Karel.jpg* у фасцикли *Pictures*.
+ Rajzold le Karel robotot úgy, ahogy te elképzeled. Add hozzá a nevét is a képhez. Mentsd el a képet *Karel.jpg* néven a *Pictures* mappába.
 
 .. image:: ../../_images/robot.png
 	:width: 800
