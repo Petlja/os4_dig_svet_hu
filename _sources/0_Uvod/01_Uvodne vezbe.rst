@@ -50,7 +50,7 @@ Vidd be a dokumentumba a Karel robotról szóló szöveget, amely az alábbi ké
 	:width: 800
 	:align: center
 	
-Сачувај документ у фасцикли *Documents* под називом *Karel i programiranje.docx*.
+Mentsd el a dokumentumot a *Documents* mappába *Karel és a programozás.docx* néven.
 
 |
 
