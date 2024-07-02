@@ -15,16 +15,14 @@ Félkövér betűs szöveg
  Észrevettél olyan szavakat, amelyek vastag betűkkel vannak írva? 
  Miért emelték ki pont ezeket a szavakat? Mit akartak ezzel elérni a szerzők?
  
-Један од начина да се истакне нека значајна реч у тексту (или део текста) јесте да се напише **подебљаним словима**. 
-Можеш чути да неко каже и „масним словима“. На овај начин текст постаје прегледнији, а оно што је у њему важно лакше 
-се запамти. 
+Az egyik módja annak, hogy kiemeljünk egy fontos szót a szövegben (vagy a szöveg egy részét), az, hogy **vastag betűkkel** írjuk.
+Az ilyen betűket „félkövér betűknek” is nevezik. Ezzel a szöveg áttekinthetőbbé válik, és így segít a fontos dolgokat könnyebben megjegyezni.
 
-Подебљавање делова текста увежбаћеш на конкретном примеру. 
+A szövegrészek vastagítását egy konkrét példán keresztül fogjuk neked bemutatni.
 
-Пронађи и отвори *Karel i programiranje.docx*, документ који си претходно направио. 
+Keresd meg és nyisd meg a *Karel és a programozás.docx* dokumentumot, amit már korábban elkészítettél.
 
-Хајде да подебљамо слова којима је написан наслов текста. Селектуј наслов (пређи мишем преко наслова држећи притиснут 
-леви тастер) (1).
+Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot) (1).
 
 .. image:: ../../_images/bold1.png
 	:width: 800
