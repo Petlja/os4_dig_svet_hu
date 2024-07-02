@@ -54,17 +54,18 @@ Ezt a szöveget később is használni fogjuk. Mentsd el a változtatásokat és
  
 Csináljunk még egy rövid gyakorlatot! Az anyanyelv órákon a szófajokról is tanultál.
 
-Nyiss egy új dokumentumot, és írd be a lenti képen lévő mondatokat. 
+Nyiss egy új dokumentumot, és gépeld be a lenti képen lévő mondatokat. 
 
 .. image:: ../../_images/jesen.png
 	:width: 800
 	:align: center
 
-Сада промени боју речи на следећи начин:
+Változtasd meg a szavak színét a következő módon:
 
-- **именице** (речи које означавају имена бића, предмета и појава) означи **црвеном** бојом,
-- **глаголе** (речи које означавају радњу, стање и збивање) означи **зеленом** бојом,
-- **придеве** (речи које стоје уз именицу и ближе је одређују) означи **плавом** бојом,
-- **заменице** (речи које упућују на бића, предмете и особине) означи **сивом** бојом,
-- **бројеве** (речи које одређују колико тачно има нечега) означи **жутом** бојом.
+- a **főneveket** (élőlények, tárgyak és jelenségek neveit jelölő szavak) jelöld **piros** színnel,
+- az **igéket** (a cselekvést, állapotot és történést jelölő szavak) jelöld **zöld** színnel,
+- a **mellékneveket** (a főnév mellett álló és azt közelebbről meghatározó szavak) jelöld **kék** színnel,
+- a **névmásokat** (élőlényekre, tárgyakra és tulajdonságokra utaló szavak) jelöld **szürke** színnel,
+- a **számneveket** (a pontos mennyiséget meghatározó szavak) jelöld **sárga** színnel.
+
 
