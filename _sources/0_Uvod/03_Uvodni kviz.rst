@@ -25,14 +25,14 @@ Bevezető kvíz
 		
 .. mchoice:: p033
         :correct: b
-        :answer_a: Не, један цртеж може да се сачува само под једним именом.
-        :answer_b: Да, за то служи опција File->Save as.
-        :answer_c: Да, за то служи опција Print.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
+        :answer_a: Nem, egy rajz csak egy néven menthető el.
+        :answer_b: Igen, erre való a File->Save as opció.
+        :answer_c: Igen, erre való a Print opció.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
 
-        Да ли можеш да сачуваш исти цртеж под различитим именима?
+        El lehet-e mentheti ugyanazt a rajzot különböző neveken?
 		
 .. mchoice:: p034
         :multiple_answers:
