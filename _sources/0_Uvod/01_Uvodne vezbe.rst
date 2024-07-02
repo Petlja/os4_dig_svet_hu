@@ -13,7 +13,7 @@ Bevezető tevékenységek
 Mielőtt elkezdenéd a munkát, emlékezz vissza arra, hogy mennyi mindent meg tudsz már megcsinálni a Digitális világban! 
 A harmadik osztályos digitális tankönyvet továbbra is `ugyanazon a címen <https://petlja.org/kurs/8533/1/>`_ találhatod meg.
 
-Док прелиставаш прошлогодишње странице, уради и понеку вежбу – направи текстуални документ, сачувај га, нацртај дигитални цртеж, додај текст на слику, потражи више информација о неком појму на интернету и слично. Практична вежба у Дигиталном свету има много већи значај него само ишчитавање теорије. 
+Miközben átlapozod a tavalyi tankönyvet, végezz el néhány gyakorlatot is – készíts szöveges dokumentumot, majd mentsd azt el, készíts digitális rajzot, adj a képhez szöveget, keress rá az interneten egy fogalomra, stb. A gyakorlati feladatok a Digitális világban sokkal nagyobb jelentőséggel bírnak, mint a száraz elmélettel való ismerkedés. 
 
 Уводна вежба 1
 ``````````````
