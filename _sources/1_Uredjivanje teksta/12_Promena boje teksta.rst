@@ -1,13 +1,11 @@
-Промена боје текста
-===================
+A szöveg színének megváltoztatása
+=================================
 
-Као што, док пишеш на папиру, понекад користиш дрвене бојице или фломастере различитих боја, 
-тако и у Ворду можеш да мењаш боју слова. 
+Ahogy papírra írás közben néha színes ceruzákat vagy filctollakat is használsz, úgy a Wordben is megváltoztathatod a betűk színét.
 
 .. suggestionnote::
 
- Дешава се да треба да направиш неку измену на целом тексту у документу. Када желиш да селектујеш све што је написано, 
- то једноставно можеш да урадиш комбинацијом тастера **Ctrl + A**.
+ Előfordul, hogy egy dokumentum teljes szövegét módosítanod kell. Ha ki akarod jelölni a teljes szöveget, ezt egyszerűen megteheted a **Ctrl + A** billentyűkombinációval.
  
 .. image:: ../../_images/boja1.png
 	:width: 800
