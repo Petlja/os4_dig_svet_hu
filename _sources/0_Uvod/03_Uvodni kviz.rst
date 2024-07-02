@@ -50,16 +50,16 @@ Bevezető kvíz
 
 .. mchoice:: p035
         :correct: b
-        :answer_a: знак минус.
-        :answer_b: усправна линија која блинка.
-        :answer_c: звездица.
-        :answer_d: усправна црвена линија.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан. 
+        :answer_a: mínusz jelként.
+        :answer_b: villogó függőleges vonalként.
+        :answer_c: csillag alakjában.
+        :answer_d: függőleges piros vonalként.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes. 
 
-        Курсор је приказан као:
+        A kurzor a következőképpen jelenik meg:
 
 
 .. mchoice:: p036
