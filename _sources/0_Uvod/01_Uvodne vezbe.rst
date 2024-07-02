@@ -16,7 +16,7 @@ A harmadik osztályos digitális tankönyvet továbbra is `ugyanazon a címen <h
 Miközben átlapozod a tavalyi tankönyvet, végezz el néhány gyakorlatot is – készíts szöveges dokumentumot, majd mentsd azt el, készíts digitális rajzot, adj a képhez szöveget, keress rá az interneten egy fogalomra, stb. A gyakorlati feladatok a Digitális világban sokkal nagyobb jelentőséggel bírnak, mint a száraz elmélettel való ismerkedés. 
 
 Bevezető gyakorlat 1
-``````````````
+````````````````````
 
 Az előző évek során megtanultad, hogyan készíts digitális rajzokat a *Paint* segítségével. Ismételjük át, hogyan kell ezt csinálni!
 
@@ -35,16 +35,16 @@ A feladat a következő:
  Márk így rajzolta a képet. Miben különbözik a te ötleted az övétől?
  
  
-Уводна вежба 2
-``````````````
+Bevezető gyakorlat 2
+````````````````````
 
-Једна од првих ствари која те очекује јесте уређивање текста. 
+Az első dolgok egyike, ami rád vár, a szöveg szerkesztése.
 
-Да би могао добро да увежбаш неке од ових техника, потребно је да имаш унапред припремљен текст.
+Ahhoz, hogy ezt jól begyakorolhasd, előre elkészített szövegre lesz szükséged.
 
-Покрени Ворд (*Microsoft Word*) и отвори нови, празан документ. 
+Indítsd el a Wordöt (*Microsoft Word*), és nyiss meg egy új, üres dokumentumot.
 
-Унеси у документ текст о роботу Карелу који се налази на слици испод.
+Vidd be a dokumentumba a Karel robotról szóló szöveget, amely az alábbi képen található.
 
 .. image:: ../../_images/tekst.png
 	:width: 800
