@@ -50,11 +50,11 @@ Ezt a szöveget később is használni fogjuk. Mentsd el a változtatásokat és
 
 .. infonote::
 
- За враћање корак уназад користи се комбинација тастера **Ctrl + Z**.
+ A visszalépéshez használd a **Ctrl + Z** billentyűkombinációt.
  
-Хајде да урадимо још једну кратку вежбу! На часовима српског језика учио си о врстама речи.
+Csináljunk még egy rövid gyakorlatot! Az anyanyelv órákon a szófajokról is tanultál.
 
-Отвори нови документ и упиши реченице са слике испод. 
+Nyiss egy új dokumentumot, és írd be a lenti képen lévő mondatokat. 
 
 .. image:: ../../_images/jesen.png
 	:width: 800
