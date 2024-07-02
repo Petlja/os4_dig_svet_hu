@@ -33,7 +33,7 @@ Amikor az egeret a gomb fölé viszed, megjelenik egy szövegdoboz **Ctrl + B** 
 
 .. infonote::
 
- За подебљавање текста помоћу тастатуре користи се комбинација тастера **Ctrl + B**.
+ Ha félkövérré szeretnéd alakítani a szöveget a billentyűzet segítségével, használd a **Ctrl + B** billentyűkombinációt.
  
 Селектуј мишем речи *Линијски програми*, којима почиње трећи пасус, и притисни на тастатури тастер **Ctrl**. 
 Затим (и даље држећи притиснуто **Ctrl**) притисни и слово **B** (Б ћирилицом). Да ли си успешно подебљао слова ове речи? 
