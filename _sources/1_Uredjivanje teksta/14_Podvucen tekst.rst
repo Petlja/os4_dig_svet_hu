@@ -55,7 +55,7 @@ Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
 .. questionnote::
 
- Подвуци све предикате у реченицама двоструком линијом и сачувај документ као *podvucen tekst.docx*.
+ Húzd alá az összes állítmányt a mondatokban kettős vonallal, és mentsd el a dokumentumot *alahuzott szoveg.docx* néven. 
 
 .. infonote::
 
