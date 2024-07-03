@@ -27,7 +27,7 @@ Húzd alá a többi mondat alanyát is (a neked tetsző módon).
 
 .. questionnote::
 
- Да ли је лакше и уредније исправити грешку у дигиталном документу или на папиру?
+ Egy digitális dokumentumban vagy a papíron javítható könnyebben és tisztábban a hiba?
 
 .. image:: ../../_images/podvucen_2.png
 	:width: 800
@@ -35,18 +35,17 @@ Húzd alá a többi mondat alanyát is (a neked tetsző módon).
 	
 |
 
-Други део задатка је да подвучеш предикате реченица, овог пута двоструком линијом. Начин на који то радиш је врло 
-сличан претходном. Разлика је у томе што овог пута треба да кликнеш **на стрелицу поред слова U**. Погледај пажљиво 
-дугменце. Да ли видиш стрелицу (2)?
+A feladat második része, hogy húzd alá a mondatok állítmányát, ezúttal kettős vonallal. Az eljárás nagyon hasonló az előzőhöz. 
+A különbség az, hogy ezúttal az **U betű melletti nyílra** kell kattintanod. Nézd meg alaposan a gombot. Látod a nyilat (2)?
 
 .. image:: ../../_images/podvucen_3.png
 	:width: 800
 	:align: center
 	
-Селектуј предикат прве реченице – реч *дува*. Кликни на стрелицу поред слова **U** на приказаном дугменцету (2). 
+Jelöld ki az első mondat állítmányát – a *fúj* szót. Kattints az **U** betű melletti nyílra a megjelölt gombon (2).
 
-Отворио ти се прозор у ком су приказане различите врсте линија за подвлачење. Изабери којом желиш да подвучеш своју реч 
-(3). Ако си све урадио како треба, реч дува подвучена је двоструком линијом.
+Egy ablak nyílik meg, amelyben különböző típusú aláhúzások láthatók. Válaszd ki, melyikkel szeretnéd aláhúzni a szót (3). 
+Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
 .. suggestionnote::
 
