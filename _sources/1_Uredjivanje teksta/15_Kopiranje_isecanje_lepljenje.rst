@@ -18,7 +18,7 @@ A következő feladatod az, hogy begépeld Ljubivoje Ršumović „*A gyerekek t
 
 Észre fogod venni, hogy a versben van egy rész, amely ismétlődik – ez a refrén. A digitális dokumentum egyik előnye, hogy nem kell ugyanazt a szöveget többször begépelni. Csak egyszer gépeld be a refrén szövegét, majd később másold be a második versszak alá. Hogyan kell ezt csinálni?
 
-Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal felső sarkában (2).
+Jelöld ki a refrén szövegét (1). Kattints a *Copy* (Másolás) gombra az ablak bal felső sarkában (2).
 
 .. image:: ../../_images/kopiranje_1.png
 	:width: 800
@@ -26,7 +26,7 @@ Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal fels�
 
 Most a kiválasztott szöveg átmenetileg a számítógép memóriájába kerül.
 
-Kövesd az alábbi képet. Kattints (helyezd el a kurzort) arra a helyre, ahol meg szeretnéd jeleníteni a szöveget (3), majd kattints a *Paste* felirat feletti ikonra (4).
+Kövesd az alábbi képet. Kattints (helyezd el a kurzort) arra a helyre, ahol meg szeretnéd jeleníteni a szöveget (3), majd kattints a *Paste* (Beillesztés) felirat feletti ikonra (4).
 	
 .. image:: ../../_images/kopiranje_2.png
 	:width: 800
@@ -70,21 +70,19 @@ Gyakorlatképpen, emeld ki a szövegrészeket félkövér betűkkel, és add hoz
 	:width: 800
 	:align: center
 
-Хајде да име песника поставимо испод песме. Прати слику испод. Селектуј име песника. Кликни (овог пута) на дугменце са 
-сликом маказа, *Cut* (исеци), (2).
+Tegyük át a költő nevét a vers alá. Kövesd az alábbi képet. Jelöld ki a költő nevét. Ezúttal kattints az olló ikonnal jelzett gombra, melynek a neve *Cut* (Kivágás) (2).
 
 .. image:: ../../_images/premestanje_2.png
 	:width: 800
 	:align: center
 
-Име песника је нестало. Постави курсор (кликни) на место на које желиш да га преместиш и, као и у претходном случају, 
-кликни на дугменце *Paste* (налепи) (4).
+A költő neve eltűnt. Helyezd el a kurzort (vagyis kattints) arra a helyre, ahová át szeretnéd helyezni, és az előzőekhez hasonlóan kattints a *Paste* (Beillesztés) gombra (4).
 
 .. image:: ../../_images/premestanje_3.png
 	:width: 800
 	:align: center
 	
-Песмица сада изгледа овако:
+Vers szövege ezek után így néz ki: 
 
 .. image:: ../../_images/premestanje_4.png
 	:width: 800
