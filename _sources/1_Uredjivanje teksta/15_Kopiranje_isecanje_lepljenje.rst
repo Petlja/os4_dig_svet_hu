@@ -108,15 +108,15 @@ Gyakorold a szöveg billentyűzet segítségével való áthelyezését!
  - Nyomd meg a **Ctrl + V** billentyűkombinációt. 
 
 
-Ево једног задатка који ти одлично може послужити за вежбу:
+Itt van egy feladat, amely a szöveg áthelyezésének gyakorlására szolgál:
 
 .. questionnote::
 
- Отвори нови документ. Унеси песму Душка Радовића која се налази на слици испод. Увежбај копирање и премештање тако 
- што нећеш више пута уносити делове текста који се понављају.
+ Nyiss meg egy új dokumentumot. Másold be Duško Radovićnak azt a versét, amely az alábbi képen olvasható. 
+ Gyakorold a másolást és az áthelyezést úgy, hogy nem gépeled be többször is az ismétlődő szövegrészeket.
 
 .. image:: ../../_images/deca_vole.png
 	:width: 800
 	:align: center
 
-Документ сачувај као *Deca vole.docx*.
+Mentsd el a dokumentumot *A gyerekek szeretik.docx* néven.
