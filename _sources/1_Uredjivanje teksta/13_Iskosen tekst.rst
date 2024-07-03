@@ -1,12 +1,12 @@
-Искошен текст
-=============
+Dőlt betűs szöveg
+=================
 
 .. questionnote::
  
- Објаснили смо када се речи или делови текста пишу подебљаним словима. Да ли си приметио у књигама још неки начин 
- писања? Благо искошеним словима? Прелистај своје уџбенике и пронађи речи које су написане на овај начин. 
+ Elmagyaráztuk, hogy mikor írjuk a szavakat vagy szövegrészeket félkövér betűkkel. Észrevettél-e a könyvekben még más írásmódot is? 
+ Például enyhén dőlt betűkkel írt szöveget? Lapozd át a tankönyveidet, és találd meg azokat a szavakat, amelyek ilyen módon vannak írva. 
  
- Због чега су написане другачије од осталих, које је њихово значење?
+ Miért vannak ezek másképp írva, mi a jelentésük?
  
 .. suggestionnote::
 
