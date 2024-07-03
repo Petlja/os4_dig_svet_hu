@@ -40,7 +40,7 @@ Kvíz - szövegszerkesztés
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz helyes.
 
-        Када желиш да подвучеш део текста, селектоваћеш га и притиснути комбинацију тастера:
+        Amikor alá szeretnél húzni egy szövegrészt, akkor ki kell azt jelölnöd, majd meg kell nyomnod a következő billentyűkombinációt:
 
 .. mchoice:: p174
         :correct: a
