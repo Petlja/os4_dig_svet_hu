@@ -40,9 +40,9 @@ Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre:
 
 .. questionnote::
 
- Milyen tanácsokat adtak a szülők és a nagymama Vesnának az internetes viselkedéssel kapcsolatban? Igazuk van?
+ Milyen tanácsokat adtak a szülők és a nagymama Verának az internetes viselkedéssel kapcsolatban? Igazuk van?
 
- Mit tanácsolnál Vesnának?
+ Mit tanácsolnál Verának?
 
  Ezekben a mondatokban közvetlen vagy közvetett beszédet használtak?
 
@@ -50,12 +50,11 @@ A feladatod az, hogy kiemeld a közvetlen beszédet reprezentáló szövegrésze
 
 |
 
-Како да добијеш искошена слова у документу?
+Hogyan lehet dőlt betűsen írni egy dokumentumban?
 
 |
 
-Помоћи ћемо ти око прве реченице у тексту која преставља управни говор. Селектуј је као што је приказано на слици 
-испод (1), а затим кликни на дугменце са ознаком *I* (2). Да ли су слова постала искошена? Ако нису, покушај поново…
+Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2). Dőltté váltak a betűk? Ha nem, próbáld újra...
 
 .. image:: ../../_images/kurziv2.png
 	:width: 800
