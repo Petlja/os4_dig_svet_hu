@@ -50,7 +50,7 @@ Vidd be a dokumentumba a Karel robotról szóló szöveget, amely az alábbi ké
 	:width: 800
 	:align: center
 	
-Mentsd el a dokumentumot a *Documents* mappába *Karel és a programozás.docx* néven.
+Mentsd el a dokumentumot a *Documents* mappába *Karel es a programozas.docx* néven.
 
 |
 
