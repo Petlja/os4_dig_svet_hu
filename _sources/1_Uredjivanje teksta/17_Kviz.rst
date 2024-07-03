@@ -44,13 +44,12 @@ Kvíz - szövegszerkesztés
 
 .. mchoice:: p174
         :correct: a
-        :answer_a: Да, када кликнеш на стрелицу која се налази на дугменцету са словом U, добијаш више врста линија.
-        :answer_b: Не, не постоји таква могућност.
+        :answer_a: Igen, amikor rákattintasz az U betűvel jelölt gomb melletti nyílra, többféle vonal közül választhatsz.
+        :answer_b: Nem, nincs erre lehetőség. 
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
 
-        Да ли у Ворду можеш да подвучеш текст двоструком линијом?
-
+        Lehet-e a Wordben dupla vonallal aláhúzni a szöveget?
 		
 .. mchoice:: p175
 	:multiple_answers:
