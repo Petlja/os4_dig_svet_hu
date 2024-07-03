@@ -69,4 +69,4 @@ Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet 
 
 .. infonote::
 
- За писање искошених слова користи се и комбинација тастера **Ctrl + I**.
+ A dőlt betűs íráshoz a **Ctrl + I** billentyűkombináció is használható.
