@@ -57,14 +57,14 @@ Ez is négy alapvető lépésből áll.
 
 |
 
-Премештање текста
-~~~~~~~~~~~~~~~~~
+A szöveg áthelyezése
+~~~~~~~~~~~~~~~~~~~~
 
-Ако ти није потребан тај први, оригиналан текст, можеш накнадно да га избришеш и деловаће као да је само премештен. 
+Ha nincs szükséged az eredeti szövegre, utólag törölheted, és úgy fog tűnni, mintha csak áthelyezted volna.
 
-Наравно, за премештање постоји нешто другачија техника, коју ћемо, такође, ускоро објаснити.
+Természetesen az áthelyezéshez létezik egy másik eljárás is, amit hamarosan be fogunk mutatni.
 
-Вежбе ради, подебљај делове текста и додај име писца, као што је урађено на слици испод.
+Gyakorlatképpen, emeld ki a szövegrészeket félkövér betűkkel, és add hozzá a szerző nevét, ahogyan az alábbi képen is látható.
 
 .. image:: ../../_images/premestanje_1.png
 	:width: 800
