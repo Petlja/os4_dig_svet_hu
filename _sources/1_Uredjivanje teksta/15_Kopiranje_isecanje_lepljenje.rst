@@ -16,7 +16,7 @@ A szöveg másolása
 
 A következő feladatod az, hogy begépeld Ljubivoje Ršumović „*A gyerekek tudnak repülni*” című versét.
 
-Észre fogod venni, hogy a versben van egy rész, amely ismétlődik – ez a refrén. A digitális dokumentum egyik előnye, hogy nincs szükség ugyanazt a szöveget többször beírni. Csak egyszer gépeld be a refrén szövegét, majd később másold be a második versszak alá. Hogyan kell ezt csinálni?
+Észre fogod venni, hogy a versben van egy rész, amely ismétlődik – ez a refrén. A digitális dokumentum egyik előnye, hogy nem kell ugyanazt a szöveget többször begépelni. Csak egyszer gépeld be a refrén szövegét, majd később másold be a második versszak alá. Hogyan kell ezt csinálni?
 
 Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal felső sarkában (2).
 
