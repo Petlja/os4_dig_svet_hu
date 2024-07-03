@@ -1,7 +1,7 @@
 Aláhúzott szöveg
 ================
 
-Ismételjünk át még egy kicsit nyelvtant.
+Ismételjünk át még egy kicsit a nyelvtant.
 
 Találkoztál már az anyanyelv órákon ehhez hasonló feladattal: „Egyszer húzd alá az alanyt a mondatban, kétszer húzd alá az állítmányt.“?
 
