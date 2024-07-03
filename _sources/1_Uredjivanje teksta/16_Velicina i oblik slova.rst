@@ -1,24 +1,24 @@
-Величина и облик слова
+Betűméret és betűtípus
 ======================
 
-Песмица Душка Радовића послужиће нам да ти покажемо још неке могућности за истицање текста. Ради се о промени величине и облика слова.
-Са овим могућностима срео си се већ у Бојанци. 
+Dusko Radović egyik kis verse segíteni fog nekünk abban, hogy bemutassuk számodra a szövegkiemelés további lehetőségeit. 
+Arról van szó, hogy megváltoztatjuk a betűk méretét és formáját. Ezekkel a lehetőségekkel már találkoztál a Paintben.
 
 .. questionnote::
 
- Како се мења величина слова у Ворду?
+ Hogyan lehet megváltoztatni a betűméretet a Wordben?
 
-Ако прелисташ било који часопис, уџбеник, приметићеш да су наслови најчешће написани већим словима од остатка текста. Хајде да то урадимо и са насловом песмице *Деца воле*.
+Ha fellapozod akármelyik folyóiratot vagy tankönyvet, észre fogod venni, hogy a címek gyakran nagyobb betűkkel vannak kinyomtatva, mint a szöveg többi része. Alakítsuk át ilyen módon *A gyerekek szeretnek* vers címét is.
 
-Отвори документ *Deca vole.docx*.
+Nyisd meg *A gyerekek szeretnek.docx* dokumentumot.
 
-Прати слику испод. Селектуј наслов (1), а затим кликни на стрелицу која се налази поред оквирa у ком се налази број (2). Изабери неку од понуђених вредности (на пример, 20) (3).
+Kövesd az alábbi képet. Jelöld ki a címet (1), majd kattints a nyílra, amely a számot tartalmazó mező mellett található (2). Válassz egyet a felkínált értékek közül (például: 20) (3).
 
 .. image:: ../../_images/velicina.png
 	:width: 800
 	:align: center
 
-Наслов је сада написан већим словима од остатка текста.
+A cím most nagyobb betűkkel van kiírva, mint a szöveg többi része.
 
 ------------
 
