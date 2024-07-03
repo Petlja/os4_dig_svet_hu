@@ -8,9 +8,9 @@ Arról van szó, hogy megváltoztatjuk a betűk méretét és formáját. Ezekke
 
  Hogyan lehet megváltoztatni a betűméretet a Wordben?
 
-Ha fellapozod akármelyik folyóiratot vagy tankönyvet, észre fogod venni, hogy a címek gyakran nagyobb betűkkel vannak kinyomtatva, mint a szöveg többi része. Alakítsuk át ilyen módon *A gyerekek szeretnek* vers címét is.
+Ha fellapozod akármelyik folyóiratot vagy tankönyvet, észre fogod venni, hogy a címek gyakran nagyobb betűkkel vannak kinyomtatva, mint a szöveg többi része. Alakítsuk át ilyen módon *A gyerekek szeretik* vers címét is.
 
-Nyisd meg *A gyerekek szeretnek.docx* dokumentumot.
+Nyisd meg *A gyerekek szeretik.docx* dokumentumot.
 
 Kövesd az alábbi képet. Jelöld ki a címet (1), majd kattints a nyílra, amely a számot tartalmazó mező mellett található (2). Válassz egyet a felkínált értékek közül (például: 20) (3).
 
@@ -22,28 +22,27 @@ A cím most nagyobb betűkkel van kiírva, mint a szöveg többi része.
 
 ------------
 
-У свесци можеш да пишеш штампаним и писаним словима. Слова могу да буду округла, дугуљаста, нагнута у једну или другу страну. 
-Различити људи имају различите рукописе.
+A füzetbe írhatsz nyomtatott és írott betűkkel is. A betűk lehetnek kerekek, hosszúkásak, dőlhetnek egyik vagy másik irányba.
+Különböző embereknek különböző a kézírásuk.
 
-Слично томе, када уносиш текст у рачунар можеш да изабереш облик слова која користиш.
+Hasonlóan, amikor szöveget viszel be a számítógépbe, választhatsz a betűtípusok között, amelyeket használsz.
 
-У рачунару постоје различити **фонтови**. То су групе знакова које имају заједнички графички облик.
+A számítógépen különböző **betűtípusok** (idegen szóval **fontok**) vannak. Ezek olyan karaktercsoportok, amelyek közös grafikai formával rendelkeznek.
 
-Хајде да променимо фонт којим је написана ова песмица. Селектуј текст као на слици испод (1) и кликни на стрелицу поред оквира са називима фонтова. (2)
-
+Változtassuk meg ennek a versenek a betűtípusát! Jelöld ki a szöveget az alábbi kép alapján (1) majd kattints a betűtípusok neveit tartalmazó mező melletti nyílra (2).
 
 .. image:: ../../_images/oblik1.png
 	:width: 800
 	:align: center
 
 
-Изабери фонт који желиш. На пример, *Comic Sans*. 
+Válaszd ki valamelyik betűtípust a tetszésed szerint. Legyen ez például *Comic Sans*. 
 
 .. image:: ../../_images/oblik2.png
 	:width: 800
 	:align: center
 
-Текст који је био селектован сада је променио облик слова.
+A kiválasztott szöveg betűtípusa megváltozott.
 
 .. questionnote::
 
