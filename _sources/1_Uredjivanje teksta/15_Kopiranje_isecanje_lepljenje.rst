@@ -90,10 +90,10 @@ Vers szövege ezek után így néz ki:
 
 .. infonote::
 
- Када копираш (*Copy*) или исецаш (*Cut*) делове текста, они остају привремено сачувани у меморији и можеш да их 
- налепиш (*Paste*) више пута где желиш!
+ Amikor másolod (*Copy*) vagy kivágod (*Cut*) a szövegrészeket, azok ideiglenesen a memóriában maradnak és 
+ többször is beillesztheted (*Paste*) őket oda, ahova szeretnéd!
 
-Увежбај премештање текста и преко тастатуре!
+Gyakorold a szöveg billentyűzet segítségével való áthelyezését!
 
 .. infonote::
 
