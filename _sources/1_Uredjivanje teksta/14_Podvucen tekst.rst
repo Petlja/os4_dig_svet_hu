@@ -1,15 +1,13 @@
-Подвучен текст
-==============
+Aláhúzott szöveg
+================
 
-Хајде да још мало поновимо граматику. 
+Ismételjünk át még egy kicsit nyelvtant.
 
-Да ли си на часовима српског језика радио задатак сличан овом: „*Једном линијом подвуци субјекат у реченици, 
-са две линије подвуци предикат.*“ 
+Találkoztál már az anyanyelv órákon ehhez hasonló feladattal: „Egyszer húzd alá az alanyt a mondatban, kétszer húzd alá az állítmányt.“?
 
-Претпоставимо да треба да одредиш службу речи у следећим реченицама и да подвлачење речи треба да урадиш у дигиталном 
-документу. 
+Tegyük fel, hogy meg kell határoznod a szavak szerepét a következő mondatokban, és az aláhúzást egy digitális dokumentumban kell elvégezned.
 
-Отвори нови документ и напиши следеће реченице:
+Nyiss egy új dokumentumot, és gépeld be a következő mondatokat:
 
 .. image:: ../../_images/podvucen_1.png
 	:width: 800
