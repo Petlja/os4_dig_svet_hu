@@ -40,14 +40,13 @@ Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre:
 
 .. questionnote::
 
- Које су савете родитељи и бака дали Весни о понашању на интернету? Да ли су у праву?
+ Milyen tanácsokat adtak a szülők és a nagymama Vesnának az internetes viselkedéssel kapcsolatban? Igazuk van?
 
- Шта би ти саветовао Весни?
- 
- Да ли је у овим реченицама коришћен управни или неуправни говор?
+ Mit tanácsolnál Vesnának?
 
-Твој задатак је да истакнеш делове текста који представљају управни говор тако да буду писани искошеним 
-словима (курзивом).
+ Ezekben a mondatokban közvetlen vagy közvetett beszédet használtak?
+
+A feladatod az, hogy kiemeld a közvetlen beszédet reprezentáló szövegrészeket úgy, hogy azok dőlt betűvel legyenek írva.
 
 |
 
