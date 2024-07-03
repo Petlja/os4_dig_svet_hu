@@ -2,14 +2,15 @@ Kép beillesztése a dokumentumba
 ===============================
 
 .. infonote::
+
+ Ebben a leckében megtanulod, hogy miként...
+
+ - illeszthetsz be képet a dokumentumodba,
+
+ - helyezheted el a képet a kívánt módon a szöveghez viszonyítva,
+
+ - hozhatsz létre keretet a kép körül.
  
- У овој лекцији научићеш како да…
-
- - уметнеш слику у свој документ, 
-
- - поставиш слику на жељени начин у односу на текст,
-
- - поставиш оквир на слику.
  
 Замисли овај приручник без слика. Колико би сложенија била упутства? Погледај приручник из Природе и друштва. 
 Да ли у њему има илустрација, фотографија? Шта све може да се нађе на тим сликама?
