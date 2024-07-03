@@ -1,22 +1,18 @@
-Копирање, исецање и лепљење текста
-==================================
+A szöveg másolása, kivágása és beillesztése
+===========================================
 
-Замисли ситуацију: пишеш састав у свесци. Напишеш један пасус за који ти се чини да ће бити одличан увод. Пишеш даље. 
-Правиш грешке, прецртаваш. Стижеш до закључка… и баш те две реченице из увода боље би пристајале у закључку! Шта ћеш да урадиш?
+Képzeld el a következő helyzetet: egy fogalmazást írsz a füzetedbe. Írsz egy bekezdést, amelyről úgy gondolod, hogy nagyszerű bevezető lenne. Tovább írsz. Hibákat követsz el, áthúzol dolgokat. Elérsz a befejező részhez... és pont az a két mondat a bevezetőből jobban illene a befejezéshez! Mit fogsz csinálni?
 
-Једна могућност је да их прецрташ или ставиш у заграду и напишеш их у закључку (свакако ће бити видљиво да је премештен 
-текст, можда и неуредно).
+Az egyik lehetőség, hogy áthúzod vagy zárójelbe teszed őket, majd átírod a befejező részbe (az mindenképp látszani fog, hogy áthelyezted a szöveget, és talán rendetlenül fog kinézni).
 
-Друга могућност је да их оставиш у уводу и поново напишеш у закључку (што често и није баш најбоље решење).
+A másik lehetőség, hogy a bevezetőben hagyod őket, majd újra leírod a befjezésben (ami nem a legjobb megoldás).
 
-На рачунару то може да се реши много боље. Без обзира на то да ли је у питању прво или друго решење, нема потребе 
-да поново исписујеш/уносиш текст. На једноставан начин можеш да копираш и премешташ (без остављених трагова) делове 
-текста.
+Számítógépen ezt sokkal elegánsabban lehet megoldani. Akár az első, akár a második fent említett lehetőségről van szó, nem kell újraírnod a szöveget. Egyszerűen kimásolhatod és (nyom nélkül) áthelyezheted a szövegrészeket.
 
-За почетак, уради следећу вежбу! Ова лепа песма ће нам послужити као пример на ком ћемо ти објаснити како се то ради…
+Kezdetnek végezd el a következő gyakorlatot! Ez a szép vers példaként fog szolgálni arra, hogy elmagyarázzuk, miként kell ezt csinálni...
 
-Копирање текста
-~~~~~~~~~~~~~~~
+A szöveg másolása
+~~~~~~~~~~~~~~~~~
 
 Задатак је да унесеш песму Љубивоја Ршумовића „*Деца могу да полете*“ латиничким писмом. 
 
