@@ -26,7 +26,7 @@ Kvíz - szövegszerkesztés
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Коју комбинацију тастера користиш када желиш да преузмеш (налепиш) текст који је претходно исечен (**Ctrl + X**) или копиран (**Ctrl + C**)?
+        Melyik billentyűkombinációt kell használnod, amikor be szeretnéd illeszteni a korábban kivágott (**Ctrl + X**) vagy másolt (**Ctrl + C**) szöveget?
 
 
 .. mchoice:: p173
