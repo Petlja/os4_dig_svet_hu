@@ -54,7 +54,7 @@ Hogyan lehet dőlt betűsen írni egy dokumentumban?
 
 |
 
-Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2). Dőltté váltak a betűk? Ha nem, próbáld újra...
+Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki a szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2). Dőltté váltak a betűk? Ha nem, próbáld újra...
 
 .. image:: ../../_images/kurziv2.png
 	:width: 800
@@ -62,9 +62,9 @@ Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet 
 
 .. questionnote::
 
- Измени и остале делове текста који престављају управни говор тако да буду написани курзивом.
- 
- Пребаци све реченице у неуправни говор и испиши их испод датог текста. Сачувај документ.
+ Módosítsd a többi szövegrészt is, amelyek közvetlen beszédet tartalmaznak, úgy, hogy dőlt betűsen legyenek írva.
+
+ Írd át az összes mondatot közvetett beszédre, és gépeld le őket az adott szöveg alá. Mentsd el a dokumentumot.
 
 
 .. infonote::
