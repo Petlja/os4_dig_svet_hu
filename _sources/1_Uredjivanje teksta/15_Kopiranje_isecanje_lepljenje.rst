@@ -5,7 +5,7 @@ Képzeld el a következő helyzetet: egy fogalmazást írsz a füzetedbe. Írsz 
 
 Az egyik lehetőség, hogy áthúzod vagy zárójelbe teszed őket, majd átírod a befejező részbe (az mindenképp látszani fog, hogy áthelyezted a szöveget, és talán rendetlenül fog kinézni).
 
-A másik lehetőség, hogy a bevezetőben hagyod őket, majd újra leírod a befjezésben (ami nem a legjobb megoldás).
+A másik lehetőség, hogy a bevezetőben hagyod őket, majd újra leírod a befejezésben (ami nem a legjobb megoldás).
 
 Számítógépen ezt sokkal elegánsabban lehet megoldani. Akár az első, akár a második fent említett lehetőségről van szó, nem kell újraírnod a szöveget. Egyszerűen kimásolhatod és (nyom nélkül) áthelyezheted a szövegrészeket.
 
@@ -14,12 +14,11 @@ Kezdetnek végezd el a következő gyakorlatot! Ez a szép vers példaként fog 
 A szöveg másolása
 ~~~~~~~~~~~~~~~~~
 
-Задатак је да унесеш песму Љубивоја Ршумовића „*Деца могу да полете*“ латиничким писмом. 
+A következő feladatod az, hogy begépeld Ljubivoje Ršumović „*A gyerekek tudnak repülni*” című versét.
 
-Приметићеш да у песми постоји део који се понавља – рефрен. Једна од предности дигиталног документа је што нема потребе  
-да уносиш исти текст више пута. Напиши текст рефрена само једном, а затим га копирај испод друге строфе. Како се то ради?
+Észre fogod venni, hogy a versben van egy rész, amely ismétlődik – ez a refrén. A digitális dokumentum egyik előnye, hogy nincs szükség ugyanazt a szöveget többször beírni. Csak egyszer gépeld be a refrén szövegét, majd később másold be a második versszak alá. Hogyan kell ezt csinálni?
 
-Селектуј текст рефрена (1). Кликни на *Copy* у горњем левом углу прозора (2). 
+Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal felső sarkában (2).
 
 .. image:: ../../_images/kopiranje_1.png
 	:width: 800
