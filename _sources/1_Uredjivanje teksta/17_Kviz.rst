@@ -55,7 +55,7 @@ Kvíz - szövegszerkesztés
 .. mchoice:: p175
 	:multiple_answers:
         :correct: b,c
-        :answer_a: косар
+        :answer_a: ferde
         :answer_b: italik
         :answer_c: kurzív
         :answer_d: bold
