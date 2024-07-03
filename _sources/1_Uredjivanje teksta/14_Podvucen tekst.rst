@@ -3,7 +3,7 @@ Aláhúzott szöveg
 
 Ismételjünk át még egy kicsit a nyelvtant.
 
-Találkoztál már az anyanyelv órákon ehhez hasonló feladattal: „Egyszer húzd alá az alanyt a mondatban, kétszer húzd alá az állítmányt.“?
+Biztosan találkoztál már az anyanyelv órákon ehhez hasonló feladattal: „Egyszer húzd alá az alanyt a mondatban, kétszer húzd alá az állítmányt.“
 
 Tegyük fel, hogy meg kell határoznod a szavak szerepét a következő mondatokban, és az aláhúzást egy digitális dokumentumban kell elvégezned.
 
