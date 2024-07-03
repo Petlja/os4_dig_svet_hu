@@ -36,7 +36,7 @@ Változtassuk meg ennek a versenek a betűtípusát! Jelöld ki a szöveget az a
 	:align: center
 
 
-Válaszd ki valamelyik betűtípust a tetszésed szerint. Legyen ez például *Comic Sans*. 
+Válaszd ki valamelyik betűtípust a tetszésed szerint. Legyen ez például a *Comic Sans*. 
 
 .. image:: ../../_images/oblik2.png
 	:width: 800
@@ -46,12 +46,11 @@ A kiválasztott szöveg betűtípusa megváltozott.
 
 .. questionnote::
 
- Увежбај промену величине и облика слова тако што ћеш за сваку строфу, наслов и име песника изабрати другачији фонт и вредност.
+ Gyakorold a betűk méretének és alakjának megváltoztatását úgy, hogy minden versszakhoz, címhez és a költő nevéhez is más-más betűtípust és méretet választasz.
 
-Погледај још једном измењени документ. Да ли је садржај јасно приказан?
-
+Nézd meg még egyszer a módosított dokumentumot. Egyértelműen jelenik meg annak tartalma?
 .. infonote::
 
-  Приликом истицања делова текста (промена боје, величине и облика слова, подвлачења, подебљавања...), води рачуна да **превише шаренила може да скрене пажњу са садржаја**!
+  A szövegrészek kiemelésekor (a betűk színének, méretének és típusának megváltoztatása, a szöveg aláhúzása, félkövérré tétele stb.) vedd figyelembe, hogy **a túl sok szín és változatosság elvonhatja a figyelmet a tartalomról**!
 
  
