@@ -49,6 +49,7 @@ A kiválasztott szöveg betűtípusa megváltozott.
  Gyakorold a betűk méretének és alakjának megváltoztatását úgy, hogy minden versszakhoz, címhez és a költő nevéhez is más-más betűtípust és méretet választasz.
 
 Nézd meg még egyszer a módosított dokumentumot. Egyértelműen jelenik meg annak tartalma?
+
 .. infonote::
 
   A szövegrészek kiemelésekor (a betűk színének, méretének és típusának megváltoztatása, a szöveg aláhúzása, félkövérré tétele stb.) vedd figyelembe, hogy **a túl sok szín és változatosság elvonhatja a figyelmet a tartalomról**!
