@@ -59,16 +59,16 @@ Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
 .. infonote::
 
- Истицање текста можеш да урадиш на више начина. Пречице преко тастатуре исте су за скоро сва окружења у којима се обрађује текст:
+ A szöveg kiemelését többféleképpen is elvégezheted. A billentyűparancsok szinte minden szövegszerkesztő környezetben ugyanazok: 
  
- - да подебљаш текст - комбинација **Ctrl + B**,
- 
- - да искосиш текст - комбинација **Ctrl + I**,
- 
- - да подвучеш текст - комбинација **Ctrl + U**.
+ - a szöveg félkövérré tételéhez - **Ctrl + B** billenytűkombináció,
+
+ - a szöveg dőlt betűssé tételéhez - **Ctrl + I** billentyűkombináció,
+
+ - a szöveg aláhúzásához - **Ctrl + U** billentyűkombináció.
 	
 
- Наравно, измене ће бити видљиве на тексту који претходно селектујеш.
+ Természetesen a változások csak az előzőleg kijelölt szövegen mennek végbe.
 
 .. learnmorenote::
 
