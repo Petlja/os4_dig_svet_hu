@@ -21,9 +21,9 @@ Próbáld meg a következő mondat alanyát billentyűzet segítségével aláh�
 
 .. infonote::
 
- За писање подвучених слова користи се и комбинација тастера **Ctrl + U**.
+ A dőlt betűs íráshoz a **Ctrl + U** billentyűkombináció is használható.
  
-Подвуци и субјекте осталих реченица (на начин који ти више одговара).
+Húzd alá a többi mondat alanyát is (a neked tetsző módon). 
 
 .. questionnote::
 
