@@ -72,20 +72,20 @@ Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
 .. learnmorenote::
 
- **Зашто B, I, U?**
+ **De miért B, I, U betűk?**
  
- Ово су почетна слова речи енглеског језика које означавају следећу врсту слова:
+ Ezek azon angol szavak kezdőbetűi, amelyek a következő betűtípusokat jelzik:
  
- **B** (енг. *Bold*) – подебљано, назива се још и „масно“ 
+ **B** (angolul *Bold*) – vastagított, félkövér  
  
- **I** (енг. *Italic*) – искошено, закривљено 
+ **I** (angolul *Italic*) – dőlt, kurzív 
  
- **U** (енг. *Underline*) – подвучено
+ **U** (angolul *Underline*) – aláhúzott
 
 .. questionnote::
 
- Изабери врсту линије и подвуци објекте у реченицама претходног примера (уколико их има).
+ Válaszd ki a megfelelő vonaltípust, majd az előző példa alapján húzd alá a mondatok tárgyait (ha egyáltalán vannak ilyenek).
 
 .. questionnote::
 
- Провери шта ће се десити ако прво притиснеш неки од дугмића за подебљавање, искошавање и подвлачење слова, па унесеш текст. Како су написана слова?
+ Próbáld ki, hogy mi történik, ha először megnyomod a félkövér, a dőlt vagy az aláhúzott szöveg gombjait, majd utána gépelsz be valamit. Hogyan jelennek meg a betűk?
