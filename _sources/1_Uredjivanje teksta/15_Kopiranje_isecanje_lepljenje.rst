@@ -48,12 +48,12 @@ Ez is négy alapvető lépésből áll.
 
  - Jelöld ki a szöveget.
  - Nyomd meg a **Ctrl + C** billentyűkombinációt.
- - Helyezd el a kurzort arra a helyre, ahová a szöveget szeretnéd másolni.
+ - Helyezd a kurzort arra a helyre, ahová a szöveget szeretnéd másolni.
  - Nyomd meg a **Ctrl + V** billentyűkombinációt.
 
 .. questionnote::
 
- Копирај делове песме на овај начин!
+ Másold át a vers részleteit ily módon!
 
 |
 
