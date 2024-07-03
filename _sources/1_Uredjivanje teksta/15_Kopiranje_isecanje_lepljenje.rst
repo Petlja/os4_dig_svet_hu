@@ -44,15 +44,12 @@ Ez is négy alapvető lépésből áll.
 
 .. infonote::
 
- Копирање делова текста преко тастатуре:
- 
- - Селектуј текст.
- 
- - Притисни на тастатури комбинацију тастера **Ctrl + C**.
- 
- - Постави курсор на место где желиш да копираш текст.
- 
- - Притисни комбинацију **Ctrl + V**.
+ Szövegrészek másolása billentyűzettel:
+
+ - Jelöld ki a szöveget.
+ - Nyomd meg a **Ctrl + C** billentyűkombinációt.
+ - Helyezd el a kurzort arra a helyre, ahová a szöveget szeretnéd másolni.
+ - Nyomd meg a **Ctrl + V** billentyűkombinációt.
 
 .. questionnote::
 
