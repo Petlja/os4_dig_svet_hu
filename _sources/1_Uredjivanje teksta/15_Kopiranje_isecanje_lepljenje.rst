@@ -97,15 +97,16 @@ Gyakorold a szöveg billentyűzet segítségével való áthelyezését!
 
 .. infonote::
 
- Премештање текста (преко тастатуре):
+ Szöveg áthelyezése billentyűzet segítségével:
 
- - Селектуј текст.
- 
- - Притисни на тастатури комбинацију тастера **Ctrl + X**.
- 
- - Постави курсор на место где желиш да копираш текст.
- 
- - Притисни комбинацију **Ctrl + V**.
+ - Jelöld ki a szöveget.
+
+ - Nyomd meg a **Ctrl + X** billentyűkombinációt.
+
+ - Helyezd át a kurzort arra a helyre, ahova másolni szeretnéd a szöveget.
+
+ - Nyomd meg a **Ctrl + V** billentyűkombinációt. 
+
 
 Ево једног задатка који ти одлично може послужити за вежбу:
 
