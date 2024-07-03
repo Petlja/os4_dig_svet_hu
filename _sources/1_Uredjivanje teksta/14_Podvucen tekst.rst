@@ -13,11 +13,11 @@ Nyiss egy új dokumentumot, és gépeld be a következő mondatokat:
 	:width: 800
 	:align: center
 
-Шта је субјекат прве реченице? Хајде да га подвучемо.
- 
-Селектуј реч ветар (1) и затим кликни на дугменце са ознаком **U**. Реч *ветар* је постала подвучена.
+Mi az első mondat alanya? Húzzuk alá.
 
-Покушај субјекат следеће реченице да подвучеш помоћу тастатуре.
+Jelöld ki a szél szót (1), majd kattints az **U** betűvel jelölt gombra. A *szél* szó aláhúzott lett.
+
+Próbáld meg a következő mondat alanyát billentyűzet segítségével aláhúzni.
 
 .. infonote::
 
