@@ -10,8 +10,8 @@ Dőlt betűs szöveg
  
 .. suggestionnote::
 
- За речи или делове текста који су написани искошено, словима благо нагнутим у десну страну кажемо да су писане 
- **курзивом**. Често се овај стил писања назива и **италик**.
+Azokra a szavakra vagy szövegrészekre, amelyek kissé jobbra dőlő betűkből állnak, azt mondjuk, hogy **dőlt betűsen** vannak írva. 
+ Gyakran ezt az írásmódot idegen szavakkal **kurzívnak** vagy **italiknak** is nevezik. 
  
 .. questionnote::
 
