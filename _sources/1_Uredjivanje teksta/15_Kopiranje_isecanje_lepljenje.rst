@@ -24,10 +24,9 @@ Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal fels�
 	:width: 800
 	:align: center
 
-Сада  је текст који си селектовао привремено сачуван у меморији рачунара.
+Most a kiválasztott szöveg átmenetileg a számítógép memóriájába kerül.
 
-Прати слику испод. Кликни (постави курсор) на место на ком желиш да се појави текст (3), а затим на сличицу изнад 
-натписа *Paste* (4). 
+Kövesd az alábbi képet. Kattints (helyezd el a kurzort) arra a helyre, ahol meg szeretnéd jeleníteni a szöveget (3), majd kattints a *Paste* felirat feletti ikonra (4).
 	
 .. image:: ../../_images/kopiranje_2.png
 	:width: 800
@@ -35,14 +34,13 @@ Jelöld ki a refrén szövegét (1). Kattints a *Copy* gombra az ablak bal fels�
 
 .. questionnote::
 
- Шта се десило?
+ Mi történt?
 
-Када копираш текст, он остаје и на месту на ком се налазио и појављује се на месту које си одабрао (на које си поставио 
-курсор).
+Amikor kimásolsz egy szöveget, az az eredeti helyén is megmarad, és megjelenik az általad kiválasztott helyen is (ahová a kurzort helyezted).
 
-Често ће ти много више значити копирање преко тастатуре. Ово ће бити случај када не радиш у Ворду, већ када копираш 
-текстове и садржаје из неких других окружења. Овај поступак је врло сличан претходном. 
-Састоји се такође из четири основна корака.
+Gyakran sokkal hasznosabb a billentyűzettel történő másolás. Ilyen eset az, amikor nem a Word-ben dolgozol, hanem más program környezetből másolsz át szövegeket és egyéb tartalmakat. Az eljárás nagyon hasonló az előzőhöz.
+
+Ez is négy alapvető lépésből áll.
 
 .. infonote::
 
