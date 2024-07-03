@@ -15,16 +15,15 @@ Dőlt betűs szöveg
  
 .. questionnote::
 
- Када се текст пише искошеним словима?
+ Mikor írják a szöveget dőlt betűvel?
  
-Када у реченици користиш неку страну реч, па је потребно да се разликује од остатка текста. 
+Amikor egy mondatban idegen szót használsz, és fontos, hogy a megjelenése eltérjen a szöveg többi részétől.
 
-Искошена слова користе се и за писање наслова књига, часописа, филмова, неких стручних појмова.
+Dőlt betűket használnak könyvek, folyóiratok, filmek címeinek, illetve egyes szakkifejezések írásánál is.
 
-Када видиш целе реченице писане курзивом, значи да је у питању неки цитат, да је нешто пренесено дословно, управо 
-онако како је нека особа изговорила. 
+Amikor egész mondatokat látsz dőlt betűkkel írva, az azt jelenti, hogy idézetről van szó, tehát pontosan úgy van leírva, ahogyan azt valaki kimondta.
 
-Управни говор се често, уместо у наводницима, пише на овај начин.
+A közvetlen beszéd is gyakran így jelenik meg a szövegben, idézőjelek használata helyett. 
 
 |
 
