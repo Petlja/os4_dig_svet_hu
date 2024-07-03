@@ -63,18 +63,18 @@ Kvíz - szövegszerkesztés
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Стил писања искошених слова има више назива. Обележи их.
+        A dőlt betűk stílusának több elnevezése is van. Jelöld meg ezeket.
 		
 .. mchoice:: p176
         :correct: c
-        :answer_a: искошеним словима.
-        :answer_b: подвученим словима.
-        :answer_c: подебљаним словима.
-        :answer_d: oбичним словима, подебљавање слова може да се врши само ако је текст већ унет.
+        :answer_a: dőlt betűkkel. 
+        :answer_b: aláhúzott betűkkel. 
+        :answer_c: félkövér betűkkel. 
+        :answer_d: a szöveg normál betűkkel jelenik meg, a félkövér betűkkel való kiemelés csak a szöveg beírása után lehetséges.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Ако пре почетка писања текста притиснеш дугменце са ознаком B, текст који унесеш биће исписан:
+        Ha a gépelés megkezdése előtt megnyomod a B jelű gombot, a beírt szöveg a következő módon jelenik meg: 
 		
