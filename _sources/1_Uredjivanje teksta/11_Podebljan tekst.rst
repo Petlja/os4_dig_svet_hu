@@ -20,7 +20,7 @@ Az ilyen betűket „félkövér betűknek” is nevezik. Ezzel a szöveg áttek
 
 A szövegrészek vastagítását egy konkrét példán keresztül fogjuk neked bemutatni.
 
-Keresd meg és nyisd meg a *Karel és a programozás.docx* dokumentumot, amit már korábban elkészítettél.
+Keresd meg és nyisd meg a *Karel es a programozas.docx* dokumentumot, amit már korábban elkészítettél.
 
 Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot) (1).
 
