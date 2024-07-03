@@ -49,9 +49,9 @@ Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
 .. suggestionnote::
 
- Бројем (4) обележена је могућност да промениш боју линије којом подвлачиш текст. Да ли ти и то може бити корисно? 
- 
- Покушај сам да промениш боју линије за подвлачење!
+ A (4)-es számmal jelölt lehetőség arra szolgál, hogy megváltoztasd a vonal színét, amellyel aláhúzod a szöveget. Mikor lehet ez hasznos számodra?
+
+ Próbáld meg magad megváltoztatni az aláhúzás vonalának színét!
 
 .. questionnote::
 
