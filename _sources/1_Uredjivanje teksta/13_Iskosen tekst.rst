@@ -10,7 +10,7 @@ Dőlt betűs szöveg
  
 .. suggestionnote::
 
-Azokra a szavakra vagy szövegrészekre, amelyek kissé jobbra dőlő betűkből állnak, azt mondjuk, hogy **dőlt betűsen** vannak írva. 
+ Azokra a szavakra vagy szövegrészekre, amelyek kissé jobbra dőlő betűkből állnak, azt mondjuk, hogy **dőlt betűsen** vannak írva. 
  Gyakran ezt az írásmódot idegen szavakkal **kurzívnak** vagy **italiknak** is nevezik. 
  
 .. questionnote::
