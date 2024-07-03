@@ -4,16 +4,16 @@ Kvíz - szövegszerkesztés
 .. mchoice:: p171
 	:multiple_answers:
         :correct: a, d
-        :answer_a: Селектујеш жељени текст, а потом кликнеш на дугменце са ознаком B.
-        :answer_b: Кликнеш на дугменце B, селектујеш текст који желиш да подебљаш и притиснеш Enter.
-        :answer_c: Селектујеш жељени текст, а потом кликнеш на дугменце са ознаком U.
-        :answer_d: Селектујеш жељени текст, а потом притиснеш на тастатури комбинацију Ctrl + B.
+        :answer_a: Jelöld ki a kívánt szöveget, majd kattints a B jelzésű gombra.
+        :answer_b: Kattints a B gombra, jelöld ki a szöveget, amelyet félkövér betűkkel szeretnél kiemelni, majd nyomd meg az Entert.
+        :answer_c: Jelöld ki a kívánt szöveget, majd kattints az U jelzésű gombra.
+        :answer_d: Jelöld ki a kívánt szöveget, majd nyomd meg a billentyűzeten a Ctrl + B kombinációt.
         :feedback_a: A válasz helyes.
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz helyes.
 
-        Означи начине на које можеш да подебљаш већ написан текст.
+        Jelöld be azokat a módokat, amelyekkel félkövérré teheted a már megírt szöveget!
 
 .. mchoice:: p172
         :correct: a
