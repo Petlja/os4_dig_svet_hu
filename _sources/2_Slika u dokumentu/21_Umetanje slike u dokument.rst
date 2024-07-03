@@ -11,9 +11,8 @@ Kép beillesztése a dokumentumba
 
  - hozhatsz létre keretet a kép körül.
  
- 
-Замисли овај приручник без слика. Колико би сложенија била упутства? Погледај приручник из Природе и друштва. 
-Да ли у њему има илустрација, фотографија? Шта све може да се нађе на тим сликама?
+Képzeld el ezt a tankönyvet képek nélkül. Mennyivel bonyolultabbak lennének az itt található útmutatók? Nézd meg a Természet és társadalom című tankönyvet.
+Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a képek?
 
 .. questionnote::
 
