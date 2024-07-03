@@ -27,16 +27,16 @@ A közvetlen beszéd is gyakran így jelenik meg a szövegben, idézőjelek hasz
 
 |
 
-Ево и једне краће вежбе. Отвори нови, празан документ и унеси следећи текст. 
+Íme egy rövidebb gyakorlat. Nyiss meg egy új, üres dokumentumot, és gépeld be a következő szöveget. 
 
 .. image:: ../../_images/kurziv1.png
 	:width: 800
 	:align: center
 
 
-Сачувај документ као *upravni govor.docx*.
+Mentsd el ezt a dokumentumot *közvetlen beszéd.docx* néven.
 
-Прочитај још једном текст и одговори на питања:
+Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre: 
 
 .. questionnote::
 
