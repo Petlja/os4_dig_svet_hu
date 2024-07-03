@@ -34,7 +34,7 @@ A közvetlen beszéd is gyakran így jelenik meg a szövegben, idézőjelek hasz
 	:align: center
 
 
-Mentsd el ezt a dokumentumot *közvetlen beszéd.docx* néven.
+Mentsd el ezt a dokumentumot *kozvetlen beszed.docx* néven.
 
 Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre: 
 
