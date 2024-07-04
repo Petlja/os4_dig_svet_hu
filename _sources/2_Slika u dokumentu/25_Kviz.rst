@@ -27,7 +27,7 @@ Kvíz - kép beillesztése a dokumentumba
         :correct: a
         :answer_a: a kép méretei nem maradnak arányosak, és ez gyakran nem jó megoldás.
         :answer_b: a kép már nem lesz téglalap alakú, a széle ívelt vonalú lesz.
-        :answer_c: a kép méretei arányosak maradnak, a kép csak kisebb vagy nagyobb lesz, de nem lesz eltorzítva.
+        :answer_c: a kép méretei arányosak maradnak, a kép csak kisebb vagy nagyobb lesz, de nem torzul.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
