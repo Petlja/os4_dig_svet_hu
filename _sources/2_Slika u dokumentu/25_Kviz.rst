@@ -36,14 +36,14 @@ Kvíz - kép beillesztése a dokumentumba
 
 .. mchoice:: p254
         :correct: c
-        :answer_a: кликнеш два пута на слику и појавиће се оквир.
-        :answer_b: кликнеш на Insert, па изабереш оквир који желиш.
-        :answer_c: кликнеш на слику, затим на опцију Format, која ће се појавити у менију и изабереш оквир који желиш.
+        :answer_a: duplán kell kattintani a képre, és megjelenik egy keret.
+        :answer_b: az Insert gombra kell kattintani, majd ki kell választani a kívánt szegélyt.
+        :answer_c: rá kell kattintani a képre, majd a menüben megjelenő Format opcióra, és ezután kiválasztható a kívánt keret.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
 
-        Да би добио више могућности за оквир слике, потребно је да…
+        Ahhoz, hogy több képkeret közül lehessen választani…
 
 .. mchoice:: p255
         :correct: b
@@ -60,11 +60,11 @@ Kvíz - kép beillesztése a dokumentumba
 
 .. mchoice:: p256
         :correct: a
-        :answer_a: Не, промена боје текста треба да буде са мером и сврхом.
-        :answer_b: Да, што више боја, то ће документ бити прегледнији.
+        :answer_a: Nem igaz, a szöveg színének megváltoztatása mértékkel és célzottan kell, hogy történjen.
+        :answer_b: Igaz, minél több a szín, annál áttekinthetőbb lesz a dokumentum.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
 
-        Ако користиш много боја у документу, он ће бити прегледнији.
+        Ha sok színt használsz a dokumentumban, az áttekinthetőbb lesz.
 
 
