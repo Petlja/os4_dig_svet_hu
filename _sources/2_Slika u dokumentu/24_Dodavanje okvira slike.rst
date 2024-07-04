@@ -1,4 +1,4 @@
-Додавање оквира слике
+Képszegély hozzáadása
 =====================
 
 .. questionnote::
