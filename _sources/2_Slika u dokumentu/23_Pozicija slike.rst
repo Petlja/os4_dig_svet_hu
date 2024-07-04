@@ -29,9 +29,9 @@ Húzd az egérrel balra.
 
 .. questionnote::
 	
- Шта се десило са сликом? А са текстом који је окружује?
+ Mi történt a képpel? És az azt körülvevő szöveggel?
 
-Изабери сада следећи положај текста у односу на слику (2). 
+Válaszd ki most a szöveg következő elhelyezkedését a képhez viszonyítva (2).
 
 .. image:: ../../_images/pic_10.png
 	:width: 800
@@ -39,10 +39,9 @@ Húzd az egérrel balra.
 
 .. questionnote::
 
- Како је сада постављен текст? У чему је разлика?
+ Most hogy helyezkedik el a szöveg? Mi a különbség?
  
-На сличан начин испробај шта се дешава када изабереш неку од преосталих могућности. Постави слику преко текста, 
-текст преко слике… 
+Hasonló módon próbáld ki, mi történik, amikor a fenmaradt lehetőségeket váasztod ki. Helyezd a képet a szövegre, a szöveget a képre...
 
 .. suggestionnote::
 
