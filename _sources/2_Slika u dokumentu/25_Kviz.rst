@@ -5,8 +5,8 @@
         :correct: b
         :answer_a: Не, слика ће увек бити постављена на почетак документа.
         :answer_b: Да, слика ће „пресећи“ текст на месту где је постављен курсор.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
 
         Када умећеш слику у документ, она ће бити постављена почев од места на ком се налази курсор?
 		
@@ -16,10 +16,10 @@
         :answer_b: Не можеш док не изабереш њен положај у односу на текст.
         :answer_c: Можеш да је помераш десним кликом миша.
         :answer_d: Слика може да остане само на месту на које си је убацио.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Када тек поставиш слику, да ли можеш да је помераш?
 
@@ -28,9 +28,9 @@
         :answer_a: димензије слике неће остати у истом односу и то често није добро решење.
         :answer_b: слика више неће имати облик правоугаоника, ивица ће да постане крива линија.
         :answer_c: димензије слике ће остати у истом односу, слика ће само бити мања или већа, неће бити развучена.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор није тачан. 
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz nem helyes. 
 
         За промену димензија слике можеш да користиш беле кружиће. Ако користиш кружиће који се налазе на срединама ивица слике…
 
@@ -39,9 +39,9 @@
         :answer_a: кликнеш два пута на слику и појавиће се оквир.
         :answer_b: кликнеш на Insert, па изабереш оквир који желиш.
         :answer_c: кликнеш на слику, затим на опцију Format, која ће се појавити у менију и изабереш оквир који желиш.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz helyes. 
 
         Да би добио више могућности за оквир слике, потребно је да…
 
@@ -51,10 +51,10 @@
         :answer_b: Ctrl + A
         :answer_c: Ctrl + S
         :answer_d: Ctrl + U
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Када желиш да селектујеш сав текст у неком документу, користићеш комбинацију тастера:
 
@@ -62,8 +62,8 @@
         :correct: a
         :answer_a: Не, промена боје текста треба да буде са мером и сврхом.
         :answer_b: Да, што више боја, то ће документ бити прегледнији.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz nem helyes. 
 
         Ако користиш много боја у документу, он ће бити прегледнији.
 
