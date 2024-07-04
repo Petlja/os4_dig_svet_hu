@@ -3,25 +3,25 @@
 
 .. mchoice:: p251
         :correct: b
-        :answer_a: Не, слика ће увек бити постављена на почетак документа.
-        :answer_b: Да, слика ће „пресећи“ текст на месту где је постављен курсор.
+        :answer_a: Nem, a kép mindig a dokumentum elejére kerül.
+        :answer_b: Igen, a kép „megtöri“ a szöveget ott, ahol a kurzor található.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
 
-        Када умећеш слику у документ, она ће бити постављена почев од места на ком се налази курсор?
+        Ha képet illesztesz be a dokumentumba, az a kurzor helyétől kezdve lesz elhelyezve?
 		
 .. mchoice:: p252
         :correct: b
-        :answer_a: Да, када кликнеш на слику, можеш да је помераш горе и доле.
-        :answer_b: Не можеш док не изабереш њен положај у односу на текст.
-        :answer_c: Можеш да је помераш десним кликом миша.
-        :answer_d: Слика може да остане само на месту на које си је убацио.
+        :answer_a: Igen, a képre kattintva fel-le mozgatható.
+        :answer_b: Nem, amíg nincs kiválasztva a kép a pozíciója a szöveghez képest.
+        :answer_c: Jobb egérgombbal mozgatható
+        :answer_d: A kép csak azon a helyen maradhat, ahová be lett szúrva.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Када тек поставиш слику, да ли можеш да је помераш?
+        Ha beillesztetted a képet, át tudod utána helyezni?
 
 .. mchoice:: p253
         :correct: a
