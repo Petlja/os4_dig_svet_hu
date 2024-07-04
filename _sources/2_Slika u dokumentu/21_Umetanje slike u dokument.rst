@@ -54,11 +54,10 @@ Kattints a beilleszteni kívánt képre (2) majd erősítsd ezt meg az *Insert* 
 
 .. technicalnote::
 
- У прозору са слике види се садржај слике коју убацујемо. Међутим, може се десити да код тебе буде приказан само њен 
- назив. Ако кликнеш на стрелицу означену са (4), можеш да промениш начин на који ће бити приказане слике које се налазе 
- у тој фасцикли.
+ Az ablakban a beilleszteni kívánt kép tartalma látható. Azonban előfordulhat, hogy nálad csak a kép neve jelenik meg. 
+ Ha a (4) számmal jelölt nyílra kattintasz, megváltoztathatod a mappában lévő képek megjelenítési módját.
 
-Да ли се слика појавила у документу? Да ли је величине која ти одговара? Наша изгледа овако:
+Megjelent a kép a dokumentumban? Olyan méretű, amely megfelel neked? A miénk így néz ki:
 	
 .. image:: ../../_images/pic_3.png
 	:width: 800
