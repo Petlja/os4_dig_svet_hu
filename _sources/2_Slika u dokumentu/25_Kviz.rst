@@ -1,5 +1,5 @@
-Квиз - уметање слике у документ
-===============================
+Kvíz - kép beillesztése a dokumentumba
+======================================
 
 .. mchoice:: p251
         :correct: b
@@ -25,14 +25,14 @@
 
 .. mchoice:: p253
         :correct: a
-        :answer_a: димензије слике неће остати у истом односу и то често није добро решење.
-        :answer_b: слика више неће имати облик правоугаоника, ивица ће да постане крива линија.
-        :answer_c: димензије слике ће остати у истом односу, слика ће само бити мања или већа, неће бити развучена.
+        :answer_a: a kép méretei nem maradnak arányosak, és ez gyakran nem jó megoldás.
+        :answer_b: a kép már nem lesz téglalap alakú, a széle ívelt vonalú lesz.
+        :answer_c: a kép méretei arányosak maradnak, a kép csak kisebb vagy nagyobb lesz, de nem lesz eltorzítva.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
 
-        За промену димензија слике можеш да користиш беле кружиће. Ако користиш кружиће који се налазе на срединама ивица слике…
+        A fehér köröcskék segítségével módosítható a kép mérete. Ha a kép széleinek közepén lévő köröket használod...
 
 .. mchoice:: p254
         :correct: c
