@@ -38,19 +38,19 @@ Helyezd a kurzort az első bekezdés alá. Kattints az *Insert* (Beszúrás) (1)
 	:width: 800
 	:align: center
 
-Појавио се следећи прозор (дијалог):
+Ennek hatására a következő (párbeszéd-) ablak jelenik meg:
 	
 .. image:: ../../_images/pic_2.png
 	:width: 800
 	:align: center
 
-На левој страни прозора налази се списак фасцикли. Пронађи и кликни на фасциклу у којој се налази слика коју желиш да 
-убациш у документ. У нашем случају то је *Pictures* (1).
+Az ablak bal oldalán található a mappák listája. Keresd meg és kattints rá arra a mappára, amelyben a beilleszteni kívánt kép található. 
+A mi esetünkben ez a *Pictures* (Képek) mappa (1).
 
-На десној страни прозора приказано је шта се све налази у тој фасцикли. Ми имамо само једну слику. 
-Ти ћеш сигурно видети још много слика које су направили твоји школски другари или чланови породице (ако вежбаш код куће). 
+Az ablak jobb oldalán látható, hogy mi van az adott mappában. Itt most csak egy kép van.
+Te biztosan sok más képet fogsz látni, amelyeket az osztálytársaid vagy családtagjaid készítettek (ha az otthoni gépen gyakorolsz).
 
-Кликни на слику коју желиш да убациш (2) и потврди са *Insert* (3).
+Kattints a beilleszteni kívánt képre (2) majd erősítsd ezt meg az *Insert* (Beszúrás) (3) gombbal.
 
 .. technicalnote::
 
