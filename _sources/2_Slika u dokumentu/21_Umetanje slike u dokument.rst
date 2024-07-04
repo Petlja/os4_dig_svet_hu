@@ -63,16 +63,16 @@ Megjelent a kép a dokumentumban? Olyan méretű, amely megfelel neked? A miénk
 	:width: 800
 	:align: center
 
-Да би боље видео како изгледа документ, мало га „удаљи“. На слици испод са (1) је означен клизач који ти омогућава 
-да документ посматраш из веће или мање близине, као и папир који држиш у руци.
+Ahhoz, hogy jobban lásd, hogyan néz ki a dokumentum, egy kissé „távolítsd el“. Az alábbi képen az (1)-es számmal jelölt csúszka lehetővé teszi, 
+hogy a dokumentumot nagyobb vagy kisebb távolságból nézd, akárcsak a kezedben tartott papírt.
 
 .. infonote::
 
- Зумирање (приближавање и удаљавање документа) можеш у Ворду да радиш на више начина. Два „најбржа“ су:
- 
- - држиш притиснут тастер **Ctrl** и помераш скрол (точкић) миша,
- 
- - помераш клизач у доњем десном углу прозора, како је приказано на слици испод (1)
+ A dokumentum nagyítását (közelítését és távolítását, angolul *zoom*) a Wordben többféleképpen végezheted el. A két „leggyorsabb” módja a következő:
+
+ - tartsd lenyomva a **Ctrl** billentyűt és forgasd az egér görgőjét,
+
+ - mozdítsd el az ablak jobb alsó sarkában található csúszkát, ahogy az az alábbi képen (1) látható. 
 
 .. questionnote::
 
