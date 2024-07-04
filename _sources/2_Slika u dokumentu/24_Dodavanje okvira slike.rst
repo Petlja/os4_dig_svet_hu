@@ -3,20 +3,20 @@ Képszegély hozzáadása
 
 .. questionnote::
 
- Због чега се урамљују слике? Да ли само из техничких разлога, да би могле да висе на зиду или лакше стоје на полици? 
- Да ли су сви рамови (оквири) исти? 
+ Miért vannak bekeretezve a képek? Csak technikai okokból, hogy fel lehessen akasztani őket a falra, vagy hogy biztosabban álljanak a polcon?
+ Minden keret ugyanolyan?
  
-Слика постављена у документ не може да падне. Оквир јој није потребан из тог разлога. Ипак, ппонекад нам је важно да 
-се садржај слике на неки начин одвоји од текста или да се више нагласи. Ако желиш да поставиш слику беле позадине на 
-бели папир, на пример.
+A dokumentumba helyezett kép nem eshet le. Nem emiatt van szüksége keretre vagy más néven szegélyre. Mégis, néha fontos számunkra, 
+hogy a kép tartalma valamilyen módon elkülönüljön a szövegtől, vagy jobban kiemelkedjen. 
+Például, ha fehér hátterű képet szeretnél fehér papírra helyezni.
 
-Једна од могућности у Ворду јесте да уоквириш слику. Као што постоје различити рамови за праве слике, тако и ови оквири 
-могу бити различитих боја, дебљине и стила. 
+A Word egyik képessége, hogy bekeretezheted vele a képet. Ahogy különböző keretek léteznek a valódi képekhez, 
+úgy ezek a szegélyek is különböző színűek, vastagságúak és stílusúak lehetnek.
 
-Уоквирићемо слику Карела.
+Be fogjuk keretezni Karel képét.
 
-Кликни на слику (1). Можеш, ако желиш, мало да је повећаш. У главном менију појавиће се опција *Format* (2), a испод ње 
-сличице са различитим оквирима (3). Ако ниси задовољан избором, кликом на стрелицу (4) потражи додатне могућности.
+Kattints a képre (1). Ha szeretnéd, valamelyest fel is nagyíthatod. A főmenüben megjelenik a *Format* (Formátum) (2) lehetőség, 
+és alatta különböző keretek (3). Ha nem vagy elégedett a választékkal, a nyílra kattintva (4) további keret típusok közül választhatsz.
 
 .. image:: ../../_images/pic_11.png
 	:width: 800
