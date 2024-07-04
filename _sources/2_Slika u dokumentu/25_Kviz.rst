@@ -56,7 +56,7 @@
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Када желиш да селектујеш сав текст у неком документу, користићеш комбинацију тастера:
+        Ha egy dokumentumban a teljes szöveget ki szeretnéd jelölni, akkor a következő billentyűkombinációt kell használnod:
 
 .. mchoice:: p256
         :correct: a
