@@ -16,23 +16,23 @@ Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a kép
 
 .. questionnote::
 
- Да ли си некад чуо да неко каже да „једна слика вреди хиљаду речи“? Шта то значи? Да ли се слажеш са тим?
+ Ismered az „egy kép többet ér ezer szónál“ mondást? Mit jelent ez? Egyetértesz ezzel?
  
-Слике се у документ убацују из више разлога. Могу да послуже као илустрације, да се визуелно прикажу неке идеје, 
-информације. Различити графикони и дијаграми могу бити корисни за приказивање сложених података. Тако приказани подаци 
-сигурно су прегледнији и лакше их је разумети. 
+A képeket több okból is illeszthetünk a dokumentumba. Szolgálhatnak illusztrációként, vizuálisan megjeleníthetnek ötleteket, információkat. 
+A különböző grafikonok és diagramok hasznosak lehetnek összetett adatok megjelenítésére. Az így bemutatott adatok biztosan 
+áttekinthetőbbek és könnyebben érthetőek.
 
-У случају овог приручника слике су употребљене као упутства – објашњавају кораке које треба да урадиш. Понекад се 
-слике користе и само да би да би нам оно што читамо било привлачније.
+Ebben a tankönyvben a képek útmutatásként szolgálnak – elmagyarázzák azokat a lépéseket, amelyeket meg kell tenned. 
+Néha a képeket csak azért használjuk, hogy vonzóbbá tegyék az olvasottakat.
 
-Слике у документу треба да буду одговарајуће и повезане са оним о чему пишеш, како би читаоцима помогле 
-да што боље разумеју информације.
+A dokumentumban szereplő képeknek megfelelőekek kell lenniük, és kapcsolódniuk kell annak tartalmához, 
+hogy az olvasók jobban megértsék az információkat.
 
-Како у Ворду додајеш слику у свој документ? Објаснићемо ти на конкретном примеру – убацићемо слику робота Карела у *Karel i programiranje.docx*. 
+Hogyan lehet képet hozzáadni a dokumentumhoz a Wordben? Ezt egy konkrét példával magyarázzuk el - beszúrunk egy képet a Karel robotról a *Karel es a programozas.docx* fájlba.
 
-Отвори овај документ!
+Nyisd meg ezt a dokumentumot!
 
-Постави курсор испод првог пасуса. Кликни на *Insert* (1), а затим на *Pictures* (2) као што је приказано на слици испод.
+Helyezd a kurzort az első bekezdés alá. Kattints az *Insert* (Beszúrás) (1) gombra, majd a *Pictures* (Képek) (2) gombra, ahogy az az alábbi ábrán látható.
 
 .. image:: ../../_images/pic_1.png
 	:width: 800
