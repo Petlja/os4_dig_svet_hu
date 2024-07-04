@@ -18,7 +18,7 @@ Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a kép
 
  Ismered az „egy kép többet ér ezer szónál“ mondást? Mit jelent ez? Egyetértesz ezzel?
  
-A képeket több okból is illeszthetünk a dokumentumba. Szolgálhatnak illusztrációként, vizuálisan megjeleníthetnek ötleteket, információkat. 
+A képet több okból is illeszthetünk egy dokumentumba. Szolgálhatnak illusztrációként, megjeleníthetnek ötleteket, információkat. 
 A különböző grafikonok és diagramok hasznosak lehetnek összetett adatok megjelenítésére. Az így bemutatott adatok biztosan 
 áttekinthetőbbek és könnyebben érthetőek.
 
@@ -28,7 +28,7 @@ Néha a képeket csak azért használjuk, hogy vonzóbbá tegyék az olvasottaka
 A dokumentumban szereplő képeknek megfelelőekek kell lenniük, és kapcsolódniuk kell annak tartalmához, 
 hogy az olvasók jobban megértsék az információkat.
 
-Hogyan lehet képet hozzáadni a dokumentumhoz a Wordben? Ezt egy konkrét példával magyarázzuk el - beszúrunk egy képet a Karel robotról a *Karel es a programozas.docx* fájlba.
+Hogyan lehet a Wordben képet hozzáadni a dokumentumhoz? Ezt egy konkrét példával magyarázzuk el - beszúrunk egy képet a Karel robotról a *Karel es a programozas.docx* fájlba.
 
 Nyisd meg ezt a dokumentumot!
 
