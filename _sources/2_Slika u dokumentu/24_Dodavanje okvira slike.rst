@@ -22,9 +22,9 @@ Kattints a képre (1). Ha szeretnéd, valamelyest fel is nagyíthatod. A főmen�
 	:width: 800
 	:align: center
 	
-Оквир који смо изабрали можда није у потпуности одговарајући. 
+Lehet, hogy az általunk választott keret nem a legmegfelelőbb.
 
 .. infonote::
 
- Када бираш оквир за слику, води рачуна да буде у складу са остатком документа и да не нарушава његов изглед!
+ A képkeret kiválasztásakor ügyeljen arra, hogy az összhangban legyen a dokumentum többi részével, és ne rontsa el a megjelenését!
 
