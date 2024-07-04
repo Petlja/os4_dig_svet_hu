@@ -45,9 +45,8 @@ Hasonló módon próbáld ki, mi történik, amikor a fenmaradt lehetőségeket 
 
 .. suggestionnote::
 
- Обрати пажњу на хоризонталне линије и полукружни облик на иконици коју си изабрао. У каквом су односу? Да ли су у истом односу и твој текст и слика после овог избора?
+ Figyeld meg a vízszintes vonalakat és a félkör alakzatot azon az ikonon, amit kiválasztottál. Milyen viszonyban vannak egymással? Ugyanabban a viszonyban van a szöveged és a képed is ezután a választás után?
 
-Када испробаш ове могућности, врати се неколико корака уназад, до оног пре ротирања слике (**Ctrl + Z**) или кликом 
-на стрелицу у горњем левом углу прозора Ворда.
+Miután kipróbáltad ezeket a lehetőségeket, lépj vissza néhány lépést a kép forgatása előtti állapotba (**Ctrl + Z**), vagy kattints a nyílra a Word ablakának bal felső sarkában.
 
 |
