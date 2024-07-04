@@ -76,12 +76,12 @@ hogy a dokumentumot nagyobb vagy kisebb távolságból nézd, akárcsak a kezedb
 
 .. questionnote::
 
- Обрати пажњу, на ком месту у документу се појавила слика? Где би се појавила да си пре уметања курсор поставио испод текста?
+ Figyeld meg, hogy hol jelent meg a kép a dokumentumban! Hol jelent volna meg, ha a beszúrás előtt a kurzort a szöveg alá helyezted volna?
 	
 .. image:: ../../_images/pic_4.png
 	:width: 800
 	:align: center
 
-Наша слика је много већа него што смо замислили, не уклапа се добро у овај документ. То, наравно, није проблем. 
-У Ворду можеш да промениш величину слике и да је прилагодиш садржају.
+A képünk sokkal nagyobb, mint amire számítottunk, és nem illeszkedik jól ebbe a dokumentumba. Ez természetesen nem probléma.
+A Wordben megváltoztathatod a kép méretét és hozzáigazíthatod a tartalomhoz.
 
