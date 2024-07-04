@@ -16,15 +16,14 @@ hogy visszaállítsd a képet az eredeti méretére!
 	:width: 800
 	:align: center
 	
-Кликни сада на бели кружић који се налази у доњем десном углу слике. Држи притиснут тастер и „вуци“ кружић. 
+Kattints most arra a fehér körre, amely a kép jobb alsó sarkában található. Tartsd lenyomva az egérgombot és húzd el a kört.
 
-Шта примећујеш?
+Mit veszel észre?
 
-Када за промену величине слике користиш кружиће у угловима (у теменима), однос њене висине и ширине остаће исти. 
-Слика се неће деформисати.
+Amikor a kép méretének megváltoztatásához a sarkokban (a csúcsoknál) lévő köröcskéket használod, akkor a magasság és a szélesség aránya változatlan marad.
+A kép nem fog deformálódni.
 
-Умањи или увећај слику по жељи.
-
+Kicsinyítsd vagy nagyítsd a képet, tetszésed szerint.
 
 .. image:: ../../_images/pic_6.png
 	:width: 800
@@ -32,6 +31,6 @@ hogy visszaállítsd a képet az eredeti méretére!
 
 .. questionnote::
 
- Кликни поново на слику и покушај да је помериш у било ком правцу – горе, доле, лево, десно! Да ли можеш то да урадиш?
+ Kattints újra a képre és próbáld meg elmozdítani bármely irányba – fel, le, balra, jobbra! Meg tudod ezt csinálni?
 
 |
