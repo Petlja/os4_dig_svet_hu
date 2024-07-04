@@ -1,12 +1,10 @@
-Позиција слике у односу на текст
-================================
+A kép helyzete a szöveghez viszonyítva
+======================================
 
-Када тек поставиш слику у документ, можеш да јој мењаш величину и да је ротираш (окрећеш), али не можеш да јој промениш 
-место. Да би омогућио померање, прво треба да одредиш како ће она да буде постављена у односу на текст.
- 
-Имаш неколико могућности – слика може да буде поравната са текстом или да га „преломи“, текст може да буде исписан 
-преко слике, слика може да буде постављена преко текста, текст може да прати ивице слике или да око ње направи 
-правоугаони простор… Најбоље је да их испробаш једну по једну.
+Amikor egy képet először helyezel el a dokumentumban, megváltoztathatod a méretét és forgathatod, de nem tudod áthelyezni. 
+Ahhoz, hogy áthelyezhető legyen, először meg kell határoznod, hogyan legyen elhelyezve a szöveghez viszonyítva.
+
+Több lehetőséged van – a kép lehet egy sorban a szöveggel vagy „tördelheti” azt, a szöveg ráíródhat a képre, a kép rákerülhet a szövegre, a szöveg követheti a kép széleit vagy téglalap alakú területet hozhat létre körülötte… A legjobb, ha ezeket egyenként kipróbálod.
 	
 .. image:: ../../_images/pic_7.png
 	:width: 800
