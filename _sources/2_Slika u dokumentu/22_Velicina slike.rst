@@ -5,12 +5,12 @@ A kép mérete
 
  Kattints a képre. Megjelent valami? Észrevetted a nyolc fehér kört, amelyek a szélei mentén jelentek meg?
 
-Четири су у теменима правоугаоника који чини слику, а четири на срединама њених ивица. Кликни мишем на кружић који се 
-налази на средини доње ивице слике (1) и вуци ка горе (како би смањио слику). Шта се десило? 
+Négy köröcske van annak a téglalapnak sarkainál, amely a képet alkotja, és négy a szélei közepén. Kattints az egérrel 
+a kis körre, amely a kép alsó szélének közepén található (1), és húzd felfelé (hogy csökkentsd a kép méretét). Mi történt?
 
-Слика се јесте смањила, али, да ли су се промениле обе димензије? Да ли твој робот и даље изгледа онако како си 
-замислио и нацртао? На срећу, увек можеш да се вратиш корак уназад. Кликни на кружну стрелицу (2) како би вратио слику 
-у почетне димензије!
+A kép valóban kisebb lett, de megváltozott-e mindkét méret (a szélesség és a magasság is)? Úgy néz-e ki még mindig a robotod, 
+ahogyan azt lerajzoltad? Szerencsére mindig visszaléphetsz egyet. Kattints a kör alakú nyílra (2), 
+hogy visszaállítsd a képet az eredeti méretére!
 
 .. image:: ../../_images/pic_5.png
 	:width: 800
