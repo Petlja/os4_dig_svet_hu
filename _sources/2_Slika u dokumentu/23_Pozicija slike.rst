@@ -10,18 +10,18 @@ Több lehetőséged van – a kép lehet egy sorban a szöveggel vagy „tördel
 	:width: 800
 	:align: center
 
-Кликни на иконицу која се појави уз горњи десни угао слике када кликнеш на њу (1) и изабери опцију као на слици (2). 
-Текст је окружио слику.
+Kattints az ikonra, amely a kép jobb felső sarkában jelenik meg, majd amikor rákattintottál (1) válaszd ki a képen látható opciót (2).
+A szöveg körülölelte a képet.
 
-Покушај сада да помериш слику! Постави је као што је приказано у примеру испод.
+Próbáld meg most elmozdítani a képet! Helyezd el úgy, ahogyan az az alábbi példában látható.
 
 .. image:: ../../_images/pic_8.png
 	:width: 800
 	:align: center
 
-Да ли си приметио и кружну стрелицу која се појави када кликнеш на слику у документу (1)?
+Észrevetted a kör alakú nyilat, amely megjelenik, amikor rákattintasz a képre (1)?
 
-Повуци је мишем у леву страну. 
+Húzd az egérrel balra.
 	
 .. image:: ../../_images/pic_9.png
 	:width: 800
