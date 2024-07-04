@@ -26,5 +26,5 @@ Lehet, hogy az általunk választott keret nem a legmegfelelőbb.
 
 .. infonote::
 
- A képkeret kiválasztásakor ügyeljen arra, hogy az összhangban legyen a dokumentum többi részével, és ne rontsa el a megjelenését!
+ A képkeret kiválasztásakor ügyelj arra, hogy az összhangban legyen a dokumentum többi részével, és ne rontsa el a megjelenését!
 
