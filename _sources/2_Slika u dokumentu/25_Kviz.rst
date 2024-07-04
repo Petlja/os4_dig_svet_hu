@@ -14,7 +14,7 @@ Kvíz - kép beillesztése a dokumentumba
         :correct: b
         :answer_a: Igen, a képre kattintva fel-le mozgatható.
         :answer_b: Nem, amíg nincs kiválasztva a kép a pozíciója a szöveghez képest.
-        :answer_c: Jobb egérgombbal mozgatható
+        :answer_c: Jobb egérgombbal mozgatható.
         :answer_d: A kép csak azon a helyen maradhat, ahová be lett szúrva.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
