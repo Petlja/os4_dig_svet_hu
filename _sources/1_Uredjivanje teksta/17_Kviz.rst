@@ -4,10 +4,10 @@ Kvíz - szövegszerkesztés
 .. mchoice:: p171
 	:multiple_answers:
         :correct: a, d
-        :answer_a: Jelöld ki a kívánt szöveget, majd kattints a B jelzésű gombra.
-        :answer_b: Kattints a B gombra, jelöld ki a szöveget, amelyet félkövér betűkkel szeretnél kiemelni, majd nyomd meg az Entert.
-        :answer_c: Jelöld ki a kívánt szöveget, majd kattints az U jelzésű gombra.
-        :answer_d: Jelöld ki a kívánt szöveget, majd nyomd meg a billentyűzeten a Ctrl + B kombinációt.
+        :answer_a: Jelöld ki a kívánt szöveget, majd kattints a B jelzésű gombra!
+        :answer_b: Kattints a B gombra, jelöld ki a szöveget, amelyet félkövér betűkkel szeretnél kiemelni, majd nyomd meg az Entert!
+        :answer_c: Jelöld ki a kívánt szöveget, majd kattints az U jelzésű gombra!
+        :answer_d: Jelöld ki a kívánt szöveget, majd nyomd meg a billentyűzeten a Ctrl + B kombinációt!
         :feedback_a: A válasz helyes.
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
@@ -63,14 +63,14 @@ Kvíz - szövegszerkesztés
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        A dőlt betűk stílusának több elnevezése is van. Jelöld meg ezeket.
+        A dőlt betűk stílusának több elnevezése is van. Jelöld meg ezeket!
 		
 .. mchoice:: p176
         :correct: c
         :answer_a: dőlt betűkkel. 
         :answer_b: aláhúzott betűkkel. 
         :answer_c: félkövér betűkkel. 
-        :answer_d: a szöveg normál betűkkel jelenik meg, a félkövér betűkkel való kiemelés csak a szöveg beírása után lehetséges.
+        :answer_d: A szöveg normál betűkkel jelenik meg, a félkövér betűkkel való kiemelés csak a szöveg beírása után lehetséges.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
