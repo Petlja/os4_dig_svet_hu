@@ -5,30 +5,30 @@ Félkövér betűs szöveg
 
  Ebben a leckében megtanulod, hogy miként lehet...
 
- - félkövér, dőlt betűs és aláhúzott szöveget létrehozni, 
+ - félkövér betűs, dőlt betűs és aláhúzott szöveget létrehozni, 
  - megváltoztatni a szöveg méretét és színét,
- - kivágni és másolni a szöveget, illetve a kivágott/másolt szöveget beilleszteni a megfelelő helyre. 
+ - kivágni és másolni a szöveget, illetve a kivágott/másolt szöveget beilleszteni a megfelelő helyre.
 
 .. questionnote::
 
- Lapozz bele bármelyik tankönyvbe, amit használsz. Minden szöveg ugyanúgy van írva? 
+ Lapozz bele bármelyik általad használt tankönyvbe! Minden szöveg ugyanúgy van írva? 
  Észrevettél olyan szavakat, amelyek vastag betűkkel vannak írva? 
  Miért emelték ki pont ezeket a szavakat? Mit akartak ezzel elérni a szerzők?
  
-Az egyik módja annak, hogy kiemeljünk egy fontos szót a szövegben (vagy a szöveg egy részét), az, hogy **vastag betűkkel** írjuk.
-Az ilyen betűket „félkövér betűknek” is nevezik. Ezzel a szöveg áttekinthetőbbé válik, és így segít a fontos dolgokat könnyebben megjegyezni.
+Az egyik módja annak, hogy kiemeljünk egy fontos szót (vagy a szöveg egy részét) a szövegben, az, hogy **vastag betűkkel** írjuk.
+Az ilyen betűket „félkövér betűknek” is nevezzük. Használatával a szöveg áttekinthetőbbé válik, így hozzájárul a fontos dolgok könnyebb megjegyzéséhez.
 
 A szövegrészek vastagítását egy konkrét példán keresztül fogjuk neked bemutatni.
 
-Keresd meg és nyisd meg a *Karel es a programozas.docx* dokumentumot, amit már korábban elkészítettél.
+Keresd meg és nyisd meg a *Karel es a programozas.docx* dokumentumot, amit már korábban elkészítettél!
 
-Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot) (1).
+Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot) (1)!
 
 .. image:: ../../_images/bold1.png
 	:width: 800
 	:align: center
 
-Kattints a **B** jelű gombra (2). Sikerült megváltoztatni a betűk vastagságát?
+Kattints a **B** jelű gombra (2)! Sikerült megváltoztatni a betűk vastagságát?
 Amikor az egeret a gomb fölé viszed, megjelenik egy szövegdoboz **Ctrl + B** felirattal. Ez a billentyűkombináció ugyanezt a műveletet végzi el – azaz megvastagítja a kijelölt szöveget.
 
 .. infonote::
@@ -48,7 +48,7 @@ Ezután (továbbra is nyomva tartva a **Ctrl**-t) nyomd meg a B betűt. Sikerül
 
 .. questionnote::
 
- Olvasd el újra figyelmesen a szöveget. Miről szól? Mely fogalmak vannak elmagyarázva? Emeld ki a kulcsszavakat félkövér betűkkel. 
+ Olvasd el újra figyelmesen a szöveget! Miről szól? Mely fogalmak vannak elmagyarázva? Emeld ki a kulcsszavakat félkövér betűkkel!
  
  Mely szavakat választottad, és miért?
  
