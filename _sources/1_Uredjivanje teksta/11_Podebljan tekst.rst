@@ -16,7 +16,7 @@ Félkövér betűs szöveg
  Miért emelték ki pont ezeket a szavakat? Mit akartak ezzel elérni a szerzők?
  
 Az egyik módja annak, hogy kiemeljünk egy fontos szót (vagy a szöveg egy részét) a szövegben, az, hogy **vastag betűkkel** írjuk.
-Az ilyen betűket „félkövér betűknek” is nevezzük. Használatával a szöveg áttekinthetőbbé válik, így hozzájárul a fontos dolgok könnyebb megjegyzéséhez.
+Az ilyen betűket „félkövér betűknek” is nevezzük. Használatukkal a szöveg áttekinthetőbbé válik, így hozzájárulnak a fontos dolgok könnyebb megjegyzéséhez.
 
 A szövegrészek vastagítását egy konkrét példán keresztül fogjuk neked bemutatni.
 
