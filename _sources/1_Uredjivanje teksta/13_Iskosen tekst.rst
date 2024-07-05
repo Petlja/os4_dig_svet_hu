@@ -62,7 +62,7 @@ Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet 
 
 .. questionnote::
 
- Módosítsd a többi szövegrészt is, amelyek közvetlen beszédet tartalmaznak, úgy, hogy dőlt betűsen legyenek írva!
+ Módosítsd a többi közvetlen beszédet tartalmazó szövegrészt is úgy, hogy dőlt betűsen legyenek írva!
 
  Írd át az összes mondatot közvetett beszédre, és gépeld le őket az adott szöveg alá! Mentsd el a dokumentumot!
 
