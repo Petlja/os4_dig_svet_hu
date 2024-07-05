@@ -32,14 +32,14 @@ Bevezető kvíz
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
 
-        El lehet-e mentheti ugyanazt a rajzot különböző neveken?
+        El lehet-e menteni ugyanazt a rajzot különböző neveken?
 		
 .. mchoice:: p034
         :multiple_answers:
         :correct: b, d
-        :answer_a: Sok felhő van az égen.Esni fog.
+        :answer_a: Sok felhő van az égen. Esni fog.
         :answer_b: Tünde a Bartók Béla Zeneiskola második osztályába jár.
-        :answer_c: Szia, Vera ! Nagyon örülök, hogy látlak.
+        :answer_c: Szia, Vera! Nagyon örülök, hogy látlak.
         :answer_d: Vincének van egy papagája, Gyurinak hívják. Angéla papagáját Tinának hívják.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
@@ -77,4 +77,4 @@ Bevezető kvíz
 
 |
 
-Ha helyesen válaszoltál az előző kérdésekre, valamint előkészítetted szöveget és lerajzoltad a képet, akkor folytathatjuk...
+Ha helyesen válaszoltál az előző kérdésekre, valamint előkészítetted a szöveget és lerajzoltad a képet, akkor folytathatjuk...
