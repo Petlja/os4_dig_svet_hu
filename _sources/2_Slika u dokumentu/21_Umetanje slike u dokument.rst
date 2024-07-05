@@ -11,46 +11,46 @@ Kép beillesztése a dokumentumba
 
  - hozhatsz létre keretet a kép körül.
  
-Képzeld el ezt a tankönyvet képek nélkül. Mennyivel bonyolultabbak lennének az itt található útmutatók? Nézd meg a Természet és társadalom című tankönyvet.
+Képzeld el ezt a tankönyvet képek nélkül! Mennyivel lennének bonyolultabbak az itt található útmutatók? Nézd meg a Természet és társadalom című tankönyvet!
 Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a képek?
 
 .. questionnote::
 
  Ismered az „egy kép többet ér ezer szónál“ mondást? Mit jelent ez? Egyetértesz ezzel?
  
-A képet több okból is illeszthetünk egy dokumentumba. Szolgálhatnak illusztrációként, megjeleníthetnek ötleteket, információkat. 
+Képet több okból is illeszthetünk egy dokumentumba. Szolgálhatnak illusztrációként, megjeleníthetnek ötleteket, információkat. 
 A különböző grafikonok és diagramok hasznosak lehetnek összetett adatok megjelenítésére. Az így bemutatott adatok biztosan 
-áttekinthetőbbek és könnyebben érthetőek.
+áttekinthetőbbek és könnyebben érthetők.
 
-Ebben a tankönyvben a képek útmutatásként szolgálnak – elmagyarázzák azokat a lépéseket, amelyeket meg kell tenned. 
+Ebben a tankönyvben a képek útmutatásként szolgálnak – elmagyarázzák azokat a lépéseket, amelyeket meg kell tenned.
 Néha a képeket csak azért használjuk, hogy vonzóbbá tegyék az olvasottakat.
 
-A dokumentumban szereplő képeknek megfelelőekek kell lenniük, és kapcsolódniuk kell annak tartalmához, 
+A dokumentumban szereplő képeknek megfelelőeknek kell lenniük, és kapcsolódniuk kell annak tartalmához, 
 hogy az olvasók jobban megértsék az információkat.
 
-Hogyan lehet a Wordben képet hozzáadni a dokumentumhoz? Ezt egy konkrét példával magyarázzuk el - beszúrunk egy képet a Karel robotról a *Karel es a programozas.docx* fájlba.
+Hogyan lehet a Wordben képet hozzáadni a dokumentumhoz? Ezt egy konkrét példával magyarázzuk el - beszúrunk egy képet Karel robotról a *Karel es a programozas.docx* fájlba.
 
 Nyisd meg ezt a dokumentumot!
 
-Helyezd a kurzort az első bekezdés alá. Kattints az *Insert* (Beszúrás) (1) gombra, majd a *Pictures* (Képek) (2) gombra, ahogy az az alábbi ábrán látható.
+Helyezd a kurzort az első bekezdés alá! Kattints az *Insert* (Beszúrás) (1) gombra, majd a *Pictures* (Képek) (2) gombra, ahogy az az alábbi ábrán látható!
 
 .. image:: ../../_images/pic_1.png
 	:width: 800
 	:align: center
 
-Ennek hatására a következő (párbeszéd-) ablak jelenik meg:
+Ennek hatására a következő (párbeszéd)ablak jelenik meg:
 	
 .. image:: ../../_images/pic_2.png
 	:width: 800
 	:align: center
 
-Az ablak bal oldalán található a mappák listája. Keresd meg és kattints rá arra a mappára, amelyben a beilleszteni kívánt kép található. 
+Az ablak bal oldalán található a mappák listája. Keresd meg és kattints rá arra a mappára, amelyben a beilleszteni kívánt kép található! 
 A mi esetünkben ez a *Pictures* (Képek) mappa (1).
 
 Az ablak jobb oldalán látható, hogy mi van az adott mappában. Itt most csak egy kép van.
 Te biztosan sok más képet fogsz látni, amelyeket az osztálytársaid vagy családtagjaid készítettek (ha az otthoni gépen gyakorolsz).
 
-Kattints a beilleszteni kívánt képre (2) majd erősítsd ezt meg az *Insert* (Beszúrás) (3) gombbal.
+Kattints a beilleszteni kívánt képre (2), majd erősítsd ezt meg az *Insert* (Beszúrás) (3) gombbal!
 
 .. technicalnote::
 
@@ -68,11 +68,11 @@ hogy a dokumentumot nagyobb vagy kisebb távolságból nézd, akárcsak a kezedb
 
 .. infonote::
 
- A dokumentum nagyítását (közelítését és távolítását, angolul *zoom*) a Wordben többféleképpen végezheted el. A két „leggyorsabb” módja a következő:
+ A dokumentum nagyítását (közelítését és távolítását, angolul *zoom*) a Wordben többféleképpen végezheted el. A két „leggyorsabb” mód a következő:
 
- - tartsd lenyomva a **Ctrl** billentyűt és forgasd az egér görgőjét,
+ - tartsd lenyomva a **Ctrl** billentyűt, és forgasd az egér görgőjét,
 
- - mozdítsd el az ablak jobb alsó sarkában található csúszkát, ahogy az az alábbi képen (1) látható. 
+ - mozdítsd el az ablak jobb alsó sarkában található csúszkát, ahogy az az alábbi képen (1) látható! 
 
 .. questionnote::
 
@@ -83,5 +83,5 @@ hogy a dokumentumot nagyobb vagy kisebb távolságból nézd, akárcsak a kezedb
 	:align: center
 
 A képünk sokkal nagyobb, mint amire számítottunk, és nem illeszkedik jól ebbe a dokumentumba. Ez természetesen nem probléma.
-A Wordben megváltoztathatod a kép méretét és hozzáigazíthatod a tartalomhoz.
+A Wordben megváltoztathatod a kép méretét, és hozzáigazíthatod a tartalomhoz.
 
