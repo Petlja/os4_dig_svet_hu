@@ -36,7 +36,7 @@ A közvetlen beszéd is gyakran így jelenik meg a szövegben, idézőjelek hasz
 
 Mentsd el ezt a dokumentumot *kozvetlen beszed.docx* néven!
 
-Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre: 
+Olvasd el még egyszer a begépelt szöveget, majd válaszolj a kérdésekre: 
 
 .. questionnote::
 
