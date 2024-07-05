@@ -1,4 +1,4 @@
-Kvíz - szövegszerkesztés
+Kvíz - Szövegszerkesztés
 ========================
 
 .. mchoice:: p171
