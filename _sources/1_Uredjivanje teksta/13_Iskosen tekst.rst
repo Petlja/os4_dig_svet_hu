@@ -40,7 +40,7 @@ Olvasd el még egyszer a begépelt szöveget, majd válaszolj a kérdésekre:
 
 .. questionnote::
 
- Milyen tanácsokat adtak a szülők és a nagymama Verának az interneten való viselkedéssel kapcsolatban? Igazuk van?
+ Milyen tanácsokat adtak Verának a szülei és a nagymamája az interneten való viselkedéssel kapcsolatban? Igazuk van?
 
  Mit tanácsolnál Verának?
 
