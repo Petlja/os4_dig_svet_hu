@@ -11,7 +11,7 @@ Ahogy papírra írás közben néha színes ceruzákat vagy filctollakat is hasz
 	:width: 800
 	:align: center
 
-Változtasd meg a cím színét! Hogyan lehet ezt elérni? Kövesd a fenti képet!
+Változtasd meg a cím színét! Hogyan lehet ezt végrehajtani? Kövesd a fenti képet!
 
 Ahogy az előző feladatban is, jelöld ki a címet (1)!
 
