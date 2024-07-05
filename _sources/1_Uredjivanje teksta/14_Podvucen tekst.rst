@@ -61,7 +61,7 @@ Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
 
  A szöveg kiemelését többféleképpen is elvégezheted. A billentyűparancsok szinte minden szövegszerkesztő környezetben ugyanazok: 
  
- - a szöveg félkövérré tételéhez - **Ctrl + B** billenytyűkombináció,
+ - a szöveg félkövérré tételéhez - **Ctrl + B** billentyűkombináció,
 
  - a szöveg dőlt betűssé tételéhez - **Ctrl + I** billentyűkombináció,
 
