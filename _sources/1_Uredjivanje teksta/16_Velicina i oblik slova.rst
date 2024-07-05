@@ -29,7 +29,7 @@ Ehhez hasonlítható az, amikor szöveget viszel be a számítógépbe, és vál
 
 A számítógépen különböző **betűtípusok** (idegen szóval **fontok**) vannak. Ezek olyan karaktercsoportok, amelyek közös grafikai formával rendelkeznek.
 
-Változtassuk meg ennek a versenek a betűtípusát! Jelöld ki a szöveget az alábbi kép alapján (1), majd kattints a betűtípusok neveit tartalmazó mező melletti nyílra (2)!
+Változtassuk meg ennek a versnek a betűtípusát! Jelöld ki a szöveget az alábbi kép alapján (1), majd kattints a betűtípusok neveit tartalmazó mező melletti nyílra (2)!
 
 .. image:: ../../_images/oblik1.png
 	:width: 800
