@@ -9,7 +9,7 @@ A másik lehetőség, hogy a bevezetőben hagyod ezeket a mondatokat, majd a bef
 
 Számítógépen ezt sokkal elegánsabban meg lehet oldani. Akár az első, akár a második fent említett lehetőségről van szó, nem kell újraírnod a szöveget. Egyszerűen kimásolhatod és (nyom nélkül) áthelyezheted a szövegrészeket.
 
-Először végezd el a következő gyakorlatot! Ez a szép vers példaként fog szolgálni arra, hogy elmagyarázzuk, miként kell megcsinálni a fent leírtakat...
+Először végezd el a következő gyakorlatot! Ez a szép vers példaként fog szolgálni arra, hogy elmagyarázzuk, miként kell megcsinálni a fent leírtakat.
 
 A szöveg másolása
 ~~~~~~~~~~~~~~~~~
