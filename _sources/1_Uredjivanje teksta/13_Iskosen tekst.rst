@@ -11,11 +11,11 @@ Dőlt betűs szöveg
 .. suggestionnote::
 
  Azokra a szavakra vagy szövegrészekre, amelyek kissé jobbra dőlő betűkből állnak, azt mondjuk, hogy **dőlt betűsen** vannak írva. 
- Gyakran ezt az írásmódot idegen szavakkal **kurzívnak** vagy **italiknak** is nevezik. 
+ Gyakran ezt az írásmódot idegen szavakkal **kurzívnak** vagy **italiknak** is nevezzük. 
  
 .. questionnote::
 
- Mikor írják a szöveget dőlt betűvel?
+ Mikor írjuk a szöveget dőlt betűvel?
  
 Amikor egy mondatban idegen szót használsz, és fontos, hogy a megjelenése eltérjen a szöveg többi részétől.
 
@@ -27,20 +27,20 @@ A közvetlen beszéd is gyakran így jelenik meg a szövegben, idézőjelek hasz
 
 |
 
-Íme egy rövidebb gyakorlat. Nyiss meg egy új, üres dokumentumot, és gépeld be a következő szöveget. 
+Íme egy rövidebb gyakorlat. Nyiss meg egy új, üres dokumentumot, és gépeld be a következő szöveget! 
 
 .. image:: ../../_images/kurziv1.png
 	:width: 800
 	:align: center
 
 
-Mentsd el ezt a dokumentumot *kozvetlen beszed.docx* néven.
+Mentsd el ezt a dokumentumot *kozvetlen beszed.docx* néven!
 
 Olvasd el még egyszer a begépelt szöveget, majd válaszoltj a kérdésekre: 
 
 .. questionnote::
 
- Milyen tanácsokat adtak a szülők és a nagymama Verának az internetes viselkedéssel kapcsolatban? Igazuk van?
+ Milyen tanácsokat adtak a szülők és a nagymama Verának az interneten való viselkedéssel kapcsolatban? Igazuk van?
 
  Mit tanácsolnál Verának?
 
@@ -54,7 +54,7 @@ Hogyan lehet dőlt betűsen írni egy dokumentumban?
 
 |
 
-Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki a szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2). Dőltté váltak a betűk? Ha nem, próbáld újra...
+Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki a szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2)! Dőltté váltak a betűk? Ha nem, próbáld újra...
 
 .. image:: ../../_images/kurziv2.png
 	:width: 800
@@ -62,9 +62,9 @@ Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet 
 
 .. questionnote::
 
- Módosítsd a többi szövegrészt is, amelyek közvetlen beszédet tartalmaznak, úgy, hogy dőlt betűsen legyenek írva.
+ Módosítsd a többi szövegrészt is, amelyek közvetlen beszédet tartalmaznak, úgy, hogy dőlt betűsen legyenek írva!
 
- Írd át az összes mondatot közvetett beszédre, és gépeld le őket az adott szöveg alá. Mentsd el a dokumentumot.
+ Írd át az összes mondatot közvetett beszédre, és gépeld le őket az adott szöveg alá! Mentsd el a dokumentumot!
 
 
 .. infonote::
