@@ -42,7 +42,7 @@ A különbség az, hogy ezúttal az **U betű melletti nyílra** kell kattintano
 	:width: 800
 	:align: center
 	
-Jelöld ki az első mondat állítmányát – a *fúj* szót. Kattints az **U** betű melletti nyílra a megjelölt gombon (2)!
+Jelöld ki az első mondat állítmányát – a *fúj* szót! Kattints az **U** betű melletti nyílra a megjelölt gombon (2)!
 
 Egy ablak nyílik meg, amelyben különböző típusú aláhúzások láthatók. Válaszd ki, melyikkel szeretnéd aláhúzni a szót (3)! 
 Ha mindent jól csináltál, a fúj szó kettős vonallal lesz aláhúzva.
