@@ -4,7 +4,7 @@ Dőlt betűs szöveg
 .. questionnote::
  
  Elmagyaráztuk, hogy mikor írjuk a szavakat vagy szövegrészeket félkövér betűkkel. Észrevettél-e a könyvekben még más írásmódot is? 
- Például enyhén dőlt betűkkel írt szöveget? Lapozd át a tankönyveidet, és találd meg azokat a szavakat, amelyek ilyen módon vannak írva. 
+ Például enyhén dőlt betűkkel írt szöveget? Lapozd át a tankönyveidet, és találd meg azokat a szavakat, amelyek ilyen módon vannak írva! 
  
  Miért vannak ezek másképp írva, mi a jelentésük?
  
