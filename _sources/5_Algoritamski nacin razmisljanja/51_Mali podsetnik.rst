@@ -24,12 +24,12 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
 		:answer_c: (5, 4)
 		:answer_d: (4, 1)
 		:correct: b
-		:feedback_a: Погледај још једном лавиринт!
-		:feedback_b: Браво, одгоовор је тачан!
-		:feedback_c: Погледај још једном лавиринт!
-		:feedback_d: На овом пољу се налази Карел, а лоптица?
+		:feedback_a: Nézd meg még egyszer a labirintust!
+		:feedback_b: Bravó, a válasz helyes!
+		:feedback_c: Nézd meg még egyszer a labirintust!
+		:feedback_d: Ezen a mezőn Karel van, de hol van a labda?
 
-		На ком пољу се налази лоптица?
+		Melyik mezőn van a labda?
 		
 		.. image:: ../../_images/karel1.png
 			:width: 180
