@@ -31,18 +31,18 @@ Válassz egy témát erről a területről. Egyeztess a barátaiddal, hogy az el
 
  Miért választottad pont ezt a témát? Miről fogsz írni? Mi mindennek kell szerepelnie a dokumentumodban?
  
-Подсети се шта све треба да урадиш, које кораке треба да направиш:
+Emlékezz vissza, hogy mit kell megcsinálnod illetve milyen lépéseket kell tenned:
 
 .. questionnote::
 
- - Потражи на интернету информације у вези са твојом темом! Издвој сајтове на којима си пронашао интересантне чланке. Забележи њихове адресе (линкове). 
+ - Keress információkat az interneten a témáddal kapcsolatban! Válaszd ki azokat az oldalakat, ahol érdekes cikkeket találtál. Jegyezd fel ezeknek a címét (a linkeket).
 
- - Допуни документ сликама! Сигурни смо да ћеш пронаћи одговарајуће слике на интернету, али се потруди да и сам направиш неку. Користећи Бојанку нацртај знак, лого или слику која би могла да упути на неко од важних правила безбедности. Твој лични труд ће се више ценити од преузимања готових слика са интернета.
+ - Egészítsd ki a dokumentumot képekkel! Biztosan találsz megfelelő képeket az interneten, de igyekezz saját magad is készíteni valamit. Használva a Paint programot, rajzolj egy jelet, logót vagy képet, amely valamelyik fontos biztonsági szabályra utalhat. A saját munkád többet ér, mint az internetről letöltött kész képek.
 
- - Размисли на који начин ћеш да распоредиш слике и текст у свом документу.
+ - Gondold át, hogyan fogod elrendezni a képeket és a szöveget a dokumentumban.
 
- - Унеси текст, додај слике, уреди документ. Води рачуна о томе да је текст намењен млађој деци и потруди се да њима буде разумљив!  
-
+ - Vidd be a szöveget, add hozzá a képeket, szerkeszd meg a dokumentumot. Ügyelj arra, hogy a szöveg fiatalabb gyerekeknek szól, ezért próbáld meg úgy megírni, hogy számukra is érthető legyen!
+ 
 .. infonote::
 
  Не заборави на поштовање ауторских права! Ако си копирао нечије реченице, обавезно их стави под наводнике и напиши чије су. 
