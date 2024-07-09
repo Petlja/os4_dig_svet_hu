@@ -96,16 +96,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p417
         :correct: b
-        :answer_a: Делиш га са својим пријатељима.
-        :answer_b: Обавестиш родитеље, старатеље или наставника.
-        :answer_c: Игноришеш га и настављаш са прегледањем.
-        :answer_d: Додаш коментаре на тај садржај.
+        :answer_a: Megosztod a barátaiddal.
+        :answer_b: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
+        :answer_c: Nem veszed figyelembe, hanem folytatod a böngészést. 
+        :answer_d: Megjegyzéseket adsz ehhez a tartalomhoz.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Шта треба да урадиш ако наиђеш на непримерен садржај на интернету?
+        Mi a teendő, ha nem megfelelő tartalomra bukkansz az interneten?
 
 .. quizq::
 
