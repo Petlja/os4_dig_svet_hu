@@ -48,5 +48,5 @@ Emlékezz vissza, hogy mit kell megcsinálnod illetve milyen lépéseket kell te
  Ne felejtsd el tiszteletben tartani a szerzői jogokat! Ha mások mondatait másoltad, mindig tedd idézőjelbe és jelöld meg, hogy kié. 
  A dokumentum alján mindig tüntesd fel azokat a forrásokat, amelyeket felhasználtál!
  
-**Készíts egy prezentációt a dokumentumodról. A tanároddal egyetértésben szervezz egy olyan eseményt a fiatalabb diákoknak, ahol a barátaiddal bemutathatjátok a munkáitok gyümölcsét!**
+**Készíts egy prezentációt az elkészült dokumentumról. A tanároddal egyetértésben szervezz egy olyan eseményt a fiatalabb diákoknak, ahol a barátaiddal bemutathatjátok a munkáitok gyümölcsét!**
 
