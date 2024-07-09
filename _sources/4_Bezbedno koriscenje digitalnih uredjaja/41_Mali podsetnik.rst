@@ -36,16 +36,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p413
         :correct: b
-        :answer_a: Одговориш на поруку и позив.
-        :answer_b: Обавестиш родитеље, старатеље или наставника.
-        :answer_c: Поделиш своје личне информације са њима. 
-        :answer_d: Игноришеш поруку и позив.
+        :answer_a: Válaszol az üzenetre és a hívásra.
+        :answer_b: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
+        :answer_c: Megosztod velük személyes adataidat. 
+        :answer_d: Figyelmen kívül hagyod az üzenetet és a hívást.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Шта треба да урадиш ако примиш поруку или позив од непознате особе на интернету?
+        Mi a teendő, ha üzenetet vagy hívást kapsz egy ismeretlen személytől az interneten?
 		
 .. quizq::
 
