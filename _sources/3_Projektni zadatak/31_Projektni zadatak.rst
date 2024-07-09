@@ -17,20 +17,20 @@ Ezúttal egy kissé eltérő feladatod lesz az eddigiekhez képest. Egy **projek
 
  Mit várnak el a diákoktól egy projektfeladat elkészítése során?
  
-Пројектни задаци обично обухватају више различитих активности. Ученици их раде у паровима или групама. 
-Успех пројектног задатка зависи од сваког од вас. Зато је важно да:
+A projektfeladatok általában több különböző tevékenységet foglalnak magukban. A diákok párokban vagy csoportokban dolgoznak rajtuk.
+A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
-- знаш самостално да проналазиш информације на интернету,
+- képes legyél önállóan megkeresni az információkat az interneten,
 
-- самостално учиш,
+- önállóan tanulj,
 
-- сарађујеш са другарицама и друговима,
+- együttműködj a társaiddal,
 
-- се критички односиш према свом и њиховом раду,
+- kritikusan viszonyulj a saját és a többiek munkájához,
 
-- поштујеш договор и задате рокове,
+- betartsd a megállapodásokat és a határidőket,
 
-- преузмеш одговорност за оно што радиш.
+- vállald a felelősséget azért, amit csinálsz.
 
 .. questionnote::
 
