@@ -55,7 +55,9 @@ A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
  Neked is van témaötleted? A fenti témák közül melyik illik hozzád a legjobban?
  
-Договори се са другарицама и друговима коју ћете тему да изаберете, на који начин ћете да поделите обавезе и до када 
-треба да их завршите. Немојте да журите, добро све испланирајте пре него што направите прве конкретне кораке…
+Beszéld meg a társaiddal, melyik témát választjátok, hogyan osztjátok fel a feladatokat, és mikorra kell befejezni őket. 
+Ne siessetek, mindent jól tervezzetek meg, mielőtt konkrét lépéseket tesztek...
 
-Важан део сваког пројектног задатка јесте **истраживање**. У случају овог задатка, истраживање ће обухватити прикупљање информација на интернету о теми коју си изабрао. Често је потребно да текстове и слике које пронађеш сачуваш и на свом рачунару. Објаснићемо ти како се то ради.
+Minden projektfeladat fontos része a **kutatás**. Ebben a feladatban a kutatás az interneten történő információgyűjtést foglalja magába az általad választott témáról. 
+Sok esetben fontos, hogy az általad talált szövegeket és képeket elmentsd a számítógépedre is. Meg fogjuk magyarázni, hogy hogyan kell ezt csinálni.
+
