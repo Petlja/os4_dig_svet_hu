@@ -126,16 +126,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p419
         :correct: c
-        :answer_a: Игноришеш је и обришеш.
-        :answer_b: Поделиш личне информације са оним ко ти је послао поруку.
-        :answer_c: Обавестиш родитеље, старатеље или наставника.
-        :answer_d: Пошаљеш поруку да те не занима.
+        :answer_a: Figyelmen kívül hagyod és törlöd.
+        :answer_b: Megosztod a személyes adatait azzal, aki az üzenetet küldte.
+        :answer_c: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
+        :answer_d: Megírod egy válasz üzenetben, hogy nem érdekel.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Шта треба да радиш када примиш имејл или поруку која ти делује као превара?
+        Mi a teendő, ha olyan e-mailt vagy üzenetet kapsz, amely átverésnek tűnik?
 
 .. quizq::
 
