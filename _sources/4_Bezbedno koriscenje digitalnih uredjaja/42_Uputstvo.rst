@@ -45,8 +45,8 @@ Emlékezz vissza, hogy mit kell megcsinálnod illetve milyen lépéseket kell te
  
 .. infonote::
 
- Не заборави на поштовање ауторских права! Ако си копирао нечије реченице, обавезно их стави под наводнике и напиши чије су. 
- На дну документа обавезно наведи изворе које си користио!
+ Ne felejtsd el tiszteletben tartani a szerzői jogokat! Ha mások mondatait másoltad, mindig tedd idézőjelbe és jelöld meg, hogy kié. 
+ A dokumentum alján mindig tüntesd fel azokat a forrásokat, amelyeket felhasználtál!
  
-**Припреми презентацију свог документа. У договору са учитељицом организујте догађај за ученике млађих разреда и, заједно са другарима, презентуј им резултате свог рада!**
+**Készíts egy prezentációt a dokumentumodról. A tanároddal egyetértésben szervezz egy olyan eseményt a fiatalabb diákoknak, ahol a barátaiddal bemutathatjátok a munkáitok gyümölcsét!**
 
