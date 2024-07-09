@@ -15,7 +15,7 @@ Ezúttal egy kissé eltérő feladatod lesz az eddigiekhez képest. Egy **projek
 
 .. questionnote::
 
- Шта се очекује од ученика током израде неког пројектног задатка?
+ Mit várnak el a diákoktól egy projektfeladat elkészítése során?
  
 Пројектни задаци обично обухватају више различитих активности. Ученици их раде у паровима или групама. 
 Успех пројектног задатка зависи од сваког од вас. Зато је важно да:
