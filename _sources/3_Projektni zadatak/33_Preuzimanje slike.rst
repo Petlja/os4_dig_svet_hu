@@ -15,30 +15,28 @@ A keresési kifejezések mezője alatt található gombok segítségével kivál
 	:width: 800
 	:align: center
 
-Као резултат претраге појавиле су се слике повезане са Пајом Јовановићем. Кликни на било коју од њих и посети страницу на којој се 
-налази.
+A keresés eredményeként Paja Jovanovićhoz kapcsolódó képek jelentek meg. Kattints bármelyikre közülük, és keresd fel azt az oldalt, amelyen található.
 
 .. image:: ../../_images/pretraga_7.png
 	:width: 800
 	:align: center
 	
-Ако желиш да сачуваш слику на свом рачунару како би је касније употребио, кликни десним тастером на њу и отвориће се дијалог 
-као на слици испод.
+Ha el akarod menteni a képet a számítógépedre, hogy később felhasználhasd, kattints rá a jobb gombbal, melynek hatására megnyílik egy párbeszédablak az alábbi képen látható módon.
 
 .. infonote::
 
- Неки сајтови имају заштићен садржај, па није дозвољено преузимање слика, тј. немаш ову могућност!
+ Egyes oldalak védett tartalommal rendelkeznek, így nem engedélyezett a képek letöltése, vagyis nincs ilyen lehetőséged!
  
 .. image:: ../../_images/pretraga_8.png
 	:width: 800
 	:align: center
 	
-Најбоље ће бити да слику снимиш у фасцикли *Pictures* (слике). Пронађи ову фасциклу у левом делу прозора дијалога (1). 
-Изабери име под којим желиш да сачуваш слику (2) и потврди кликом на *Save* (3). Слика је сачувана на истом месту где 
-су и твоји остали дигитални цртежи.
+A legjobb, ha a képet a *Pictures* (Képek) mappába mented. Keresd meg ezt a mappát a párbeszédablak bal oldalán (1).
+Válaszd ki a nevet, amellyel el szeretnéd menteni a képet (2), és erősítsd meg a *Save* (Mentés) (3) gombra kattintva. 
+A kép ugyanoda kerül mentésre, ahol a többi digitális rajzod is található.
 
-Отвори нови Ворд документ и сачувај га као *Paja Jovanovic.docx*. Уметни слику у документ као што си то урадио и са 
-сликом Карела када си учио како се то ради. 
+Nyiss meg egy új Word dokumentumot, és mentsd el *Paja Jovanovic.docx* néven. Illeszd be a képet a dokumentumba úgy, 
+ahogy azt Karel képével tetted, amikor arról tanultál, hogy miként kell ezt csinálni.
 
 .. image:: ../../_images/pretraga_9.png
 	:width: 800
