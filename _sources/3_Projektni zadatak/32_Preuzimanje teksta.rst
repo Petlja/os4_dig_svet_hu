@@ -24,7 +24,7 @@ Ezután kattints a *Google-keresés* gombra (2), ahogy az az alábbi képen lát
 	:width: 800
 	:align: center
 
-A böngésző ablakának jobb szélén található egy csúszka (görgetősáv). Húzd lefelé, és nézd meg, milyen webhelyeken említik Paja Jovanovićot.
+A böngésző ablakának jobb szélén található egy csúszka (görgetősáv). Húzd lefelé, és nézd meg, milyen weboldalakon említik Paja Jovanovićot.
 
 Kattints a linkekre, és gyűjts össze minél több információt. Például, hogy mikor és hol született a festő, miért híres, melyek az ismert művei, 
 kikkel dolgozott együtt, ez-e az igazi neve...
