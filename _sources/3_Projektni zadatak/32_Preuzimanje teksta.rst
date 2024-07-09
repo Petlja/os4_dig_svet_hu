@@ -79,9 +79,9 @@ Ugyanígy adhatsz hozzá más oldalakról származó hasznos információkat is 
  
 .. infonote::
  
- A szöveg másolását billentyűzettel is elvégezheted. Ez a módszer gyakran gyorsabb és praktikusabb is:
+ A szöveg másolását a billentyűzettel is elvégezheted. Ez a módszer gyakran gyorsabb és praktikusabb is:
 
- Amikor kijelölöd a szöveget, nyomd meg a **Ctrl + C** billentyűkombinációt. Nyisd meg a Word dokumentumot, és helyezd a kurzort arra a helyre, 
- ahova a szöveget el szeretnéd helyezni. Ezután nyomd meg a **Ctrl + V** billentyűkombinációt. 
+ Amikor kijelölöd a szöveget, nyomd meg a **Ctrl + C** billentyűkombinációt. Nyisd meg a Word dokumentumot, és tedd a kurzort arra a helyre, 
+ ahová a szöveget szeretnéd elhelyezni. Ezután nyomd meg a **Ctrl + V** billentyűkombinációt. 
 
 
