@@ -18,29 +18,28 @@ Ezután kattints a *Google-keresés* gombra (2), ahogy az az alábbi képen lát
 
 .. questionnote::
 
- Шта је пронашао претраживач?
+ Mit talált a kereső?
  
 .. image:: ../../_images/pretraga_2.png
 	:width: 800
 	:align: center
 
-Дуж десне ивице прозора налази се клизач. Померај га и погледај на којим се све сајтовима помиње Паја Јовановић. 
+A böngésző ablakának jobb szélén található egy csúszka (görgetősáv). Húzd lefelé, és nézd meg, milyen webhelyeken említik Paja Jovanovićot.
 
-Кликни на линкове и прикупи што је могуће више информација. Када је Паја рођен, где је рођен, по чему је познат, 
-који су његови познати радови, са ким је сарађивао, да ли му је то право име…
+Kattints a linkekre, és gyűjts össze minél több információt. Például, hogy mikor és hol született a festő, miért híres, melyek az ismert művei, 
+kikkel dolgozott együtt, ez-e az igazi neve...
 
-Кликом на стрелицу у горњем левом углу прозора прегледача (1), увек можеш да се вратиш на претходно отворене странице 
-и потражиш информације на неком другом месту.
+A böngészőablak bal felső sarkában található nyílra kattintva (1) mindig visszatérhetsz a korábban megnyitott oldalakra, és máshol is kereshetsz információkat.
 	
 .. image:: ../../_images/pretraga_3.png
 	:width: 800
 	:align: center
 
-Још једном те подсећамо:
+Ismét emlékeztetünk:
 
 .. questionnote::
 
- Не мора бити тачно све што пише на интернету! На који начин можеш то да провериш?
+ Nem kell minden igaz, amit az interneten írnak! Hogyan tudod ezt ellenőrizni?
 
 Информације које су ти потребне налазе се на различитим сајтовима и то може да се претвори у проблем. 
 Сада већ причамо о мало дужем тексту, који не можеш тако лако да запамтиш.
