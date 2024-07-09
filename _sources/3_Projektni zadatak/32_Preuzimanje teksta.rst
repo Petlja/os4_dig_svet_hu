@@ -1,17 +1,16 @@
 Szöveg letöltése az internetről
 ===============================
 
-Пре него што отпочнеш израду свог пројектног задатка, уради следећу вежбу.
+Mielőtt elkezdenéd a projektfeladatodat, végezd el a következő gyakorlatot.
 
-Претпоставимо да си за тему изабрао „Знаменита личност мога краја“ и да је личност о којој ћеш писати сликар 
-Паја Јовановић.
+Tegyük fel, hogy a „Híres személy az én környékemen” témát választottad, és a személy, akiről írni fogsz, Paja Jovanović festőművész.
 
-**Одакле почети?**
+**Honnan kezdjük?**
 
-Отвори прегледач који ти одговара. Отвори претраживач и унеси име и презиме овог сликара у поље за претраживање (1). 
-На сликама испод коришћен је Мајкрософт Еџ (*Microsoft Edge*) и Гугл претраживач (*https://www.google.com/*)
+Nyisd meg valamelyik neked tetsző böngészőt. Nyisd meg a keresőt, és írd be ennek a festőnek a nevét a keresőmezőbe (1).
+Az alábbi képeken a *Microsoft Edge* böngészőt és a Google keresőt használtuk (*https://www.google.com/*).
 
-Затим кликни на дугме са натписом *Google pretraga* (2), као што је приказано на слици испод.
+Ezután kattints a *Google-keresés* gombra (2), ahogy az az alábbi képen látható.
 
 .. image:: ../../_images/pretraga_1.png
 	:width: 800
