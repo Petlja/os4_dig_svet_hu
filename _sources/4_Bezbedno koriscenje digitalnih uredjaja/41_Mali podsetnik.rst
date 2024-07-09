@@ -141,15 +141,15 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p4110
         :correct: b
-        :answer_a: Лакше се памте.
-        :answer_b: Теже се „пробијају“.
-        :answer_c: Могу се делити са другима.
-        :answer_d: Не треба их мењати редовно.
+        :answer_a: Könnyen megjegyezhetők.
+        :answer_b: Nehéz őket „feltörni“.
+        :answer_c: Megoszthatók másokkal.
+        :answer_d: Nem kell őket rendszeresen megváltoztatni.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Које су предности креирања снажних лозинки?
+        Milyen előnyei vannak az erős jelszavak létrehozásának?
 
 
