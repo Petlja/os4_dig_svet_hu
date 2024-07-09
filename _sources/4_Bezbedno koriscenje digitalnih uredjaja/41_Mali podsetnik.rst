@@ -111,16 +111,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p418
         :correct: a
-        :answer_a: Разговараш са родитељима, старатељима или наставником и обавестиш их о проблему.
-        :answer_b: Вратиш истом мером и кренеш у напад.
-        :answer_c: Не радиш ништа и надаш се да ће проћи.
-        :answer_d: Искључиш своје рачунаре и уређаје и не користиш интернет.
+        :answer_a: Beszélsz a szüleiddel, gondviselőiddel vagy a tanároddal, és tájékoztatod őket a problémáról.
+        :answer_b: Visszavágsz ugyanazzal majd támadásba lendülsz.
+        :answer_c: Nem csinálsz semmit, hanem reménykedsz benne, hogy elmúlik.
+        :answer_d: Kikapcsolod a számítógépedet és eszközeidet, és nem használod az internetet.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Шта треба да урадиш ако постанеш жртва дигиталног насиља?
+        Mit teendő, ha digitális zaklatás áldozata lettél?
 
 .. quizq::
 
