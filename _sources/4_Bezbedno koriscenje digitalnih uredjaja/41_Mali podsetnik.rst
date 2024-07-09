@@ -1,8 +1,7 @@
-Мали подсетник
-==============
+Egy kis emlékeztető
+===================
 
-Подсети се како треба да реагујеш у одређеним ситуацијама приликом коришћења дигиталних уређаја и приступања интернету.
-
+Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digitális eszközöket használsz és az internethez csatlakozol.
 .. quizq::
 
    .. mchoice:: p411
@@ -11,10 +10,10 @@
         :answer_b: користиш слабе лозинке за своје налоге због лакшег памћења.
         :answer_c: преузимаш све апликације и игре са интернета.
         :answer_d: отвараш прилоге које добијаш у имејлу без провере.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz helyes.
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         У дигиталном свету...
 
@@ -26,10 +25,10 @@
         :answer_b: Делим их са пријатељима преко порука.
         :answer_c: Постављам јаке лозинке за своје налоге.
         :answer_d: Делим личне информације на непознатим веб-сајтовима.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes.
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Како можеш да заштитиш своје личне податке на интернету?
 
@@ -41,10 +40,10 @@
         :answer_b: Обавестиш родитеље, старатеље или наставника.
         :answer_c: Поделиш своје личне информације са њима. 
         :answer_d: Игноришеш поруку и позив.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Шта треба да урадиш ако примиш поруку или позив од непознате особе на интернету?
 		
@@ -56,10 +55,10 @@
         :answer_b: Преузимање са било ког извора без провере
         :answer_c: Преузимање само ако је неко други испробао ту апликацију или игру
         :answer_d: Преузимање само ако се налази на веб-сајту који изгледа популаран
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Који је безбедан начин за преузимање различитих програма и игара?
 
@@ -71,10 +70,10 @@
         :answer_b: Користиш антивирусни програм на свом рачунару или уређају.
         :answer_c: Делиш своје личне информације са непознатима.
         :answer_d: Игноришеш сва упозорења о безбедности која видиш.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Како можеш да будеш безбедан на интернету?
 
@@ -82,16 +81,16 @@
 
    .. mchoice:: p416
         :correct: b
-        :answer_a: Твоје име и презиме.
-        :answer_b: Слова (велика и мала) и бројеве који се разликују од твојих личних података.
-        :answer_c: Само бројеве.
-        :answer_d: Твој датум рођења.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :answer_a: A vezeték- és a keresztnevedet.
+        :answer_b: Betűket (kicsi és nagy) és olyan számokat, amelyek eltérnek a te személyes adataidtól.
+        :answer_c: Csak számokat.
+        :answer_d: A születési dátumodat.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
-        Шта садржи безбедна лозинка?
+        Mit tartalmaz egy biztonságos jelszó?
 
 .. quizq::
 
@@ -101,10 +100,10 @@
         :answer_b: Обавестиш родитеље, старатеље или наставника.
         :answer_c: Игноришеш га и настављаш са прегледањем.
         :answer_d: Додаш коментаре на тај садржај.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Шта треба да урадиш ако наиђеш на непримерен садржај на интернету?
 
@@ -116,10 +115,10 @@
         :answer_b: Вратиш истом мером и кренеш у напад.
         :answer_c: Не радиш ништа и надаш се да ће проћи.
         :answer_d: Искључиш своје рачунаре и уређаје и не користиш интернет.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Шта треба да урадиш ако постанеш жртва дигиталног насиља?
 
@@ -131,10 +130,10 @@
         :answer_b: Поделиш личне информације са оним ко ти је послао поруку.
         :answer_c: Обавестиш родитеље, старатеље или наставника.
         :answer_d: Пошаљеш поруку да те не занима.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Шта треба да радиш када примиш имејл или поруку која ти делује као превара?
 
@@ -146,10 +145,10 @@
         :answer_b: Теже се „пробијају“.
         :answer_c: Могу се делити са другима.
         :answer_d: Не треба их мењати редовно.
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes. 
+        :feedback_d: A válasz nem helyes.
 
         Које су предности креирања снажних лозинки?
 
