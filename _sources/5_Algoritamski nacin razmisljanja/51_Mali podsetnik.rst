@@ -9,12 +9,12 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
 
     .. mchoice:: p511
         :correct: a
-        :answer_a: Да.
-        :answer_b: Не.
+        :answer_a: Igaz.
+        :answer_b: Nem igaz.
         :feedback_a: Одговор је тачан. Алгоритам је низ корака које је потребно направити тачно одређеним редоследом како би се решио неки проблем.
         :feedback_b: Одговор није тачан. Пажљиво још једном прочитај шта је алгоритам! 
 
-        Када састављаш алгоритам важно је којим редоследом пишеш кораке.
+        Az algoritmus összeállításánál fontos a lépések sorrendje.
 
 .. quizq::
 
