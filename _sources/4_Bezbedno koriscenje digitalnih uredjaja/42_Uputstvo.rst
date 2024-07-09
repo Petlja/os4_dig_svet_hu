@@ -8,7 +8,7 @@ gondolkodj el azon, hogyan segíthetnél fiatalabb barátaidnak elkerülni a pro
 
  Készíts egy olyan dokumentumot, amely elősegíti az internet biztonságos és felelősségteljes használatát!
 
-Válassz egy témát erről a területről. Egyeztess a barátaiddal, hogy az elkészülő dokumentum minél több nem kívánt helyzetet vegyen számba valamint a biztonságos viselkedés szabályait és az arra való helyes reakciót is bemutassa.
+Válassz egy témát erről a területről. Egyeztess a barátaiddal, hogy az elkészülő dokumentum minél több nem kívánt helyzetet vegyen számba valamint az arra való helyes reakciót és a biztonságos viselkedés szabályait is bemutassa.
 Íme néhány javaslat:
 
 - Közösségi hálók
@@ -29,7 +29,7 @@ Válassz egy témát erről a területről. Egyeztess a barátaiddal, hogy az el
 
 .. questionnote::
 
- Због чега си изабрао баш ову тему? О чему ћеш да пишеш? Шта све треба да се нађе у твом документу?
+ Miért választottad pont ezt a témát? Miről fogsz írni? Mi mindennek kell szerepelnie a dokumentumodban?
  
 Подсети се шта све треба да урадиш, које кораке треба да направиш:
 
