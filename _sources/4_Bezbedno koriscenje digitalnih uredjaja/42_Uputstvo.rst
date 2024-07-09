@@ -8,24 +8,24 @@ gondolkodj el azon, hogyan segíthetnél fiatalabb barátaidnak elkerülni a pro
 
  Készíts egy olyan dokumentumot, amely elősegíti az internet biztonságos és felelősségteljes használatát!
 
-Изабери било коју тему из ове области. Договори се са другарима да обухватите што је могуће више нежељених ситуација и правила безбедног понашања и исправног реаговања.
-Ево неких предлога:
+Válassz egy témát erről a területről. Egyeztess a barátaiddal, hogy az elkészülő dokumentum minél több nem kívánt helyzetet vegyen számba valamint a biztonságos viselkedés szabályait és az arra való helyes reakciót is bemutassa.
+Íme néhány javaslat:
 
-- Друштвене мреже
+- Közösségi hálók
 
-- Време проведено за рачунаром
+- A számítógépnél töltött idő
 
-- Како се пишу поруке
+- Hogyan írjunk üzeneteket
 
-- Нежељена пошта
+- Kéretlen levelek
 
-- Безбедне лозинке
+- Biztonságos jelszavak
 
-- Дигитално насиље
+- Digitális zaklatás
 
-- Безбедност игара и апликација
+- Játékok és alkalmazások biztonsága
 
-- … 
+- …
 
 .. questionnote::
 
