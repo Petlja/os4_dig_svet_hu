@@ -66,16 +66,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p415
         :correct: b
-        :answer_a: Одлазиш на све веб-сајтове које ти пријатељи препоручују.
-        :answer_b: Користиш антивирусни програм на свом рачунару или уређају.
-        :answer_c: Делиш своје личне информације са непознатима.
-        :answer_d: Игноришеш сва упозорења о безбедности која видиш.
+        :answer_a: Felkeresed az összes olyan webhelyet, amelyet a barátaid ajánlottak.
+        :answer_b: Víruskereső programot használsz a számítógépeden vagy az eszközödön.
+        :answer_c: Ismeretlen személyekkel osztod meg a személyes adataidat. 
+        :answer_d: Figyelmen kívül hagyod az összes megjelenő biztonsági figyelmeztetést.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Како можеш да будеш безбедан на интернету?
+        Hogyan maradhatsz biztonságban az interneten?
 
 .. quizq::
 
