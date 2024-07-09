@@ -1,17 +1,17 @@
-Опис пројектног задатка
-=======================
+A projektfeladat leírása
+========================
 
-Најбољи начин да увежбаш оно што научиш јесте да примениш знање на неком конкретном проблему, на неком практичном примеру.
+A legjobb módja annak, hogy alkalmazni tudd az eddig tanultakat, ha az ismereteket egy konkrét problémára, egy gyakorlati példára alkalmazod.
 
-Овог пута пред тобом је мало другачији од досадашњих задатака. У питању је **пројектни задатак**. Он обухвата више различитих активности. Како би успешно урадио овај задатак, биће потребно да:
+Ezúttal egy kissé eltérő feladatod lesz az eddigiekhez képest. Egy **projektfeladatot** kell megoldanod, amely több különböző tevékenységből áll. A feladat sikeres végrehajtásához a következőkre lesz szükséged:
 
-- претражујеш интернет како би добио потребне информације, 
+- az internetet kell böngészned, hogy rátalálj a szükséges információkra,
 
-- припремиш текст на задату тему,
+- szöveget kell írnod a megadott témáról,
 
-- нацрташ дигиталну слику или пронађеш на интернету одговарајуће слике које додатно објашњавају текст који си припремио,
+- digitális rajzot kell készítened vagy az interneten megfelelő képeket találnod, amelyek jól illusztrálják a megírt szöveget,
 
-- направиш и уредиш документ који ће садржати припремљени текст и слике.
+- létre kell hoznod és meg kell szerkesztened azt a dokumentumot, amely az általad előkészített szöveget és képeket fogja tartalmazni.
 
 .. questionnote::
 
