@@ -21,16 +21,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p412
         :correct: c
-        :answer_a: Објављујем их на свим друштвеним мрежама.
-        :answer_b: Делим их са пријатељима преко порука.
-        :answer_c: Постављам јаке лозинке за своје налоге.
-        :answer_d: Делим личне информације на непознатим веб-сајтовима.
+        :answer_a: Közzéteszem őket a közösségi oldalakon. 
+        :answer_b: Üzenetben osztom meg a barátaimmal.
+        :answer_c: Erős jelszavakat állítok be a fiókjaimhoz.
+        :answer_d: Ismeretlen webhelyeken osztom meg a személyes adataimat.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes.
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Како можеш да заштитиш своје личне податке на интернету?
+        Hogyan védheted meg a személyes adataidat az interneten?
 
 .. quizq::
 
