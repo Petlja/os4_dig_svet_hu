@@ -2,6 +2,7 @@ Egy kis emlékeztető
 ===================
 
 Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digitális eszközöket használsz és az internethez csatlakozol.
+
 .. quizq::
 
    .. mchoice:: p411
