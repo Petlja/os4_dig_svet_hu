@@ -40,11 +40,11 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
 
     .. mchoice:: p513
         :correct: b
-        :answer_a: условна петља
-        :answer_b: бројачка петља
-        :answer_c: бесконачна петља
+        :answer_a: feltételes ciklus
+        :answer_b: számláló ciklus
+        :answer_c: végtelen ciklus
         :feedback_a: Нетачно. Код условне петље наредбе се извршавају све док је испуњен услов. Не знамо унапред колико пута!
-        :feedback_b: Одговор је тачан!
+        :feedback_b: A válasz helyes!
         :feedback_c: Нетачно. Размисли, ако се нека петља понавља бесконачно пута, да ли је добро осмишљен програм?
 
         Када наредба (или група наредби) треба да се изврши више пута, у програму се користи **петља**. Када се унапред тачно зна колико пута наредба треба да се понови, петља се назива:
