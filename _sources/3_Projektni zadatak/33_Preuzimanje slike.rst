@@ -70,10 +70,10 @@ Kezdjétek el a kutatást… Sok sikert!
 
 .. infonote::
 
- Идеја је да документ који направиш буде намењен твојим млађим другарима. Када правиш неки документ, води рачуна о томе ко треба да га прочита и
- прилагоди садржај текста који припремаш!
+ Az ötlet az, hogy a projekt dokumentum a fiatalabb barátaidnak készüljön. Amikor valamilyen dokumentumot készítesz, 
+ ügyelj arra, hogy ki lesz az olvasója, és ehhez igazodjon a szöveg tartalma is!
 
 .. questionnote::
 
- Погледај како изгледају документа која су направили твоји другари. Шта би ти урадио другачије? Шта је добро у њиховим радовима? 
- Шта би променио у свом документу, чиме би га допунио?
+ Nézd meg, hogyan néznek ki a barátaid által készített dokumentumok. Mit csinálnál másképp? Mi az ami jó az ő munkáikban? 
+ Mit változtatnál meg a saját dokumentumodban, mivel egészítenéd ki?
