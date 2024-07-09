@@ -1,7 +1,7 @@
 A projektfeladat leírása
 ========================
 
-A legjobb módja annak, hogy alkalmazni tudd az eddig tanultakat, ha az ismereteket egy konkrét problémára, egy gyakorlati példára alkalmazod.
+A legjobb módja annak, hogy alkalmazni tudd az eddig tanultakat, ha az ismereteket egy konkrét problémánál vagy egy gyakorlati példánál használod fel.
 
 Ezúttal egy kissé eltérő feladatod lesz az eddigiekhez képest. Egy **projektfeladatot** kell megoldanod, amely több különböző tevékenységből áll. A feladat sikeres végrehajtásához a következőkre lesz szükséged:
 
