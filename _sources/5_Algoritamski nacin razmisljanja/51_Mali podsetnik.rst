@@ -11,8 +11,8 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :correct: a
         :answer_a: Igaz.
         :answer_b: Nem igaz.
-        :feedback_a: Одговор је тачан. Алгоритам је низ корака које је потребно направити тачно одређеним редоследом како би се решио неки проблем.
-        :feedback_b: Одговор није тачан. Пажљиво још једном прочитај шта је алгоритам! 
+        :feedback_a: A válasz helyes. Az algoritmus olyan lépések sorozata, amelyeket meghatározott sorrendben kell végrehajtani a probléma megoldásához.
+        :feedback_b: A válasz nem helyes. Olvasd el újra figyelmesen, hogy mi az algoritmus! 
 
         Az algoritmus összeállításánál fontos a lépések sorrendje.
 
