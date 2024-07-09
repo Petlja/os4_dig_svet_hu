@@ -46,29 +46,27 @@ ahogy azt Karel képével tetted, amikor arról tanultál, hogy miként kell ezt
 	:width: 800
 	:align: center
 	
-Копирање слике са интернета
+Kép másolása az internetről
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Постоји још један, краћи и једноставнији начин да уметнеш слику са интернета у свој документ – да је само ископираш.
+Létezik egy másik, rövidebb és egyszerűbb módja annak, hogy képet illessz be az internetről a dokumentumodba – egyszerűen csak másold ki.
 
-Уради десни клик на слику коју желиш да копираш и изабери опцију *Copy* (1)
+Kattints jobb gombbal arra a képre, amit másolni szeretnél, és válaszd a *Copy* (Másolás) (1) lehetőséget.
 
 .. image:: ../../_images/pretraga_11.png
 	:width: 800
 	:align: center
 	
-Отвори документ у који желиш да је копираш, постави курсор на одабрано место и кликни *Paste* или притисни 
-комбинацију **Ctrl + V** на тастатури. Слика је постављена у документ. Можеш да је уређујеш како желиш!
+Nyisd meg a dokumentumot, amelybe be akarod illeszteni a képet, tedd a kurzort a kívánt helyre, és kattints a *Paste* (Beillesztés) gombra, 
+vagy nyomd meg a **Ctrl + V** billentyűkombinációt. A kép bekerült a dokumentumba. Most már tetszés szerint szerkesztheted!
 
 .. image:: ../../_images/pretraga_10.png
 	:width: 800
 	:align: center
 	
-Сада си упознат са свим техникама које су ти потребне за израду пројектног задатка. Изаберите тему, договорите се до када треба да завршите пројекат и на који начин 
-ћете проценити колико сте добро урадили задатак (на пример: да ли су обухваћене кључне информације, да ли је проверена тачност информација, да ли је документ 
-прегледан и разумљив, да ли слике у документу одговарају садржају...).
+Most már ismered a projektfeladat létrehozásához szükséges összes eljárást. Válasszátok ki a témát, egyezzetek meg a projekt befejezési határidejéről, és határozzátok meg, hogyan értékelitek majd a feladat sikerességét (például tartalmazza-e a kulcsfontosságú információkat, ellenőrzött-e az információk pontossága, áttekinthető és érthető-e a dokumentum, a képek megfelelnek-e a tartalomnak...).
 
-Отпочните истраживање… Срећно!
+Kezdjétek el a kutatást… Sok sikert!
 
 .. infonote::
 
