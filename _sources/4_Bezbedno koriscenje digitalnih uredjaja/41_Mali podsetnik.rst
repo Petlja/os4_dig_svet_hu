@@ -51,16 +51,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p414
         :correct: a
-        :answer_a: Преузимање са проверених и званичних извора, као што је апликација Google Play или App Store
-        :answer_b: Преузимање са било ког извора без провере
-        :answer_c: Преузимање само ако је неко други испробао ту апликацију или игру
-        :answer_d: Преузимање само ако се налази на веб-сајту који изгледа популаран
+        :answer_a: Megbízható és hivatalos források használata, mint például a Google Play vagy az App Store.
+        :answer_b: Bármilyen forrásból való letöltés ellenőrzés nélkül.
+        :answer_c: Csak akkor szabad letölteni, ha valaki más már kipróbálta az alkalmazást vagy játékot.
+        :answer_d: Csak akkor szabad letölteni, ha olyan webhelyen található, amely népszerűnek tűnik.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Који је безбедан начин за преузимање различитих програма и игара?
+        Mi a biztonságos módja a különböző programok és játékok letöltésének?
 
 .. quizq::
 
