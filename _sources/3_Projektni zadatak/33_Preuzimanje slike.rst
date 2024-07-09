@@ -1,16 +1,15 @@
-Преузимање слике са интернета
-=============================
+Kép letöltése az internetről
+============================
 
-Пошто је текст спреман, биће потребно да припремиш и одговарајуће слике!
+Mivel a szöveg készen van, szükséged lesz a megfelelő képekre is!
 
-Ако постоји могућност да сам нацрташ нешто користећи Бојанку, то ће бити најбоље решење! 
+Ha van lehetőség arra, hogy magad rajzolj valamit a Paint segítségével, az lesz a legjobb megoldás!
 
-Нама, овог пута, за документ треба нека слика коју је већ насликао Паја Јовановић, па ћемо је потражити на интернету. 
+Ezúttal azonban egy olyan képre van szükségünk, amelyet Paja Jovanović festett, így azt az interneten fogjuk keresni.
 
-Кликом на стрелицу (1) врати се до корака када си отпочео претрагу или поново покрени Гугл претраживач.
+A nyílra kattintva (1) térj vissza a keresés megkezdésének lépéséhez, vagy indítsd újra a Google keresőt.
 
-Испод поља за унос појмова које претражујеш налазе се дугмићи помоћу којих можеш да изабереш шта је то што тражиш. 
-Кликни на *Слике* (2).
+A keresési kifejezések mezője alatt található gombok segítségével kiválaszthatod, hogy mit keresel. Kattints a *Képek* (2) gombra.
 
 .. image:: ../../_images/pretraga_6.png
 	:width: 800
