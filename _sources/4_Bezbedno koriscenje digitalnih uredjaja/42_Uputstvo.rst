@@ -1,12 +1,12 @@
-Опис пројектног задатка
-=======================
+A projektfeladat leírása
+========================
 
-Пошто си сада већ искуснији у коришћењу дигиталних уређаја и упознат са правилима понашања на интернету, 
-размисли на који начин би могао да помогнеш својим млађим другарима да избегну проблематичне ситуације.
+Mivel most már tapasztaltabb vagy a digitális eszközök használatában és tisztában vagy az internetes viselkedési szabályokkal, 
+gondolkodj el azon, hogyan segíthetnél fiatalabb barátaidnak elkerülni a problémás helyzeteket.
 
 .. questionnote::
 
- Направи документ који ће служити за промоцију безбедног и одговорног коришћења интернета!
+ Készíts egy olyan dokumentumot, amely elősegíti az internet biztonságos és felelősségteljes használatát!
 
 Изабери било коју тему из ове области. Договори се са другарима да обухватите што је могуће више нежељених ситуација и правила безбедног понашања и исправног реаговања.
 Ево неких предлога:
