@@ -6,16 +6,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p411
         :correct: a
-        :answer_a: не делиш личне информације са непознатима.
-        :answer_b: користиш слабе лозинке за своје налоге због лакшег памћења.
-        :answer_c: преузимаш све апликације и игре са интернета.
-        :answer_d: отвараш прилоге које добијаш у имејлу без провере.
+        :answer_a: nem osztasz meg személyes adatokat ismeretlen személyekkel. 
+        :answer_b: gyenge jelszavakat használsz a fiókjaidhoz, hogy azok könnyebben megjegyezhetőek legyenek.
+        :answer_c: letöltheted az internetről az összes alkalmazást és játékot.
+        :answer_d: ellenőrzés nélkül megnyitod az e-mailben kapott mellékleteket.
         :feedback_a: A válasz helyes.
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        У дигиталном свету...
+       A digitális világban...
 
 .. quizq::
 
