@@ -3,7 +3,7 @@ Szöveg letöltése az internetről
 
 Mielőtt elkezdenéd a projektfeladatodat, végezd el a következő gyakorlatot.
 
-Tegyük fel, hogy a „Híres személy az én környékemen” témát választottad, és a személy, akiről írni fogsz, Paja Jovanović festőművész.
+Tegyük fel, hogy a „Szűkebb pátriám híres embere” című témát választottad, és a személy, akiről írni szeretnél, Paja Jovanović festőművész.
 
 **Honnan kezdjük?**
 
