@@ -34,21 +34,22 @@ A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
 .. questionnote::
 
- Размисли, па одговори – шта значи да се „критички односиш“ према нечему и да „да преузмеш одговорност“?
+ Gondolkodj el, majd válaszolj – mit jelent az, hogy „kritikusan viszonyulsz” valamihez, és hogy „vállalod a felelősséget”?
 
-Ево и неколико предлога тема пројектног задатка који ћеш радити у наредном периоду:
+Íme néhány javasolt projektfeladat téma, amelyeken a elkövetkező időszakban fogsz dolgozni:
 
-- Биљке/животиње мога краја. 
+- A környezetem növényei/állatai.
 
-- Историјски догађај у мом крају. 
+- Történelmi esemény a környékemen.
 
-- Знаменита личност мога краја.
+- Szűkebb pátriám híres embere.
 
-- Одговорно коришћење воде у мом домаћинству.
+- Felelősségteljes vízhasználat a háztartásomban.
 
-- Одговорно одлагање отпада у мом домаћинству.
+- Felelősségteljes hulladékkezelés a háztartásomban.
 
-- … твој предлог темe
+- ... a te témajavaslatod
+
 
 .. questionnote::
 
