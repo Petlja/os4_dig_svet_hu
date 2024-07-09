@@ -1,9 +1,9 @@
 Egy kis emlékeztető
 ===================
 
-Карел те жељно очекује у свом лавиринту и једва чека да се поново заједно играте и сакупљате лоптице!
+Karel izgatottan vár rád a labirintusában, és alig várja, hogy újra együtt játszatok és labdákat gyűjtsetek!
 
-Пре него што започнеш овогодишњу авантуру, подсети се шта си до сада научио о алгоритамском начину размишљања...
+Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanultál az algoritmikus gondolkodásmódról...
 
 .. quizq:: 
 
