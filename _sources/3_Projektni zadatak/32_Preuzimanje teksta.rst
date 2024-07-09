@@ -41,47 +41,47 @@ Ismét emlékeztetünk:
 
  Nem kell minden igaz, amit az interneten írnak! Hogyan tudod ezt ellenőrizni?
 
-Информације које су ти потребне налазе се на различитим сајтовима и то може да се претвори у проблем. 
-Сада већ причамо о мало дужем тексту, који не можеш тако лако да запамтиш.
+Az információk, amelyekre szükséged van, különböző webhelyeken találhatók, és ez probléma lehet.
+Most már egy hosszabb szövegről van szó, amit nem lehet olyan könnyen megjegyezni.
 
-Добро би било да неке делове текста који су ти значајни копираш у један Ворд документ, како би били сви на једном месту.
+Jó lenne, ha a számodra fontos szövegrészeket átmásolnád egy Word dokumentumba, hogy mind egy helyen legyenek.
 
 .. infonote::
 
- Немој да заборавиш – ако дословно наводиш нечије речи или делове текста, стави их под знаке навода и напиши у дну 
- документа чије су или одакле си преузео текст!
+ Ne feledd – ha valakinek a szavait vagy a szöveg egy részét szó szerint idézed, tedd idézőjelbe, 
+ és a dokumentum alján tüntesd fel, hogy kié vagy honnan származik a szöveg!
 
-Рецимо да си на неком сајту пронашао називе неколико портрета које је Паја насликао и желиш да их сачуваш у свом документу. 
-Наравно, овај део вежбе можеш да урадиш и са било којим другим текстом који пронађеш. Уради следеће:
+Tegyük fel, hogy valamelyik weboldalon rábukkantál néhány, Paja Jovanović által festett portré címére, és szeretnéd elmenteni őket a dokumentumodban.
+Természetesen a gyakorlat ezen részét bármilyen más szöveggel is elvégezheted. A következőket kell tenned:
 
-Селектуј део текста који желиш да копираш (као што си то радио и у Ворду). Десни клик на то што си селектовао (1). 
+Jelöld ki azt a szövegrészt, amelyet ki szeretnél másolni (ahogyan azt Wordben is tetted). Kattints jobb egérgombbal a kijelölt részre (1)!
 
-Појавиће се мали прозор као на слици испод (или сличан, зависно од прегледача који користиш). Кликни на *Copy* (2). 
-
+Ekkor meg fog jelenni egy kis ablak, az alábbi képen látható módon (vagy nagyon hasonló módon, attól függően, hogy melyik böngészőt használod). Kattints a *Copy* (másolás) (2) gombra!
 
 .. image:: ../../_images/pretraga_4.png
 	:width: 800
 	:align: center
 
-Текст је привремено сачуван у меморији рачунара. Отвори сада нови Ворд документ и кликни на *Paste* (налепи). Текст ће 
-се појавити у твом документу. 
+A szöveg átmenetileg a számítógép memóriájába kerül. Most nyiss meg egy új Word-dokumentumot, és kattints a *Paste* (beillesztés) gombra. 
+A szöveg megjelent a dokumentumban.
 
-На исти начин у документ можеш да додаш корисне информације са различитих сајтова. 
+Ugyanígy adhatsz hozzá más oldalakról származó hasznos információkat is a dokumentumhoz.
 
 .. image:: ../../_images/pretraga_5.png
 	:width: 800
 	:align: center
 
-Можеш да објединиш и делове текста које су пронашли или осмислили другари са којима радиш на пројектном задатку.
+Össze is gyűjtheted azokat a szövegrészeket, amelyeket a projektfeladaton dolgozó társaid találtak vagy alkottak meg.
 
 .. questionnote::
 
- Напиши својим речима шта си све научио о теми коју си проучавао. Припреми комплетан текст за свој документ.
+ Írd le a saját szavaiddal, hogy mit tanultál meg az aktuális témáról. Készítsd el a teljes szöveget a dokumentumodhoz.
  
 .. infonote::
  
- Преузимање текста можеш да урадиш и преко тастатуре. Овај поступак је често бржи и практичнији: 
- 
- Када селектујеш текст, притисни комбинацију тастера **Ctrl + C**. Отвори Ворд документ и постави курсор на место на ком желиш да се појави 
- текст. Притисни комбинацију тастера **Ctrl + V**.
+ A szöveg másolását billentyűzettel is elvégezheted. Ez a módszer gyakran gyorsabb és praktikusabb is:
+
+ Amikor kijelölöd a szöveget, nyomd meg a **Ctrl + C** billentyűkombinációt. Nyisd meg a Word dokumentumot, és helyezd a kurzort arra a helyre, 
+ ahova a szöveget el szeretnéd helyezni. Ezután nyomd meg a **Ctrl + V** billentyűkombinációt. 
+
 
