@@ -77,21 +77,19 @@ Húzd az első blokkot a munkaterületre. Próbáld meg magad összeállítani a
      :align: center
 	 
 	 
-Пакујеш ранац за школу... све што треба да ставиш у ранац поређао си на радни сто. И почињеш паковање: свеска, гумица, оловка,
-свеска, књига, бојица, речник...
+Pakolod az iskolatáskád... mindent, amit be kell tenned a táskába, kiraktál az íróasztalra. Majd kezded a pakolást: füzet, radír, ceruza, füzet, könyv, színes ceruza, szótár...
 
 .. questionnote::
 
- Да ли си уочио неку правилност? Да ли се неки кораци понављају тако да можеш да их ставиш у петљу?
+ Észrevettél-e valami szabályszerűséget a fenti tevékenységekben? Ismétlődnek bizonyos lépések úgy, hogy akár ciklusba is lehetne őket helyezni?
  
-Ево и друге ситуације: пакујеш оловку, оловку, оловку. Затим свеску, свеску, свеску, свеску, свеску. Па стављаш књигу, књигу, књигу, књигу.
+Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. Aztán egy füzetet, egy füzetet, egy füzetet, egy füzetet, egy füzetet. Majd egy könyvet, egy könyvet, egy könyvet, egy könyvet.
 
 .. questionnote::
 
- Да ли си овог пута уочио неку правилност? Које би кораке ставио у петљу и на који начин?
+Észrevettél most valami szabályszerű ismétlődést? Mely lépéseket tennéd ciklusba, és hogyan?
 
- Да ли је упутство „Стави у ранац три оловке, пет свески, па четири књиге“ разумљивије, сажетије?
-
+Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet”? 
 
 Пример 4
 --------
