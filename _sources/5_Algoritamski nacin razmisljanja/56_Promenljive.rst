@@ -86,5 +86,5 @@ Karel két labdakupacra bukkant. Segíts neki összegyűjteni összesen tíz lab
   
 .. questionnote::
 
- Пажљиво погледај претходна два програма и својим речима испричај како и шта они раде! Којим су словима/речима обележене променљиве вредности у првом, а којим у другом примеру?
+ Nézd meg figyelmesen az előző két programot, és mondd el saját szavaiddal, hogyan működnek és mit csinálnak! Milyen betűkkel/szavakkal vannak jelölve a változó értékek az első példában, és milyenekkel a második példában?
  
