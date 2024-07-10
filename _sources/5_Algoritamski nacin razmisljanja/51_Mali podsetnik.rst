@@ -82,13 +82,13 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
 
     .. mchoice:: p516
         :correct: c
-        :answer_a: Петље
-        :answer_b: Гранање
-        :answer_c: Аритметика
-        :answer_d: Променљиве
-        :feedback_a: Одговор није тачан.
-        :feedback_b: Одговор није тачан.
-        :feedback_c: Тако је, одговор није тачан.
-        :feedback_d: Карел може да користи и променљиве, али није обавезно за овај случај!
+        :answer_a: Ciklusok
+        :answer_b: Elágazások
+        :answer_c: Aritmetika
+        :answer_d: Változók
+        :feedback_a: A válasz nem helyes!
+        :feedback_b: A válasz nem helyes!
+        :feedback_c: Így van, a válasz helyes!
+        :feedback_d: Karel használhat változókat is, de ebben az esetben ez nem kötelező!
 
-		Када треба да провери неки рачун, Карел обавезно користи блокове из групе:
+		Amikor Karelnek ellenőriznie kell egy számítást, akkor ehhez a következő csoport blokkjait használja:
