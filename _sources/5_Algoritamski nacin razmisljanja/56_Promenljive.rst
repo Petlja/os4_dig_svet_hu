@@ -11,12 +11,12 @@ A programban létezhetnek olyan értékek is, amelyek nem állandóak a program 
 
  Milyen értékek lehetnek változók?
  
-Променљиве могу бити вредности које дајеш програму да помоћу њих ради. Променљиви могу да буду и резултати које избацује програм.
-Неке вредности могу да се мењају у самом програму. На пример, имаш неки бројач лоптица који промени вредност сваки пут када Карел узме неку лоптицу...
+A változók olyan értékek lehetnek, amelyeket megadsz a programnak, hogy ezek segítségével működjön. A változók lehetnek a program által adott eredmények is.
+Néhány érték megváltozhat magában a programban. Például van egy labdaszámláló, amely minden alkalommal megváltoztatja az értékét, amikor Karel felvesz egy labdát...
 
-Погледај следећи пример. 
+Nézd meg a következő példát.
 
-Пример 11
+11. példa
 ---------
 
 У лавиринту је мрак. Карел не зна колико још корака треба да направи. Потребно је да му кажеш колико корака треба да направи и колико лоптица треба да узме са гомиле.
