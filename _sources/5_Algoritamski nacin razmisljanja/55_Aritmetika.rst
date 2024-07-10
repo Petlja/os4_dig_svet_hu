@@ -1,13 +1,12 @@
-Аритметичке операције
+Aritmetikai műveletek
 =====================
 
-Услови за гранање у програму могу често бити неки математички изрази. Подсети се како се они пишу у Кареловом свету. 
-Очекују те, овог пута, мало сложенији примери. Пажљиво размисли којим се редом извршавају операције. Пратећи логику, постави одговарајуће блокове...
+A programokban az elágazás feltételei gyakorta valamilyen matematikai kifejezések. Emlékezz vissza, hogy miként lehet matematikai kifejezéseket létrehozni Karel világában. Ezúttal egy kicsit bonyolultabb példák várnak rád. Alaposan gondold át, hogy milyen sorrendben kell végrehajtani a műveleteket. Próbáld logikusan elhelyezni a megfelelő blokkokat...
 
-Пример 9
+9. példa
 --------
 
-Састави блокове за решавање следећег задатка: Од разлике бројева 138 и 23 одузми производ бројева 6 и 4.
+Megflelő módon állítsd össze az utasítás blokkokat a következő feladat megoldásához: a 138 és a 23 különbségéből vond ki a 6 és a 4 szorzatát.
 
 .. blockly-karel:: p551  
   :categories: KarelSays, Arithmetic, Logic
