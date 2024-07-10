@@ -158,18 +158,19 @@ Használj ciklusokat a programban, és segíts neki!
       }
    }
 
-**Помоћ**: Испиши сваку наредбу коју треба да изврши и уочи које се од њих понављају. Колико пута? 
-У овом решењу можеш да употребиш две различите петље – за кретање уз зид и за сакупљање лоптица. 
+**Segítség**: Írd le az összes utasítást, amit Karelnek végrehajtania kell, és figyeld meg, hogy melyek ismétlődnek. Hányszor ismétlődnek?
 
-Присети се да смо причали и о **условним петљама**. Када њих користиш? 
+Ebben a megoldásban két különböző ciklust használhatsz - egyet a fal melletti mozgáshoz és egyet a labdák összegyűjtéséhez.
 
-Вратимо се на пример паковања ранца. 
+Emlékezz vissza arra is, hogy már említettük a **feltételes ciklusokat**. Mikor használod ezeket?
+
+Térjünk vissza az iskolatáska bepakolásának példájára.
 
 .. questionnote::
 
- Рецимо да треба да спакујеш „све што је на столу“. Не знаш унапред колико чега има. Како ћеш знати до када то треба да радиш, колико пута? 
+ Tegyük fel, hogy mindent be kell pakolnod, ami az asztalon van. Nem tudod előre, hogy pontosan hány dolog vár bepakolásra. Hogyan fogod tudni, hogy meddig kell ezt csinálnod, hány alkalommal kell megismételned?
 
-Можда да кажемо овако: „Све док на столу има предмета, спакуј их у ранац.“
+A választ talán megfogalmazhatjuk így is: „Amíg az asztalon vannak dolgok, addig folytasd a táskába való bepakolást.“ 
 
 .. infonote::
 
