@@ -77,7 +77,7 @@ Húzd az első blokkot a munkaterületre. Próbáld meg magad összeállítani a
      :align: center
 	 
 	 
-Pakolod az iskolatáskád... mindent, amit be kell tenned a táskába, kiraktál az íróasztalra. Majd kezded a pakolást: füzet, radír, ceruza, füzet, könyv, színes ceruza, szótár...
+Pakolod az iskolatáskád... mindent, amit be kell tenni a táskába, kiraktál az íróasztalra. Majd kezded a pakolást: füzet, radír, ceruza, füzet, könyv, színes ceruza, szótár...
 
 .. questionnote::
 
@@ -91,11 +91,11 @@ Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. 
 
  Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet”? 
 
-Пример 4
+4. példa
 --------
 
-Ове лоптице су се баш расуле! Добро размотри које кораке Карел треба да направи и колико пута. Ако уочиш да се неки 
-кораци понављају, стави их у петљу! 
+Ezek a labdák nagyon szétszóródtak! Jól gondold át, milyen lépéseket kell Karelnek megtennie és hányszor. Ha észreveszed, 
+hogy bizonyos lépések ismétlődnek, tedd őket ciklusba!
 
 .. blockly-karel:: p534
   :categories: KarelCommands, Loops
@@ -120,11 +120,11 @@ Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. 
       }
    }
 
-Пример 5
+5. példa
 --------
 
-Да би успешно завршио задатак, Карел треба да сакупи пет лоптица које се налазе на крају овог необичног пута. 
-Примени петље у програму и помози му! 
+Ahhoz, hogy sikeresen befejezze a feladatot, Karelnek össze kell gyűjtenie öt labdát, amelyek ezen a szokatlan úton találhatók. 
+Használj ciklusokat a programban, és segíts neki!
  
 .. blockly-karel:: p535
   :categories: KarelCommands, Loops
