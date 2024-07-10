@@ -43,11 +43,11 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :answer_a: feltételes ciklus
         :answer_b: számláló ciklus
         :answer_c: végtelen ciklus
-        :feedback_a: Нетачно. Код условне петље наредбе се извршавају све док је испуњен услов. Не знамо унапред колико пута!
+        :feedback_a: A válasz nem helyes! A feltételes ciklusban az utasítások mindaddig végrehajtásra kerülnek, amíg a feltétel teljesül. Nem tudjuk előre, hogy hányszor!
         :feedback_b: A válasz helyes!
-        :feedback_c: Нетачно. Размисли, ако се нека петља понавља бесконачно пута, да ли је добро осмишљен програм?
+        :feedback_c: A válasz nem helyes! Gondolj csak bele, ha egy ciklus végtelen számú alkalommal ismétli önmagát, az egy jól megtervezett program?
 
-        Када наредба (или група наредби) треба да се изврши више пута, у програму се користи **петља**. Када се унапред тачно зна колико пута наредба треба да се понови, петља се назива:
+        Amikor egy utasítást (vagy utasításcsoportot) többször kell végrehajtani, akkor a programban **ciklust** használunk. Ha pontosan tudjuk, hogy hányszor kell megismételni az utasítást, akkor a következő típusú ciklusról van szó:
 
 .. quizq:: 
 
@@ -56,11 +56,11 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :answer_a: 6
         :answer_b: 3
         :answer_c: 5
-        :feedback_a: Размисли још једном!
-        :feedback_b: Провери, корак, по корак!
-        :feedback_c: Браво, одговор је тачан!
+        :feedback_a: Gondold át még egyszer!
+        :feedback_b: Ellenőrizd le lépésről lépésre!
+        :feedback_c: Szép volt, a válasz helyes!
 		
-        Карел сакупља лоптице. Колико пута треба да се понови овај низ наредби да би Карел сакупио све лоптице које се налазе у лавиринту? 
+        Karel labdákat gyűjt. Hányszor kell megismételni ezt az utasítássorozatot ahhoz, hogy Karel összegyűjtse az összes labdát, amely a labirintusban található? 
 		.. image:: ../../_images/karel2.png
 			:width: 400
 			:align: right
@@ -69,14 +69,14 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
 
     .. mchoice:: p515
         :correct: a
-        :answer_a: Тачно или Нетачно.
-        :answer_b: било који број.
-        :answer_c: слова А и Б.
-        :feedback_a: Браво, одговор је тачан!
-        :feedback_b: Питање је везано за логичке операције, размисли још једном...
-        :feedback_c: Одговор није тачан.
+        :answer_a: Igaz vagy Hamis. 
+        :answer_b: bármilyen számot.
+        :answer_c: A és B betűket.
+        :feedback_a: Szép volt, a válasz helyes!
+        :feedback_b: A kérdés logikai műveletekre vonatkozik, gondold át újra...
+        :feedback_c: A válasz nem helyes!
 
-        Операције поређења се у Кареловом свету налазе у групи Логички оператори. Помоћу њих се праве логички изрази, који као вредност могу да врате:
+        Karel világában az összehasonlító műveletek a Logikai operátorok csoportjában találhatók. Ezekkel logikai kifejezéseket hozunk létre, amelyek eredményül a következő értékeket adhatják: 
 		
 .. quizq:: 
 
