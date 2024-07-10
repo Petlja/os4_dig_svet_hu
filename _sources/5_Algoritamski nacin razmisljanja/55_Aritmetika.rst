@@ -40,8 +40,8 @@ Szükséged lesz egy blokkra a 138 és a 23 különbségéhez. Egy másik blokkr
 10. példa
 ---------
 
-Јована и Никола сваког дана проверавају колико су направили корака. Јована је направила 5286 корака, а Марко 800 корака 
-више од Јоване. Састави израз којим се рачуна колико су корака заједно прешли Јована и Марко.
+Juli és Márk minden nap ellenőrzik, hogy hány lépést tettek meg. Juli 5286 lépést tett meg, míg Márk 800 lépéssel többet tett meg, mint Juli. 
+A blokkok segítégével állítsd össze azt a kifejezést, amely kiszámítja, hogy hány lépést tett meg Juli és Márk összesen.
 
 .. blockly-karel:: p552  
   :categories: KarelSays, Arithmetic, Logic
@@ -61,9 +61,10 @@ Szükséged lesz egy blokkra a 138 és a 23 különbségéhez. Egy másik blokkr
             },
   }
   
-Који си резултат ти добио када си рачунао? Да ли се слаже са оним што је израчунао Карел? Ако ниси, још једном провери
-да ли си добро поређао блокове!
+Milyen eredményt kaptál, amikor te számoltál? Egyezik azzal, amit Karel számolt ki? 
+Ha nem, ellenőrizd még egyszer, hogy helyesen rendezted-e el a blokkokat!
 
 .. infonote::
 
- Научио си како се у Ворду копирају слике и делови текста. Покушај и у овом окружењу да користиш пречице на тастатури **Ctrl + C** и **Ctrl + V** када ти је неки блок потребан више пута. 
+ Megtanultad, hogyan lehet a Wordben képeket és szövegrészleteket másolni. Próbáld meg ebben a környezetben is használni a Ctrl + C és a Ctrl + V a billentyűparancsokat, amikor egy blokkra többször is szükséged van. 
+
