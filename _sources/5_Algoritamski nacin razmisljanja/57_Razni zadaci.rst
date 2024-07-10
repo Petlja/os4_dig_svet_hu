@@ -204,10 +204,10 @@ Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
       }           
    }
 
-Задатак 7
----------
+7. feladat
+----------
  
-**Карел треба да сакупи свих 12 лоптица.**
+**Karelnek össze kell gyűjtenie mind a 12 labdát.**
 
 |
 
@@ -238,22 +238,17 @@ Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
       }           
    }
 
-**Помоћ**: Скрати састављање програма тако што ћеш користити петљу. 
-На гомилама се налази различит број лопти. Да ли ће боље решење бити да користиш бројачку 
-или условну петљу?
+**Segítség**: Rövidítsd le a programot azzal, hogy ciklust használsz.
+A kupacokban különböző számú labda található. Melyik a jobb megoldás, a számláló vagy a feltételes ciklus használata?
 
-Карел прво треба да направи корак напред, па да скрене десно. Наредну групу корака треба да понови 
-неколико пута: све док постоје лопте на пољу, узимај их, а затим направи корак напред како би прешао на следеће 
-поље. И опет… све док постоје лопте на пољу, узимај их, а затим пређи на следеће поље… и опет… до када, 
-колико пута? Можеш да приметиш која се група радњи понавља неколико пута. Када уочиш које су, стави их 
-у одговарајућу петљу. 
+Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket többször meg kell ismételni: amíg vannak labdák a mezőn, vegye fel őket, majd lépjen előre a következő mezőre. Majd ismét… amíg vannak labdák a mezőn, vegye fel őket, majd lépjen a következő mezőre… majd ismét… meddig, hányszor? Ismerd fel, hely mely műveletek csoportja ismétlődik meg többször is. Ha felismered, melyek ezek, tedd őket a megfelelő ciklusba.
 
 |
 
-Задатак 8
---------- 
+8. feladat
+---------- 
  
-**Карел је наишао на цикцак зид. У сваком ћошку (углу) налази се лопта. Помози му да их све сакупи!**
+**Karel egy cikcakkos falba ütközött. Minden sarokban van egy labda. Segíts neki összeszedni őket!**
 
 | 
 
