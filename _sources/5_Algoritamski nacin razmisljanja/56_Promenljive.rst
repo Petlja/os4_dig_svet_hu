@@ -61,7 +61,7 @@ Természetesen meg kell mondani a programnak, hogy az adott szó milyen értéke
 12. példa
 ---------
 
-Карел је наишао на две гомиле са лоптицама. Помози му да сакупи укупно десет лоптица! Изабери колико желиш лоптица са које гомиле. 
+Karel két labdakupacra bukkant. Segíts neki összegyűjteni összesen tíz labdát! Válaszd ki, hány labdát szeretnél begyűjteni az egyes kupacokból.
 
 .. blockly-karel:: p552
   :categories:
