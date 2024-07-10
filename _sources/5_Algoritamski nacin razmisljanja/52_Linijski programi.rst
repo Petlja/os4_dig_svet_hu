@@ -64,9 +64,9 @@ Mindezt szem előtt tartva oldd meg a következő példafeladatot:
 2. példa
 --------
 
-Марко је хтео да помогне Карелу, превукао је неколико блокова, али је морао да крене на тренинг! 
-Сложи припремљене блокове и провери да ли ће Карел успети да дође до лопте и узме је. 
-Ако је потребно, избриши блок који је вишак или додај неки ако недостаје!
+Márk segíteni akart Karelnak, ezért áthúzott néhány blokkot a programhoz, de utána edzésre kellett mennie! 
+Rendezd sorba az előkészített blokkokat, és ellenőrizd, hogy Karel eljut-e a labdához és felveszi-e azt. 
+Ha szükséges, töröld a felesleges blokkot, vagy adj hozzá egyet, ha hiányzik!
 
 .. blockly-karel:: p522
   :flyouttoolbox:
@@ -98,7 +98,7 @@ Mindezt szem előtt tartva oldd meg a következő példafeladatot:
 
 .. questionnote::
 
- Да ли у претходним примерима постоје неке наредбе или групе наредби које се понављају више пута?
+ Vannak olyan utasítások vagy utasításcsoportok az előző példákban, amelyek többször is megismétlődnek?
  
  
 
