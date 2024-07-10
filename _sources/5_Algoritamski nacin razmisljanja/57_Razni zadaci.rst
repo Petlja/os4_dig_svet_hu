@@ -280,17 +280,17 @@ Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket
       }           
    }
 
-**Помоћ**: Као и у ранијим примерима, уочи које се наредбе понављају и стави их у петљу.
+**Segítség**: Az előző példákhoz hasonlóan, keresd meg, hogy mely utasítások ismétlődnek, és helyezd őket egy ciklusba.
 
 |
 
-Задатак 9
+9. feladat
 ---------
 
-**Карел се тренутно налази код рупе у коју треба да убаци три лопте. Помози му да то уради!**
+**Karel jelenleg a lyuknál van, ahova három labdát kell bedobnia. Segíts neki ezt megcsinálni!**
  
-Како би увежбао примену бројачких петљи, условних петљи и гранања у програму, покушај овај задатак 
-да решиш на више различитих начина! 
+Azért, hogy gyakorold a számláló ciklusok, a feltételes ciklusok és az elágazások alkalmazását a programban, 
+próbáld meg ezt a feladatot több különböző módon megoldani!
 
 |
 
@@ -323,10 +323,10 @@ Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket
 
 |
 
-Задатак 10
-----------
+10. feladat
+-----------
 
-**Ова оптица се баш сакрила! Помози Карелу да стигне до ње и узме је!**
+**Ez a labda jól elbújt! Segíts Karelnek megkeresni és elhozni!**
  
 .. blockly-karel:: p5610
   :categories: KarelCommands, Loops, KarelLoops, Branching
@@ -355,7 +355,8 @@ Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket
       }           
    }
    
-**Помоћ**: Карел треба да иде напред док не наиђе на зид (док може напред). Када дође до зида, 
-треба да скрене лево. Колико пута треба да понови овај поступак? Када стигне на последње поље, 
-треба да узме лопту и задатак ће бити решен!  
+**Segítség**: Karelnek addig kell haladnia előre, amíg falnak nem ütközik (amíg előre tud haladni). 
+Amikor eléri a falat, balra kell fordulnia. Hányszor kell megismételnie ezt a folyamatot? 
+Amikor eléri az utolsó mezőt, fel kell vennie a labdát, és ezzel a feladat megoldódott!
+
 
