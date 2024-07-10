@@ -53,15 +53,15 @@ Ha ebben a sorrendben állítottad be a lépéseket, Karel eljut arra a mezőre,
 
 .. questionnote::
 
- Замени место неким корацима, „измешај их“! Шта се десило? Да ли је Карел и овог пута успешно узео лоптицу?
+ Cseréld fel néhány lépés helyét, keverd össze őket! Mi történt? Sikerült Karelnak most is felvenni a labdát?
 
 .. infonote::
 
- Није свеједно којим редом наводиш кораке. Присети се да је **алгоритам** низ корака које је потребно направити **тачно одређеним редоследом** како би се решио неки проблем.
+ Nem mindegy, milyen sorrendben adod meg a lépéseket. Jusson eszedbe, hogy az **algoritmus** olyan lépések sorozata, amelyeket **pontosan meghatározott sorrendben** kell végrehajtani egy probléma megoldásához.
 
-Имајући ово у виду, уради следећи пример:
+Mindezt szem előtt tartva oldd meg a következő példafeladatot:
 
-Пример 2
+2. példa
 --------
 
 Марко је хтео да помогне Карелу, превукао је неколико блокова, али је морао да крене на тренинг! 
