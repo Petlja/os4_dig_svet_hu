@@ -40,16 +40,16 @@ Segíts Karelnek megszerezni a labdát!
         }
    }
    
-Да ли твоје решење има следеће кораке:  
- - корак напред,
- - скрени лево,
- - корак напред,
- - скрени десно,
- - корак напред,
- - узми?
- 
-Ако си кораке поставио овим редом, Карел ће доћи на поље на ком се налази лоптица и узеће је. 
-Задатак ће бити успешно обављен! 
+Tartalmazza-e a megoldásod a következő lépéseket:
+ - lépés előre,
+ - fordulj balra,
+ - lépés előre,
+ - fordulj jobbra,
+ - lépés előre,
+ - vedd fel?
+
+Ha ebben a sorrendben állítottad be a lépéseket, Karel eljut arra a mezőre, ahol a labda van, és felveszi azt. A feladatot sikeresen teljesíti!
+
 
 .. questionnote::
 
