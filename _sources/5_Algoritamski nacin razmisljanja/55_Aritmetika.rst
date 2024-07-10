@@ -6,7 +6,7 @@ A programokban az elágazás feltételei gyakorta valamilyen matematikai kifejez
 9. példa
 --------
 
-Megflelő módon állítsd össze az utasítás blokkokat a következő feladat megoldásához: a 138 és a 23 különbségéből vond ki a 6 és a 4 szorzatát.
+Megfelelő módon állítsd össze az utasítás blokkokat a következő feladat megoldásához: a 138 és a 23 különbségéből vond ki a 6 és a 4 szorzatát.
 
 .. blockly-karel:: p551  
   :categories: KarelSays, Arithmetic, Logic
@@ -26,19 +26,18 @@ Megflelő módon állítsd össze az utasítás blokkokat a következő feladat 
             },
   }
   
-**Помоћ**:
+**Sgítség**:
 
-Mатематички израз за овај задатак je следећи:
+E feladat a matematikai kifejezése a következő:
 
 (138 - 23) - (6 * 4)
 
-Којим ћеш редоследом постављати блокове? Колико ти је блокова са аритметичким операцијама потребно? 
- 
-Треба ти један блок за разлику бројева 138 и 13. Други ће ти послужити да помножиш бројеве 6 и 4. Трећи блок треба да послужи да одузмеш ова два резултата.
- 
+Milyen sorrendben helyezed el a blokkokat? Hány blokkra van szükséged az aritmetikai műveletekhez?
+
+Szükséged lesz egy blokkra a 138 és a 23 különbségéhez. Egy másik blokkra, hogy megszorozd a 6-ot és a 4-et. A harmadik blokkra pedig, hogy kivond egymásból ezt a két eredményt.
 
 
-Пример 10
+10. példa
 ---------
 
 Јована и Никола сваког дана проверавају колико су направили корака. Јована је направила 5286 корака, а Марко 800 корака 
