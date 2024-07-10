@@ -174,19 +174,20 @@ A választ talán megfogalmazhatjuk így is: „Amíg az asztalon vannak dolgok,
 
 .. infonote::
 
- Када није унапред познато колико пута наредба (или група наредби) треба да се понови, у програму се користе **условне петље**.
+ Amikor nem tudható előre, hány alkalommal kell megismételni egy utasítást (vagy utasításcsoportot), akkor a programban **feltételes ciklust** használunk.
 
-Пример 6
+
+6. példa
 --------
 
-На гомили се налазe лоптицe које Карел треба да убаци у рупу. Карел овог пута **не зна унапред** колико лоптица треба да сакупи.
-Сваки пут кад покренеш програм на гомили ће се појавити другачији број лоптица.
+A labdák egy kupacban vannak, amelyeket majd Karelnek a lyukba kell helyeznie. Karel ezúttal nem tudja előre, hány labdát kell összegyűjtenie.
+Ugyanis minden egyes alkalommal, amikor elindítod a programot, más-más számú labda van egy kupacban.
 
-Погледај решење које је смислио Пера. 
+Nézd meg Peti megoldását!  
 
 .. questionnote::
 
- Да ли ће овако написан програм моћи да се примени без обзира на број лоптица на гомили?
+ Alkalmazható-e az így megírt program a kupacban lévő golyók számától függetlenül?
 
 .. blockly-karel:: p536
   :categories: KarelCommands, Loops, KarelBrain
