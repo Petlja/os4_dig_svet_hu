@@ -108,7 +108,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 4. feladat
 ----------
 
-**Segíts Karelnek összeszedni az összes labdát a kupacból, majd visszatérni az(1, 1) mezőre!**
+**Segíts Karelnek összeszedni az összes labdát a kupacból, majd visszatérni az (1, 1) mezőre!**
 
 |
    
@@ -135,10 +135,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
    }
    
 
-Задатак 5
----------
+5. feladat
+----------
   
-**Помози Карелу да сакупи све лоптице и врати се на поље (1, 1).**
+**Segíts Karelnek összeszedni az összes labdát, majd visszatérni az (1, 1) mezőre!**
 
 |
    
@@ -167,10 +167,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
            
    }
    
-**Помоћ**: Уочи делове програма који се понављају!
+**Segítség**: Keresd meg a program ismétlődő részeit!
 
-Задатак 6
----------
+6. feladat
+----------
   
 **Задатак је сличан претходном. Карел треба да сакупи лоптице и убаци их у рупу која се налази на пољу (1, 1)**. 
 Ако уочиш делове програма који се понављају, употреби петљу!**
