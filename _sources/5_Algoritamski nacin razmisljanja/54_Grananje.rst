@@ -1,21 +1,22 @@
 Elágazó programok
 =================
 
-Хајде да се вратимо на наш пример паковања ранца. Да ли сваког дана носиш све књиге? А темпере? Од чега то зависи?
-Рецимо да ликовно имаш петком. **Ако** је петак - спаковаћеш темпере. Да ли ћеш их носити у школу ако није петак? 
-Или, слично - **ако** имаш математику, спаковаћеш две свеске, радне листове, књигу... Да ли ти је потребна књига из математике **ако** немаш тај час петком?
+Térjünk vissza az iskolatáska bepakolásáról szóló példánkhoz. Minden nap viszed az összes könyvet? És a tempera festéket? Mitől függ ez?
+Tegyük fel, hogy képzőművészet órád péntekenként van. **Ha** péntek van - a temperát is bepakolod. Akkor is magaddal viszed az iskolába, ha nem péntek van?
+Vagy hasonlóképpen - **ha** van matematika órád, akkor bepakolsz két füzetet, a feladatlapokat, egy könyvet... Kell-e a matekkönyv, **ha** például pénteken nincs ilyen órád?
 
-Присети се:
+Emlékezz csak vissza:
 
 .. infonote::
 
- Када се у програму проверава неки услов и раде различите ствари у зависности од тога да ли је он испуњен или не, говоримо о **гранању**.
+ Amikor a program egy feltételt ellenőriz, és a feltétel teljesülésétől függően különböző dolgokat fog csinálni, akkor **elágazásról** beszélünk.
 
-Пример 8
+8. példa
 ---------
 
-Марко је смислио игру која ће ти помоћи да обновиш математику. Карел ће да направи корак напред само ако је тачан услов који је постављен.
-Замени (где је потребно) знак **=** знацима **<** или **>** у програму који је саставио Марко тако да Карел сваки пут направи предвиђени број корака и стигне до поља (5, 1)
+Márk kitalált egy játékot, amely segít neked felfrissíteni a matematika tudásodat. Karel csak akkor lép előre, ha a megadott feltétel teljesül.
+Cseréld le (ahol az szükséges) az **=** jelet **<** vagy **>** jelekre a Márk által megírt programban úgy, hogy Karel minden alkalommal a megfelelő lépéseket tegye meg, és végén elérjen az (5, 1) mezőre.
+
 
 .. blockly-karel:: p542
   :categories: 
