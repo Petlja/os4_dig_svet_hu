@@ -1,15 +1,15 @@
-Разни задаци
-============
+Feladatok
+=========
 
-Сада имаш већ довољно искуства да самостално решаваш задатке. Кад год је могуће, реши задатак на више начина!
+Most már elegendő tapasztalattal rendelkezel az önálló feladatok megoldásához. Lehetőség szerint többféleképpen oldj meg egy-egy feladatot!
 
-Како бисмо ти мало олакшали рад, убацили смо и две нове групе блокова: ``Гранање Карел`` и ``Петље Карел``. 
-Блокови који се налазе у овим групама представљају комбинацију блокова из групе ``Петље``, 
-``Гранање`` и ``Питај робота``. Слободно истражи и употреби блокове који ти највише одговарају! 
+Annak érdekében, hogy egy kicsit megkönnyítsük a munkád, két új blokkcsoportot adtunk az eszköztárhoz: ``Karel elágazás`` és ``Karel ciklus`` néven.
+Az ezekben a csoportokban található blokkok a ``Ciklusok``, az ``Elágazások`` és a ``Kérdezd a robotot`` csoport blokkjainak kombinációját képviselik.
+Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban megfelelnek!
 
 .. suggestionnote::
 
- **Када год је могуће и смислено, употреби одговарајуће петље у свом решењу!**
+ **Ha lehetséges és van értelme, akkor mindenképp használd a megfelelő ciklusokat a megoldásban!** 
 
 |
 
