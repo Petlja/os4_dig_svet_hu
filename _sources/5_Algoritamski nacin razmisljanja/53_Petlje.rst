@@ -1,12 +1,12 @@
-Програми са понављањем
-======================
+Ismétlődő programok
+===================
 
-Погледај следећи пример. Објасни Карелу шта треба да уради.
+Nézd meg a következő példát. Magyarázd el Karelnek, hogy mit kell tennie.
 
-Пример 3
+3. példa
 --------
 
-На гомили се налази пет лоптица. Карел треба да сакупи свих пет лоптица и направи корак до поља (6, 1). 
+Öt labda van egy kupacban. Karelnek össze kell gyűjtenie mind az öt labdát majd a (6, 1) mezőre kell lépnie. 
  
 .. blockly-karel:: p532a
   :categories: KarelCommands
@@ -30,20 +30,20 @@
 		}
    }
 
-**Помоћ**: Карел треба да направи четири корака, затим пет пута да узме лоптицу, па направи још један корак како би стигао на договорено поље.
+**Segítség**: Karelnek négy lépést kell tennie, majd ötször fel kell vennie egy-egy labdát, és végül még egy lépést kell tennie, hogy elérje a megadott mezőt.
 
 .. questionnote::
 
- Замисли да се на гомили налази 1000 лоптица! Колико би ти блокова, али и времена било потребно да саставиш програм?
+ Képzeld el, hogy 1000 labda van egy kupacban! Hány blokkra és mennyi időre lenne szükséged, hogy összeállítsd a programot?
  
-У том случају много је практичније да примениш **петљу** у програму.
+Ebben az esetben sokkal célszerűbb **ciklust** alkalmazni a programban.
 
 .. infonote::
 
- Када наредба (или група наредби) треба да се изврши више пута, у програму се користи **петља**.
+ Ha egy utasítást (vagy utasítások csoportját) többször kell végrehajtani egy adott programban, akkor ehhez **ciklust** használunk.
 
-Уради поново претходни пример, али овог пута применом петље. Да би наредбе биле прегледније, поделили смо их у групе. Кликни на групу ``Петље``.
-Превуци први блок у простор за слагање. Покушај сам да саставиш програм. Ако не успеш, погледај наш предлог решења.
+Csináld meg újra az előző példát, de ezúttal ciklus alkalmazásával. Az utasítások áttekinthetősége érdekében csoportokra osztottuk őket. Kattints a ``Ciklusok`` csoportra.
+Húzd az első blokkot a munkaterületre. Próbáld meg magad összeállítani a programot. Ha nem sikerül, nézd meg az általunk javasolt megoldást.
 
 .. blockly-karel:: p532b
   :categories: KarelCommands, Loops
@@ -66,11 +66,11 @@
 		}
    }
    
-.. reveal::  Пример 3
-   :showtitle: Предлог решења   
-   :hidetitle: Затвори
+.. reveal::  3. példa
+   :showtitle: Javasolt megoldás   
+   :hidetitle: Bezár
 	
-   Предлог решења
+   Javasolt megoldás
  
    .. image:: ../../_images/karel_p3.png
      :width: 780
