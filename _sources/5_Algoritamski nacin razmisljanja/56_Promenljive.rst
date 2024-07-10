@@ -19,9 +19,10 @@ Nézd meg a következő példát.
 11. példa
 ---------
 
-У лавиринту је мрак. Карел не зна колико још корака треба да направи. Потребно је да му кажеш колико корака треба да направи и колико лоптица треба да узме са гомиле.
-Сваки пут када се покрене програм, Карел ће се наћи у другом тунелу, број корака које треба да направи и број лоптица које треба да сакупи биће другачији - **променљив** је.
-Влајко је саставио програм на следећи начин:
+A labirintusban sötét van. Karel nem tudja, hány lépést kell megtennie. Meg kell mondanod neki, hány lépést kell tennie és hány labdát kell felvennie a kupacból.
+Minden alkalommal, amikor a program elindul, Karel egy másik alagútban találja magát, a megtett lépések száma és a begyűjtendő labdák száma más lesz - **változó**.
+Vince a következőképpen állította össze a programot:
+
 
 .. blockly-karel:: p551
   :categories:
@@ -53,11 +54,11 @@ Nézd meg a következő példát.
   
 .. infonote::
 
- Када је у програму нека вредност променљива, можеш уместо ње да користиш неко слово или реч. 
+ Amikor egy érték változó a programban, használhatsz helyette egy betűt vagy szót.
 
-Наравно, програму мораш да кажеш која ће вредност бити у ту реч сачувана.
+Természetesen meg kell mondani a programnak, hogy az adott szó milyen értéket fog tárolni. 
 
-Пример 12
+12. példa
 ---------
 
 Карел је наишао на две гомиле са лоптицама. Помози му да сакупи укупно десет лоптица! Изабери колико желиш лоптица са које гомиле. 
