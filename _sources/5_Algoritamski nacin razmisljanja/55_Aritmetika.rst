@@ -66,5 +66,5 @@ Ha nem, ellenőrizd még egyszer, hogy helyesen rendezted-e el a blokkokat!
 
 .. infonote::
 
- Megtanultad, hogyan lehet a Wordben képeket és szövegrészleteket másolni. Próbáld meg ebben a környezetben is használni a Ctrl + C és a Ctrl + V a billentyűparancsokat, amikor egy blokkra többször is szükséged van. 
+ Megtanultad, hogyan lehet a Wordben képeket és szövegrészleteket másolni. Próbáld meg ebben a környezetben is használni a **Ctrl + C** és a **Ctrl + V** a billentyűparancsokat, amikor egy blokkra többször is szükséged van. 
 
