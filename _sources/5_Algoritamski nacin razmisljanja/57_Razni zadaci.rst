@@ -172,8 +172,8 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 6. feladat
 ----------
   
-**Задатак је сличан претходном. Карел треба да сакупи лоптице и убаци их у рупу која се налази на пољу (1, 1)**. 
-Ако уочиш делове програма који се понављају, употреби петљу!**
+**A feladat hasonló az előzőhöz. Karelnek össze kell szednie a labdákat, és be kell dobnia az (1, 1) mezőn található lyukba **.
+Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
 
 |
    
