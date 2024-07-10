@@ -1,15 +1,15 @@
-Променљиве вредности
-====================
+Változó értékek
+===============
 
-Програми које си до сада радио извршавали су се одједном, без прекида. Покренеш програм и он уради све што треба. Међутим, често је
-потребно да током извршавања програма убацујеш неке додатне податке како би програм знао шта да ради. 
-Ако унесеш једну вредност - програм избаци један резултат. Другу вредност - врати неки други резултат.
+A programok, amelyeket eddig készítettél, megszakítás nélkül futottak le. Elindítottad a programot, és az elvégzte a szükséges feladatokat. 
+Azonban gyakran van szükség arra, hogy a program futása közben adjunk meg további adatokat, hogy a program tudja, mit kell tennie.
+Ha megadsz egy értéket, a program egy eredményt ad. Ha egy másik értéket adsz meg, a program egy másik eredményt ad.
 
-У програму могу да постоје и вредности које нису исте током целог извршавања програма. Њих називамо **променљиве**.
+A programban létezhetnek olyan értékek is, amelyek nem állandóak a program teljes futása alatt. Ezeket **változóknak** nevezzük.
 
 .. questionnote::
 
- Које све вредности могу бити променљиве?
+ Milyen értékek lehetnek változók?
  
 Променљиве могу бити вредности које дајеш програму да помоћу њих ради. Променљиви могу да буду и резултати које избацује програм.
 Неке вредности могу да се мењају у самом програму. На пример, имаш неки бројач лоптица који промени вредност сваки пут када Карел узме неку лоптицу...
