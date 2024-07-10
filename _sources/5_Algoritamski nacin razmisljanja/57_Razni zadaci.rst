@@ -13,10 +13,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 
 |
 
-Задатак 1
----------
+1. feladat
+----------
 
-**Карел се нашао у уском пролазу. Помози му да узме обе лоптице!**
+**Karel egy szűk járatban találta magát. Segíts neki megszerezni mindkét labdát!**
 
 .. blockly-karel:: p561
   :categories: KarelCommands, Loops, KarelLoops, Branching
@@ -45,10 +45,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
    }
 
 
-Задатак 2
----------
+2. feladat
+----------
 
-**Карел треба да убаци лоптицу у рупу!**
+**Karelnek be kell dobnia a labdát a lyukba!**
 
 .. blockly-karel:: p562
   :categories: KarelCommands, Loops, KarelLoops, Branching
@@ -74,10 +74,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
       }           
    }
 
-Задатак 3
----------
+3. feladat
+----------
   
-**Карел треба да сакупи две лоптице. Да ли је кренуо на добру страну? Изабери краћи пут!**
+**Karelnek két labdát kell gyűjtenie. Jó felé fordult? Válassz rövidebb utat!**
 
 .. blockly-karel:: p563
   :categories: KarelCommands, Loops, KarelLoops, Branching
@@ -105,10 +105,10 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
    }
       
 
-Задатак 4
----------
+4. feladat
+----------
 
-**Помози Карелу да сакупи све лоптице са гомиле и врати се на поље (1, 1)!**
+**Segíts Karelnek összeszedni az összes labdát a kupacból, majd visszatérni az(1, 1) mezőre!**
 
 |
    
