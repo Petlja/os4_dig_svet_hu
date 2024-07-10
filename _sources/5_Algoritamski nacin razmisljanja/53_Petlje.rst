@@ -87,9 +87,9 @@ Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. 
 
 .. questionnote::
 
-Észrevettél most valami szabályszerű ismétlődést? Mely lépéseket tennéd ciklusba, és hogyan?
+ Észrevettél most valami szabályszerű ismétlődést? Mely lépéseket tennéd ciklusba, és hogyan?
 
-Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet”? 
+ Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet”? 
 
 Пример 4
 --------
