@@ -1,15 +1,16 @@
-Линијски програми
-=================
+Lineáris programok
+==================
 
-Прошлe године пoмињали смо различитe **програмске структуре**. Причали смо о томе када се користе петље у програму, када 
-за програм кажемо да се **грана**, како се врше математичке операције.
+Tavaly különböző **programozási struktúrákról** beszéltünk. Beszéltünk arról, hogy mikor használunk ciklusokat a programban, 
+milyen esetben mondjuk egy programról, hogy **elágazik**, és hogy miként lehet elvégezni a matematikai műveleteket.
 
-Подсети се на који начин састављаш програме у Карел окружењу! Кренућемо од једног једноставног примера:
+Emlékezz vissza, hogy hogyan kell összeállítani egy programot a Karel környezetben! Kezdjük egy egyszerű példával:
 
-Пример 1
+
+1. példa
 --------
 
-Помози Карелу да узме лоптицу!
+Segíts Karelnek megszerezni a labdát!
 
 .. blockly-karel:: p521 
   :flyouttoolbox:
