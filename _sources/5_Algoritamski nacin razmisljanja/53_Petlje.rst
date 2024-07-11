@@ -94,7 +94,7 @@ Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. 
 4. példa
 --------
 
-Ezek a labdák szétszóródtak! Jól gondold át, milyen lépéseket kell Karelnek megtennie, és hányszor! Ha észreveszed, 
+Ezek a labdák szétszóródtak. Jól gondold át, milyen lépéseket kell Karelnek megtennie, és hányszor! Ha észreveszed, 
 hogy bizonyos lépések ismétlődnek, tedd őket ciklusba!
 
 .. blockly-karel:: p534
