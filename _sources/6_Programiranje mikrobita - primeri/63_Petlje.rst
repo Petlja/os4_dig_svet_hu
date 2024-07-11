@@ -23,21 +23,21 @@ Amikor egy utasítást vagy az utasítások csoportját többször meg kell ism�
 
 Ez már ismerősen hangzik, ugye?
 
-Kattints a *Ciklusok* csoportra (amely zöld színű). Превуци блок ``понови _ пута`` у простор за слагање блокова. 
+Kattints a *Ciklusok* csoportra (amely zöld színű). Húzd át az ``ismételd _ alkalommal`` blokkot a munkaterületre. 
 
 .. image:: ../../_images/mb8.png
 	:width: 800
 	:align: center
 
-Пошто у задатку стоји да се текст понови три пута, уместо броја 4 упиши број 3. У овај блок додај блок за приказ текста „Zdravo“. 
+Mivel a feladatban az áll, hogy a szöveg háromszor kell, hogy megjelenjen, ezért a 4-es szám helyett írj be egy 3-as számot. Ebbe a blokkba tedd bele a szöveg kiírása nevű blokkot, amely a „Hello” szavat jeleníti majd meg.
 
-Твој програм сада изгледа овако:
+Most így néz ki a program:
 
 .. image:: ../../_images/mb9.png
 	:width: 800
 	:align: center
 	
-Покрени симулацију!
+Indítsd el a szimulációt!
 
 .. questionnote::
 
