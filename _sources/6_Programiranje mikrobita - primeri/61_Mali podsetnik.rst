@@ -41,23 +41,23 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
         :answer_b: 30
         :answer_c: 25
         :answer_d: 24
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz nem helyes.
 
-        Колико се лампица (светлећих диода) налази на предњој страни микробита?
+        Hány kis égő (fénykibocsátó dióda) van a microbit elülső részén?
 
 .. quizq::
 
    .. mchoice:: p614
         :correct: a
-        :answer_a: Може.
-        :answer_b: Микробит може да светли, али не и да детектује светло.
-        :feedback_a: Одговор је тачан.  
-        :feedback_b: Одговор није тачан. 
+        :answer_a: Igen, képes.
+        :answer_b: A microbit tud világítani, de nem képes a fény érzékelésére. 
+        :feedback_a: A válasz helyes.  
+        :feedback_b: A válasz nem helyes. 
 
-        Да ли микробит може да детектује ниво осветљености у својој околини?
+        Képes-e egy microbit érzékelni a környezetében lévő fény erősségét?
 
 .. quizq::
 
