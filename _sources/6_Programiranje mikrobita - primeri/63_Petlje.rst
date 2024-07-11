@@ -10,7 +10,7 @@ Emlékezz vissza Karelre! Gyakran adtál neki olyan parancsokat, amelyeket megha
 4. példa
 ~~~~~~~~
 
-Állítsd össze a blokkokat úgy, hogy a „Hello“ szöveg csak háromszor jelenjen meg a kijelzőn! 
+Állítsd össze a blokkokat úgy, hogy a „Szia“ szöveg csak háromszor jelenjen meg a kijelzőn! 
 
 Kattints a microbit ikonra (1), hogy visszatérj a projekteket tartalmazó ablakhoz.
 
@@ -18,7 +18,7 @@ Kattints a microbit ikonra (1), hogy visszatérj a projekteket tartalmazó ablak
 	:width: 800
 	:align: center
 
-Hozz létre egy projektet, a neve pedig legyen „Hello“.
+Hozz létre egy projektet, a neve pedig legyen „Szia“.
 Amikor egy utasítást vagy az utasítások csoportját többször meg kell ismételni, akkor a programban ciklusokat használunk.
 
 Ez már ismerősen hangzik, ugye?
@@ -29,7 +29,7 @@ Kattints a *Ciklusok* csoportra (amely zöld színű). Húzd át az ``ismételd 
 	:width: 800
 	:align: center
 
-Mivel a feladatban az áll, hogy a szöveg háromszor kell, hogy megjelenjen, ezért a 4-es szám helyett írj be egy 3-as számot. Ebbe a blokkba tedd bele a szöveg kiírása nevű blokkot, amely a „Hello” szavat jeleníti majd meg.
+Mivel a feladatban az áll, hogy a szöveg háromszor kell, hogy megjelenjen, ezért a 4-es szám helyett írj be egy 3-as számot. Ebbe a blokkba tedd bele a szöveg kiírása nevű blokkot, amely a „Szia” szavat jeleníti majd meg.
 
 Most így néz ki a program:
 
