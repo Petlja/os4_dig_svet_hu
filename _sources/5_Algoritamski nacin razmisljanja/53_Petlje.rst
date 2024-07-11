@@ -1,12 +1,12 @@
 Ismétlődő programok
 ===================
 
-Nézd meg a következő példát. Magyarázd el Karelnek, hogy mit kell tennie.
+Nézd meg a következő példát! Magyarázd el Karelnek, hogy mit kell tennie!
 
 3. példa
 --------
 
-Öt labda van egy kupacban. Karelnek össze kell gyűjtenie mind az öt labdát majd a (6, 1) mezőre kell lépnie. 
+Öt labda van egy kupacban. Karelnek össze kell gyűjtenie mind az öt labdát, majd a (6, 1) mezőre kell lépnie. 
  
 .. blockly-karel:: p532a
   :categories: KarelCommands
@@ -42,8 +42,8 @@ Ebben az esetben sokkal célszerűbb **ciklust** alkalmazni a programban.
 
  Ha egy utasítást (vagy utasítások csoportját) többször kell végrehajtani egy adott programban, akkor ehhez **ciklust** használunk.
 
-Csináld meg újra az előző példát, de ezúttal ciklus alkalmazásával. Az utasítások áttekinthetősége érdekében csoportokra osztottuk őket. Kattints a ``Ciklusok`` csoportra.
-Húzd az első blokkot a munkaterületre. Próbáld meg magad összeállítani a programot. Ha nem sikerül, nézd meg az általunk javasolt megoldást.
+Csináld meg újra az előző példát, de ezúttal ciklus alkalmazásával! Az utasítások áttekinthetősége érdekében csoportokra osztottuk őket. Kattints a ``Ciklusok`` csoportra!
+Húzd az első blokkot a munkaterületre! Próbáld meg magad összeállítani a programot! Ha nem sikerül, nézd meg az általunk javasolt megoldást!
 
 .. blockly-karel:: p532b
   :categories: KarelCommands, Loops
@@ -77,7 +77,7 @@ Húzd az első blokkot a munkaterületre. Próbáld meg magad összeállítani a
      :align: center
 	 
 	 
-Pakolod az iskolatáskád... mindent, amit be kell tenni a táskába, kiraktál az íróasztalra. Majd kezded a pakolást: füzet, radír, ceruza, füzet, könyv, színes ceruza, szótár...
+Pakolsz be az iskolatáskádba... Mindent, amit be kell tenni a táskába, kiraksz az íróasztalra. Majd hozzáfogsz a pakoláshoz: füzet, radír, ceruza, füzet, könyv, színes ceruza, szótár...
 
 .. questionnote::
 
@@ -89,12 +89,12 @@ Itt van egy másik helyzet: bepakolsz egy ceruzát, egy ceruzát, egy ceruzát. 
 
  Észrevettél most valami szabályszerű ismétlődést? Mely lépéseket tennéd ciklusba, és hogyan?
 
- Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet”? 
+ Érthetőbb és tömörebb lenne az az utasítás, hogy „Tégy a hátizsákba három ceruzát, öt füzetet, majd négy könyvet!”? 
 
 4. példa
 --------
 
-Ezek a labdák nagyon szétszóródtak! Jól gondold át, milyen lépéseket kell Karelnek megtennie és hányszor. Ha észreveszed, 
+Ezek a labdák szétszóródtak! Jól gondold át, milyen lépéseket kell Karelnek megtennie, és hányszor! Ha észreveszed, 
 hogy bizonyos lépések ismétlődnek, tedd őket ciklusba!
 
 .. blockly-karel:: p534
@@ -158,19 +158,19 @@ Használj ciklusokat a programban, és segíts neki!
       }
    }
 
-**Segítség**: Írd le az összes utasítást, amit Karelnek végrehajtania kell, és figyeld meg, hogy melyek ismétlődnek. Hányszor ismétlődnek?
+**Segítség**: Írd le az összes utasítást, amit Karelnek kell végrehajtania, és figyeld meg, hogy melyek ismétlődnek! Hányszor ismétlődnek?
 
 Ebben a megoldásban két különböző ciklust használhatsz - egyet a fal melletti mozgáshoz és egyet a labdák összegyűjtéséhez.
 
-Emlékezz vissza arra is, hogy már említettük a **feltételes ciklusokat**. Mikor használod ezeket?
+Emlékezz vissza arra is, hogy már említettük a **feltételes ciklusokat**! Mikor használod ezeket?
 
 Térjünk vissza az iskolatáska bepakolásának példájára.
 
 .. questionnote::
 
- Tegyük fel, hogy mindent be kell pakolnod, ami az asztalon van. Nem tudod előre, hogy pontosan hány dolog vár bepakolásra. Hogyan fogod tudni, hogy meddig kell ezt csinálnod, hány alkalommal kell megismételned?
+ Tegyük fel, hogy mindent be kell pakolnod, ami az asztalon van. Nem tudod előre, hogy pontosan hány dolog vár bepakolásra. Honnan fogod tudni, hogy meddig kell ezt csinálnod, hány alkalommal kell megismételned?
 
-A választ talán megfogalmazhatjuk így is: „Amíg az asztalon vannak dolgok, addig folytasd a táskába való bepakolást.“ 
+A választ talán megfogalmazhatjuk így is: „Amíg az asztalon vannak dolgok, addig folytasd a táskába való bepakolást!“ 
 
 .. infonote::
 
