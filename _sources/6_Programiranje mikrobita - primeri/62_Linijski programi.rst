@@ -1,14 +1,14 @@
-Линијски програми
-=================
+Lineáris programok
+==================
 
-Сада је већ потпуно јасно да основне алгоритамске структуре можеш да уочиш и у свакодневном животу.
+Már teljesen világos, hogy az alapvető algoritmikus struktúrákkal a mindennapi életben is találkozhatsz.
 
-Као што си их користио док си помагао роботу Карелу да извршава одређене задатке, тако могу да се примене и у 
-програмирању микробита.
+Ahogy Karel robotnál is felhasználtad őket a feladatok végrehajtásában, ugyanúgy alkalmazhatod a microbit programozásában is.
 
-Како би се у потпуности подсетио на који начин се програмира микробит, уради следећи задатак:
+Ahhoz, hogy felelevenítsd magadban a microbit programozását, oldd meg a következő feladatot:
 
-Пример 1
+
+1. példa
 ~~~~~~~~
 
 Састави блокове тако да микробит прикаже сличицу срца, срећан емотикон, а затим твоје име.
