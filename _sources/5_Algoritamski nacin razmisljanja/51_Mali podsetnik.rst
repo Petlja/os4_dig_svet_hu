@@ -70,7 +70,7 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
     .. mchoice:: p515
         :correct: a
         :answer_a: Igaz vagy Hamis. 
-        :answer_b: bármilyen számot.
+        :answer_b: Bármilyen számot.
         :answer_c: A és B betűket.
         :feedback_a: Szép volt, a válasz helyes.
         :feedback_b: A kérdés logikai műveletekre vonatkozik, gondold át újra!
