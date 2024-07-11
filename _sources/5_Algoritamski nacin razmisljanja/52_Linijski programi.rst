@@ -46,7 +46,7 @@ Tartalmazza-e a megoldásod a következő lépéseket:
  - lépés előre,
  - fordulj jobbra,
  - lépés előre,
- - vedd fel?
+ - vedd fel!?
 
 Ha ebben a sorrendben állítottad be a lépéseket, Karel eljut arra a mezőre, ahol a labda van, és felveszi azt. A feladatot sikeresen teljesíti.
 
