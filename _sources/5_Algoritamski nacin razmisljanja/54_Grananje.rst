@@ -1,9 +1,9 @@
 Elágazó programok
 =================
 
-Térjünk vissza az iskolatáska bepakolásáról szóló példánkhoz. Minden nap viszed az összes könyvet? És a tempera festéket? Mitől függ ez?
-Tegyük fel, hogy képzőművészet órád péntekenként van. **Ha** péntek van - a temperát is bepakolod. Akkor is magaddal viszed az iskolába, ha nem péntek van?
-Vagy hasonlóképpen - **ha** van matematika órád, akkor bepakolsz két füzetet, a feladatlapokat, egy könyvet... Kell-e a matekkönyv, **ha** például pénteken nincs ilyen órád?
+Térjünk vissza az iskolatáska bepakolásáról szóló példánkhoz. Mindennap magaddal viszed az összes könyvet? És a tempera festéket? Mitől függ ez?
+Tegyük fel, hogy képzőművészet-órád péntekenként van. **Ha** péntek van - a temperát is bepakolod. Akkor is magaddal viszed az iskolába, ha nem péntek van?
+Vagy hasonlóképpen - **ha** van matematikaórád, akkor bepakolsz két füzetet, a feladatlapokat, egy könyvet... Kell-e a matekkönyv, **ha** például pénteken nincs ilyen órád?
 
 Emlékezz csak vissza:
 
@@ -14,8 +14,8 @@ Emlékezz csak vissza:
 8. példa
 ---------
 
-Márk kitalált egy játékot, amely segít neked felfrissíteni a matematika tudásodat. Karel csak akkor lép előre, ha a megadott feltétel teljesül.
-Cseréld le (ahol az szükséges) az **=** jelet **<** vagy **>** jelekre a Márk által megírt programban úgy, hogy Karel minden alkalommal a megfelelő lépéseket tegye meg, és végén elérjen az (5, 1) mezőre.
+Márk kitalált egy játékot, amely segít neked felfrissíteni a matematikai tudásodat. Karel csak akkor lép előre, ha a megadott feltétel teljesül.
+Cseréld le (ahol az szükséges) az **=** jelet **<** vagy **>** jelekre a Márk által megírt programban úgy, hogy Karel minden alkalommal a megfelelő lépéseket tegye meg, és végül elérjen az (5, 1) mezőre.
 
 
 .. blockly-karel:: p542
