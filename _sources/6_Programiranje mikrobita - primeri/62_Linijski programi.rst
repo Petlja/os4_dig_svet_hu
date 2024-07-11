@@ -11,32 +11,30 @@ Ahhoz, hogy felelevenítsd magadban a microbit programozását, oldd meg a köve
 1. példa
 ~~~~~~~~
 
-Састави блокове тако да микробит прикаже сличицу срца, срећан емотикон, а затим твоје име.
+Állítsd össze az utasítás blokkokat úgy, hogy a microbit megjelenítse egy szív képet, egy boldog emotikont, majd a nevedet.
 
-Иако си то већ радио прошле године, поновићемо прве кораке. Поступак решавања сваког задатка је сличан, добро га запамти!
+Bár ezt már tavaly is csináltad, ismételjük át az első lépéseket. Minden feladat megoldásának folyamata hasonló, jól jegyezd meg!
 
-У адресну линију прегледача унеси адресу https://makecode.microbit.org (1). Појавиће се окружење за програмирање 
-микробита. 
+A böngésző címsorába írd be a következő címet: https://makecode.microbit.org (1). Ennek hatására be fog töltődni a microbit programozási környezet.
 
-Ако није подешено, постави окружење на српски језик. Кликни на мали зупчаник у горњем десном углу прозора, а 
-затим на *Language* (2), као на слици испод.
+Ha nincs beállítva, állítsd a környezetet magyar nyelvűre. Ehhez kattints a kis fogaskerékre az ablak jobb felső sarkában, majd a *Language* (Nyelv) (2) gombra, ahogy az alábbi képen látható.
 
 .. image:: ../../_images/mb1.png
 	:width: 800
 	:align: center
 	
-Пронађи дугме са натписом *Srpski jezik* и кликни на њега. Окружење је сада преведено на српски језик. 
-То ће ти у великој мери олакшати даљи рад!
+Keresd meg a *Magyar* feliratú gombot, és kattints rá. A programozói környezetet most magyar nyelvűre változott.
+Ez nagyban megkönnyíti a további munkád!
 
 |
 
-Покрени свој први програм. Кликни на *Нови пројекат* (1), изабери како ћеш да га назовеш (2) и кликни на *Креирај* (3).
+Készítsd el az első programod! Kattintson az *Új projekt* elemre (1), adj nevet a projektnek (2), majd kattints a *Létrehoz* gombra (3).
 
 .. image:: ../../_images/mb2.png
 	:width: 800
 	:align: center
 	
-Окружење за твој први програм је спремно, можеш да почнеш да састављаш блокове!
+A programozói környezet az első programodhoz készen áll, elkezdheted összeállítani a blokkokat!
 
 |
 
