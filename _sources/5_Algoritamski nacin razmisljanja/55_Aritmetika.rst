@@ -1,12 +1,12 @@
 Aritmetikai műveletek
 =====================
 
-A programokban az elágazás feltételei gyakorta valamilyen matematikai kifejezések. Emlékezz vissza, hogy miként lehet matematikai kifejezéseket létrehozni Karel világában. Ezúttal egy kicsit bonyolultabb példák várnak rád. Alaposan gondold át, hogy milyen sorrendben kell végrehajtani a műveleteket. Próbáld logikusan elhelyezni a megfelelő blokkokat...
+A programokban az elágazás feltételei gyakorta valamilyen matematikai kifejezések. Emlékezz vissza, hogy miként lehet matematikai kifejezéseket létrehozni Karel világában! Ezúttal egy kicsit bonyolultabb példák várnak rád. Alaposan gondold át, hogy milyen sorrendben kell végrehajtani a műveleteket! Próbáld logikusan elhelyezni a megfelelő blokkokat!
 
 9. példa
 --------
 
-Megfelelő módon állítsd össze az utasítás blokkokat a következő feladat megoldásához: a 138 és a 23 különbségéből vond ki a 6 és a 4 szorzatát.
+Megfelelő módon állítsd össze az utasítás blokkokat a következő feladat megoldásához: a 138 és a 23 különbségéből vond ki a 6 és a 4 szorzatát!
 
 .. blockly-karel:: p551  
   :categories: KarelSays, Arithmetic, Logic
@@ -28,7 +28,7 @@ Megfelelő módon állítsd össze az utasítás blokkokat a következő feladat
   
 **Sgítség**:
 
-E feladat a matematikai kifejezése a következő:
+Ennek a feladatnak a matematikai kifejezése a következő:
 
 (138 - 23) - (6 * 4)
 
@@ -40,8 +40,8 @@ Szükséged lesz egy blokkra a 138 és a 23 különbségéhez. Egy másik blokkr
 10. példa
 ---------
 
-Juli és Márk minden nap ellenőrzik, hogy hány lépést tettek meg. Juli 5286 lépést tett meg, míg Márk 800 lépéssel többet tett meg, mint Juli. 
-A blokkok segítégével állítsd össze azt a kifejezést, amely kiszámítja, hogy hány lépést tett meg Juli és Márk összesen.
+Juli és Márk mindennap ellenőrzik, hogy hány lépést tettek meg. Juli 5286 lépést tett meg, míg Márk 800 lépéssel többet tett meg, mint Juli. 
+A blokkok segítégével állítsd össze azt a kifejezést, amely kiszámítja, hogy hány lépést tett meg Juli és Márk összesen!
 
 .. blockly-karel:: p552  
   :categories: KarelSays, Arithmetic, Logic
@@ -61,10 +61,10 @@ A blokkok segítégével állítsd össze azt a kifejezést, amely kiszámítja,
             },
   }
   
-Milyen eredményt kaptál, amikor te számoltál? Egyezik azzal, amit Karel számolt ki? 
+Milyen eredményt kaptál, amikor te számoltál? Egyezik azzal, amit Karel számolt ki?
 Ha nem, ellenőrizd még egyszer, hogy helyesen rendezted-e el a blokkokat!
 
 .. infonote::
 
- Megtanultad, hogyan lehet a Wordben képeket és szövegrészleteket másolni. Próbáld meg ebben a környezetben is használni a **Ctrl + C** és a **Ctrl + V** a billentyűparancsokat, amikor egy blokkra többször is szükséged van. 
+ Megtanultad, hogyan lehet a Wordben képeket és szövegrészleteket másolni. Próbáld meg ebben a környezetben is használni a **Ctrl + C** és a **Ctrl + V** billentyűparancsokat, amikor egy blokkra többször is szükséged van! 
 
