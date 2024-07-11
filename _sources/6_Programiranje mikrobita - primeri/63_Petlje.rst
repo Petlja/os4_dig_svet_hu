@@ -10,20 +10,20 @@ Emlékezz vissza Karelre! Gyakran adtál neki olyan parancsokat, amelyeket megha
 4. példa
 ~~~~~~~~
 
-Састави блокове тако да текст „Zdravo“ буде приказан само три пута.
+Állítsd össze a blokkokat úgy, hogy a „Hello“ szöveg csak háromszor jelenjen meg a kijelzőn! 
 
-Кликни на ознаку микробита (1) како би се вратио на прозор са пројектима. 
+Kattints a mikrobit ikonra (1), hogy visszatérj a projekteket tartalmazó ablakhoz.
 
 .. image:: ../../_images/mb7.png
 	:width: 800
 	:align: center
 
-Направи нови пројекат и дај му име „Здраво“.
-Када нека наредба или група наредби треба да се понови више пута, у програму користиш петље.
+Hozz létre egy projektet, a neve pedig legyen „Hello“.
+Amikor egy utasítást vagy az utasítások csoportját többször meg kell ismételni, akkor a programban ciklusokat használunk.
 
-Ово ти звучи већ познато, зар не?
+Ez már ismerősen hangzik, ugye?
 
-Кликни на групу *Петље* (означена зеленом бојом). Превуци блок ``понови _ пута`` у простор за слагање блокова. 
+Kattints a *Ciklusok* csoportra (amely zöld színű). Превуци блок ``понови _ пута`` у простор за слагање блокова. 
 
 .. image:: ../../_images/mb8.png
 	:width: 800
