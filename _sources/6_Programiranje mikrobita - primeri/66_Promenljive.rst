@@ -64,7 +64,7 @@ Hozzunk létre egy Szám nevű változót, és minden alkalommal, amikor megnyom
 
 .. questionnote::
 
- A feladat szövege alapján, mivel egyenlő a **Szám** változó kezdőértéke? Mennyivel kell minden alkalommal változtatni az értékét?
+ A feladat szövege alapján mivel egyenlő a **Szám** változó kezdőértéke? Mennyivel kell minden alkalommal változtatni az értékét?
 
 Hogyan hozzunk létre egy blokkot a változó értékhez?
 
