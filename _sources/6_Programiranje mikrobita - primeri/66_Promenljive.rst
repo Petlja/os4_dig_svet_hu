@@ -2,10 +2,10 @@ Változó értékek
 ===============
 
 Az előző példában a microbit különböző parancsokat hajtott végre egy matematikai kifejezés alapján, amely mindig ugyanazt adja eredményül. 
-Ebben az esetben a program minden egyes futtatásakor a microbit a "Helytelen" szót fogja kiírni.
+Ebben az esetben a program minden egyes futtatásakor a microbit a „Helytelen“ szót fogja kiírni.
 
 Azonban legtöbb esetben a programban feltételként szereplő kifejezések változó értékekűek lehetnek. 
-Egy egyszerű példa: a felhasználó beír egy számot, és ha az osztható kettővel, a program a "Páros" szót írja ki, ellenkező esetben "Páratlan" szót.
+Egy egyszerű példa: a felhasználó beír egy számot, és ha az osztható kettővel, a program a „Páros“ szót írja ki, ellenkező esetben „Páratlan“ szót.
 
 **A felhasználó által beírt értékek változók, ezért a microbit által kiírt értékek is ennek megfelelően változnak.**
 
@@ -13,7 +13,7 @@ Egy egyszerű példa: a felhasználó beír egy számot, és ha az osztható ket
 
  Említettük, hogy a microbit képes megmérni a hőmérsékletet. Vajon a hőmérséklet mindig ugyanaz, vagy változik?
  
-Ebben a programozói környezetben a Bemenet csoportban egy "hőmérséklet (°C)" blokk is található, amelyet felhasználhatsz a programodban is egy konkrét szám helyett. 
+Ebben a programozói környezetben a Bemenet csoportban egy „hőmérséklet (°C)“ blokk is található, amelyet felhasználhatsz a programodban is egy konkrét szám helyett. 
 Ebben a blokkban a pillanatnyi hőmérséklet tárolódik, ami a program futása során különböző értékeket vehet fel.
 
 Nézzük meg, hogyan használhatod ezt a blokkot...
@@ -22,9 +22,9 @@ Nézzük meg, hogyan használhatod ezt a blokkot...
 8. példa
 ~~~~~~~~
 
-Састави програм којим ће у зависности од температуре у околини микробита на екрану бити исписано „toplo“ или „hladno“.
+Készíts egy programot, amely a microbit környezetének hőmérsékletétől függően a képernyőn „meleg” vagy „hideg” szót jelenít meg.
 
-Поређај блокове као на слици испод:
+Rendezd el a blokkokat az alábbi képen látható módon:
 
 .. image:: ../../_images/mb18.png
 	:width: 800
