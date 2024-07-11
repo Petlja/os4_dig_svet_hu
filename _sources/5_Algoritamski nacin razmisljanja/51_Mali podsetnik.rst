@@ -3,7 +3,7 @@ Egy kis emlékeztető
 
 Karel izgatottan vár rád a labirintusában, és alig várja, hogy újra együtt játszatok és labdákat gyűjtsetek!
 
-Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanultál az algoritmikus gondolkodásmódról...
+Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanultál az algoritmikus gondolkodásmódról!
 
 .. quizq:: 
 
@@ -43,9 +43,9 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :answer_a: feltételes ciklus
         :answer_b: számláló ciklus
         :answer_c: végtelen ciklus
-        :feedback_a: A válasz nem helyes! A feltételes ciklusban az utasítások mindaddig végrehajtásra kerülnek, amíg a feltétel teljesül. Nem tudjuk előre, hogy hányszor!
-        :feedback_b: A válasz helyes!
-        :feedback_c: A válasz nem helyes! Gondolj csak bele, ha egy ciklus végtelen számú alkalommal ismétli önmagát, az egy jól megtervezett program?
+        :feedback_a: A válasz nem helyes. A feltételes ciklusban az utasítások mindaddig végrehajtásra kerülnek, amíg a feltétel teljesül. Nem tudjuk előre, hogy hányszor.
+        :feedback_b: A válasz helyes.
+        :feedback_c: A válasz nem helyes. Gondolj csak bele, ha egy ciklus végtelen számú alkalommal ismétli önmagát, az egy jól megtervezett program?
 
         Amikor egy utasítást (vagy utasításcsoportot) többször kell végrehajtani, akkor a programban **ciklust** használunk. Ha pontosan tudjuk, hogy hányszor kell megismételni az utasítást, akkor a következő típusú ciklusról van szó:
 
@@ -60,7 +60,7 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :feedback_b: Ellenőrizd le lépésről lépésre!
         :feedback_c: Szép volt, a válasz helyes!
 		
-        Karel labdákat gyűjt. Hányszor kell megismételni ezt az utasítássorozatot ahhoz, hogy Karel összegyűjtse az összes labdát, amely a labirintusban található? 
+        Karel labdákat gyűjt. Hányszor kell megismételni ezt az utasítássorozatot ahhoz, hogy Karel összegyűjtse az összes labdát, amely a labirintusban található?
 		.. image:: ../../_images/karel2.png
 			:width: 400
 			:align: right
@@ -72,9 +72,9 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :answer_a: Igaz vagy Hamis. 
         :answer_b: bármilyen számot.
         :answer_c: A és B betűket.
-        :feedback_a: Szép volt, a válasz helyes!
-        :feedback_b: A kérdés logikai műveletekre vonatkozik, gondold át újra...
-        :feedback_c: A válasz nem helyes!
+        :feedback_a: Szép volt, a válasz helyes.
+        :feedback_b: A kérdés logikai műveletekre vonatkozik, gondold át újra!
+        :feedback_c: A válasz nem helyes.
 
         Karel világában az összehasonlító műveletek a Logikai operátorok csoportjában találhatók. Ezekkel logikai kifejezéseket hozunk létre, amelyek eredményül a következő értékeket adhatják: 
 		
@@ -86,9 +86,9 @@ Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanult
         :answer_b: Elágazások
         :answer_c: Aritmetika
         :answer_d: Változók
-        :feedback_a: A válasz nem helyes!
-        :feedback_b: A válasz nem helyes!
-        :feedback_c: Így van, a válasz helyes!
-        :feedback_d: Karel használhat változókat is, de ebben az esetben ez nem kötelező!
+        :feedback_a: A válasz nem helyes.
+        :feedback_b: A válasz nem helyes.
+        :feedback_c: Így van, a válasz helyes.
+        :feedback_d: Karel használhat változókat is, de ebben az esetben ez nem kötelező.
 
 		Amikor Karelnek ellenőriznie kell egy számítást, akkor ehhez a következő csoport blokkjait használja:
