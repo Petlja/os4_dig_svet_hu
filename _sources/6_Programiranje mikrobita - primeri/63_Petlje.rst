@@ -12,7 +12,7 @@ Emlékezz vissza Karelre! Gyakran adtál neki olyan parancsokat, amelyeket megha
 
 Állítsd össze a blokkokat úgy, hogy a „Hello“ szöveg csak háromszor jelenjen meg a kijelzőn! 
 
-Kattints a mikrobit ikonra (1), hogy visszatérj a projekteket tartalmazó ablakhoz.
+Kattints a microbit ikonra (1), hogy visszatérj a projekteket tartalmazó ablakhoz.
 
 .. image:: ../../_images/mb7.png
 	:width: 800
