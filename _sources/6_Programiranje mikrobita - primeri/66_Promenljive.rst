@@ -1,24 +1,25 @@
-Променљиве вредности
-====================
+Változó értékek
+===============
 
-У претходном примеру микробит је извршио различите наредбе у зависности од математичког израза који ће увек имати 
-исту вредност. Он ће, у овом случају, сваки пут кад се покрене програм да напише „Netacno“.
+Az előző példában a microbit különböző parancsokat hajtott végre egy matematikai kifejezés alapján, amely mindig ugyanazt adja eredményül. 
+Ebben az esetben a program minden egyes futtatásakor a microbit a "Helytelen" szót fogja kiírni.
 
-Међутим, најчешће се у програму јављају као услов изрази који мењају вредност. Један од једноставнијих примера - 
-корисник унесе неки број, па ако је дељив са два програм испише „Paran“, иначе испише „Neparan“. 
+Azonban legtöbb esetben a programban feltételként szereplő kifejezések változó értékekűek lehetnek. 
+Egy egyszerű példa: a felhasználó beír egy számot, és ha az osztható kettővel, a program a "Páros" szót írja ki, ellenkező esetben "Páratlan" szót.
 
-**Вредности које уноси корисник су променљиве, па се и оно што исписује микробит мења у зависности од тога.**
+**A felhasználó által beírt értékek változók, ezért a microbit által kiírt értékek is ennek megfelelően változnak.**
 
 .. questionnote::
 
- Рекли смо да микробит може да мери температуру. Да ли температура има увек исту вредност или се мења?
+ Említettük, hogy a microbit képes megmérni a hőmérsékletet. Vajon a hőmérséklet mindig ugyanaz, vagy változik?
  
-У овом окружењу постоји у групи Улаз блок „температура (степен C)“ који можеш да користиш у свом програму уместо неког 
-конкретног броја. У њему се чува тренутна температура и може током извршавања програма да добија различите вредности. 
+Ebben a programozói környezetben a Bemenet csoportban egy "hőmérséklet (°C)" blokk is található, amelyet felhasználhatsz a programodban is egy konkrét szám helyett. 
+Ebben a blokkban a pillanatnyi hőmérséklet tárolódik, ami a program futása során különböző értékeket vehet fel.
 
-Погледај на који начин можеш да користиш овај блок…
+Nézzük meg, hogyan használhatod ezt a blokkot...
 
-Пример 8
+
+8. példa
 ~~~~~~~~
 
 Састави програм којим ће у зависности од температуре у околини микробита на екрану бити исписано „toplo“ или „hladno“.
