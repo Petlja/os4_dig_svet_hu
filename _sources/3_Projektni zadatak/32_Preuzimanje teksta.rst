@@ -56,7 +56,7 @@ Természetesen a gyakorlat ezen részét bármilyen más szöveggel is elvégezh
 
 Jelöld ki azt a szövegrészt, amelyet ki szeretnél másolni (ahogyan azt Wordben is tetted)! Kattints jobb egérgombbal a kijelölt részre (1)!
 
-Ekkor meg fog jelenni egy kis ablak, az alábbi képen látható módon (vagy nagyon hasonló módon, attól függően, hogy melyik böngészőt használod). Kattints a *Copy* (másolás) (2) gombra!
+Ekkor meg fog jelenni egy kis ablak az alábbi képen látható módon (vagy nagyon hasonló módon, attól függően, hogy melyik böngészőt használod). Kattints a *Copy* (másolás) (2) gombra!
 
 .. image:: ../../_images/pretraga_4.png
 	:width: 800
