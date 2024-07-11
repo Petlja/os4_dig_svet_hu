@@ -1,8 +1,8 @@
 Változó értékek
 ===============
 
-A programok, amelyeket eddig készítettél, megszakítás nélkül futottak le. Elindítottad a programot, és az elvégzte a szükséges feladatokat. 
-Azonban gyakran van szükség arra, hogy a program futása közben adjunk meg további adatokat, hogy a program tudja, mit kell tennie.
+A programok, amelyeket eddig készítettél, megszakítás nélkül futottak le. Elindítottad a programot, és az elvégezte a szükséges feladatokat. 
+Azonban gyakran szükség van arra, hogy a program futása közben adjunk meg további adatokat, hogy a program tudja, mit kell tennie.
 Ha megadsz egy értéket, a program egy eredményt ad. Ha egy másik értéket adsz meg, a program egy másik eredményt ad.
 
 A programban létezhetnek olyan értékek is, amelyek nem állandóak a program teljes futása alatt. Ezeket **változóknak** nevezzük.
@@ -11,15 +11,15 @@ A programban létezhetnek olyan értékek is, amelyek nem állandóak a program 
 
  Milyen értékek lehetnek változók?
  
-A változók olyan értékek lehetnek, amelyeket megadsz a programnak, hogy ezek segítségével működjön. A változók lehetnek a program által adott eredmények is.
-Néhány érték megváltozhat magában a programban. Például van egy labdaszámláló, amely minden alkalommal megváltoztatja az értékét, amikor Karel felvesz egy labdát...
+A változók olyan értékek lehetnek, amelyeket megadsz a programnak, hogy azok segítségével működjön. A változók lehetnek a program által adott eredmények is.
+Néhány érték megváltozhat magában a programban. Például van egy labdaszámláló, amely minden alkalommal megváltoztatja az értékét, amikor Karel felvesz egy labdát.
 
-Nézd meg a következő példát.
+Nézd meg a következő példát!
 
 11. példa
 ---------
 
-A labirintusban sötét van. Karel nem tudja, hány lépést kell megtennie. Meg kell mondanod neki, hány lépést kell tennie és hány labdát kell felvennie a kupacból.
+A labirintusban sötét van. Karel nem tudja, hány lépést kell megtennie. Meg kell mondanod neki, hány lépést kell tennie, és hány labdát kell felvennie a kupacból!
 Minden alkalommal, amikor a program elindul, Karel egy másik alagútban találja magát, a megtett lépések száma és a begyűjtendő labdák száma más lesz - **változó**.
 Vince a következőképpen állította össze a programot:
 
@@ -56,12 +56,12 @@ Vince a következőképpen állította össze a programot:
 
  Amikor egy érték változó a programban, használhatsz helyette egy betűt vagy szót.
 
-Természetesen meg kell mondani a programnak, hogy az adott szó milyen értéket fog tárolni. 
+Természetesen meg kell mondani a programnak, hogy az adott szó milyen értéket fog tárolni.
 
 12. példa
 ---------
 
-Karel két labdakupacra bukkant. Segíts neki összegyűjteni összesen tíz labdát! Válaszd ki, hány labdát szeretnél begyűjteni az egyes kupacokból.
+Karel két labdakupacra bukkant. Segíts neki összegyűjteni összesen tíz labdát! Válaszd ki, hány labdát szeretnél begyűjteni az egyes kupacokból!
 
 .. blockly-karel:: p552
   :categories:
