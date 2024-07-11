@@ -103,19 +103,17 @@ Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket
 10. példa
 ~~~~~~~~~
 
-У претходном примеру приметио си и један нови блок из групе Улаз. Он омогућава да се неке наредбе изврше када се 
-притисне тастер **А**. На исти начин можеш да програмираш шта треба да се деси када неко притисне тастер **Б** или оба 
-тастера истовремено **(А + Б)**.
+Az előző példában felfigyelhettél egy új blokkra a Bemenet csoportból. Ez lehetővé teszi, hogy bizonyos parancsok végrehajtódjanak, amikor megnyomjuk az **A** gombot. Ugyanígy beprogramozhatod, hogy mi legyen, ha megnyomjuk a **B** gombot, vagy esetleg mindkét gombot egyszerre **(A + B)**.
 
-Микробит може да реагује и на још неке догађаје – када се протресе, када се закрене на неку страну, када удари о 
-нешто и слично. Погледај који све блокови постоје у групи Улаз. За овај интересантан пример користићемо блок ``када се протресе``.
+A microbit más eseményekre is reagálhat – például amikor megrázzák, amikor egy adott irányba fordítják, amikor megütik valamivel és hasonlók. 
+Nézd meg, milyen blokkok találhatók még a Bemenet csoportban. Ehhez az érdekes példához használjuk fel az ``amikor rázás érzékelve`` blokkot.
 
 .. image:: ../../_images/mb23.png
 	:width: 800
 	:align: center	
 
-Један од блокова који такође може да има променљиву вредност (``одабери случајну вредност од _ до``) налази се у групи Математика. 
-Употребили смо га на следећи начин:
+Az egyik blokk, amely szintén rendelkezhet változó értékkel (``véletlenszám _ és _ között``) a Matek csoportban található.
+A következő módon használtuk fel az alábbi programban:
 
 .. image:: ../../_images/mb24.png
 	:width: 800
@@ -123,4 +121,4 @@ Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket
 
 .. questionnote::
 
- Шта ради овај програм? За шта би могао да употребиш микробит у који је учитан овај програм?
+ Mit csinál ez a program? Mire használhatnád azt a microbitet, amelyikben ez a program fut?
