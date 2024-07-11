@@ -84,8 +84,9 @@ hozzáadhatsz számokat, megszorozhatod egy számmal, összehasonlíthatod stb.,
 
 .. questionnote::
 
- Из математике сте радили задатке са променљивим вредностима. Којим словима их обично обележавате?
- На које све начине можемо да поредимо променљиве? 
+ 
+ Matematika órán változó értékekkel kapcsolatos feladatokat is oldottatok már meg. Általában milyen betűkkel jelöltétek őket?
+ Milyen módokon hasonlíthatjuk össze a változókat?
 
 Вратимо се на наш програм. Постави блокове као на слици испод:
 
