@@ -20,11 +20,11 @@ A szimulátoron összeállította a blokkokat – a microbitnek pedig ki kell í
 
 .. questionnote::
 
- Без покретања симулације одговори на питање – шта ће бити исписано на микробиту када се покрене Марков програм?
+ A szimuláció futtatása nélkül válaszolj a kérdésre: mit fog kiírni a microbit Márk programjának futtatásakor?
  
-Покрени сада симулацију! Да ли се нешто приказује на екрану? Шта би требало да буде приказано?
+Indítsd el most a szimulációt! Megjelenik valami a képernyőn? Mit kellene, hogy megjelenjen?
 
-Иако је нама логично да ће микробит да испише „Netacno“, њему то нико није рекао! 
+Bár számunkra logikus, hogy a microbit a „Helytelen” szót fogja kiírni, neki ezt senki sem mondta meg!
 
 .. infonote::
 
