@@ -37,7 +37,7 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p413
         :correct: b
-        :answer_a: Válaszolok az üzenetre és a hívásra.
+        :answer_a: Válaszolsz az üzenetre és a hívásra.
         :answer_b: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
         :answer_c: Megosztod velük személyes adataidat.
         :answer_d: Figyelmen kívül hagyod az üzenetet és a hívást.
