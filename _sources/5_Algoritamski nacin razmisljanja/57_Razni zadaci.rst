@@ -241,7 +241,7 @@ Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
 **Segítség**: Rövidítsd le a programot azzal, hogy ciklust használsz!
 A kupacokban különböző számú labda található. Melyik a jobb megoldás, a számláló vagy a feltételes ciklus használata?
 
-Karel először lépjen előre, majd forduljon jobbra! A következő lépéseket többször meg kell ismételni: amíg vannak labdák a mezőn, vegye fel őket, majd lépjen előre a következő mezőre! Majd ismét… amíg vannak labdák a mezőn, vegye fel őket, majd lépjen a következő mezőre… majd ismét… meddig, hányszor? Ismerd fel, hogy mely műveletek csoportja ismétlődik meg többször is! Ha felismered, melyek ezek, tedd őket a megfelelő ciklusba!
+Karel először lépjen előre, majd forduljon jobbra! A következő lépéseket többször meg kell ismételni: amíg vannak labdák a mezőn, vegye fel őket, majd lépjen előre a következő mezőre! De meddig és hányszor? Ismerd fel, hogy mely műveletek csoportja ismétlődik meg többször is! Ha felismered, melyek ezek, tedd őket a megfelelő ciklusba!
 
 |
 
