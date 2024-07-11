@@ -10,16 +10,16 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
    .. mchoice:: p611
 	:multiple_answers:
         :correct: a,b,c,d
-        :answer_a: мери и приказује температуру.
-        :answer_b: свира.
-        :answer_c: детектује покрет.
-        :answer_d: мери удаљеност.
-        :feedback_a: Одговор је тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор је тачан.
+        :answer_a: megmérni és megjeleníteni a hőmérsékletet. 
+        :answer_b: zenélni.
+        :answer_c: érzékelni a mozgást.
+        :answer_d: megmérni a távolságot.
+        :feedback_a: A válasz helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz helyes.
 
-        Микробит може да… (означи све тачне одговоре)
+        A Microbit képes… (jelöld be az összes helyes választ)Микробит може да… (означи све тачне одговоре)
 
 
 .. quizq::
