@@ -46,17 +46,16 @@ Ebben a környezetben is úgy állítod össze a programot, hogy egérrel áthú
 	:width: 800
 	:align: center
 
-Када покренеш пројекат, видећеш да су већ постављена два блока: ``почетак`` и ``стално понављај``. Све што ставиш унутар 
-блока ``почетак`` биће урађено само једном. Блок стално ``понављај`` омогућава да се све наредбе које се у њему налазе 
-понављају све док је микробит укључен.
+Amikor elindítod a projektet, látni fogod, hogy már két blokk rögtön be van állítva: az ``indításkor`` és az ``állandóan``. 
+Minden, amit az ``indításkor`` blokkon belül elhelyezel, csak egyszer fog végrehajtódni. Az ``állandóan`` blokk lehetővé teszi, hogy az abban található utasítások addig ismétlődjenek, amíg a microbit be van kapcsolva.
 
-Хајде да се вратимо на текст задатка. Потражи у којој се групи налазе блокови које би могао да употребиш за своје 
-решење. Помоћи ћемо ти! 
+Térjünk vissza a feladat szövegéhez. Keresd meg, melyik csoportban találhatók azok a blokkok, amelyeket a megoldásodhoz használhatnál. Segítünk!
 
-Прати слику испод. Кликни на групу *Основни блокови* (1). У њој се налазе блокови које ћеш користити – ``прикажи икону`` (2) и ``прикажи текст``. 
+Kövesd az alábbi képet. Kattints az *Alapok* (1) csoportra. Ebben találhatók azok a blokkok, amelyeket most használni fogsz – 
+az ``ikon megjelenítése`` (2) és a ``szöveg kiírása``.
 
-Пошто је у тексту задатка речено да се само једном прикажу ове сличице и текст, превуци ове блокове у блок ``почетак``, 
-као што је урађено на слици испод. 
+Mivel a feladat szövegében az szerepel, hogy ezek a képek és szövegek csak egyszer jelenjenek meg, húzd ezeket a blokkokat az ``indításkor`` blokkba, 
+ahogy az az alábbi képen is látható.
 
 .. image:: ../../_images/mb3.png
 	:width: 800
