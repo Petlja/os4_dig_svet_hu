@@ -55,22 +55,21 @@ Kitalálhatsz egy nevet a változó értékhez, és használhatod ezt a blokkot 
 9. példa
 ~~~~~~~~
 
-Пред тобом је мало другачији задатак од досадашњих. На екрану треба да буде приказан број. Сваки пут када притиснеш 
-тастер **А** број треба да се увећа за 2. Када се покрене програм, број треба да буде нула.
+Ez a feladat egy kissé eltér az eddigiektől. A képernyőn egy számnak kell megjelennie. Minden alkalommal, amikor megnyomod az **A** gombot, a számnak 2-vel kell növekednie. A program elindulásakor a számnak nullának kell lennie.
 
-Прочитај још једном задатак. Шта, у ствари, треба да урадиш? **Број** треба да буде приказан када се притисне тастер. 
-Да ли је број увек исти? Није. **Број** се сваки пут мења, променљив је.
+Olvasd el még egyszer a feladatot. Mit is kell valójában tenned? A **számnak** meg kell jelennie, amikor megnyomod a gombot.
+A szám mindig ugyanaz? Nem. A **szám** minden alkalommal változik, vagyis egy változó.
 
-Хајде да онда направимо променљиву Број и да сваки пут када се притисне тастер променимо њену вредност и прикажемо је.
+Hozzunk létre egy Szám nevű változót, és minden alkalommal, amikor megnyomod a gombot, változtassuk meg az értékét majd jelenítsük meg.
 
 .. questionnote::
 
- По тексту задатка, колика треба да буде почетна вредност променљиве **Број**? За колико треба сваки пут да је променимо?
+ A feladat szövege alapján, mivel egyenlő a **Szám** változó kezdőértéke? Mennyivel kell minden alkalommal változtatni az értékét?
 
-Како правиш блок за променљиву вредност?
+Hogyan hozzunk létre egy blokkot a változó értékhez?
 
-Кликни на групу Променљиве (1), а затим на Направи променљиву (2). Упиши име променљиве у прозору који се појави. 
-Нека се зове **Број**.
+Kattints a Változók (1) csoportra, majd a Változó létrehozása... (2) gombra. Írd be a változó nevét a megjelenő ablakba.
+Legyen a neve **Szám**.
 
 .. image:: ../../_images/mb20.png
 	:width: 800
