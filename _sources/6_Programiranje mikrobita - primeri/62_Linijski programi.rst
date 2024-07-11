@@ -126,4 +126,4 @@ Az első példában a neved csak egyszer volt kiíratva. És mi van akkor, ha az
 
  Hányszor lesz kiírva a neved? Meg lehet ezt előre mondani?
  
-A 2. pédában is cseréld le az ``indításkor`` blokkot az ``állandóan`` nevű blokkra. Megjelent-e újra a kis hajó a kijelzőn? 
+A 2. példában is cseréld le az ``indításkor`` blokkot az ``állandóan`` nevű blokkra. Megjelent-e újra a kis hajó a kijelzőn? 
