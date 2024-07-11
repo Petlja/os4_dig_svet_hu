@@ -26,12 +26,12 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
 
    .. mchoice:: p612
         :correct: b
-        :answer_a: Нетачно
-        :answer_b: Тачно
-        :feedback_a: Окружење MakeCode може да буде на српском језику.
-        :feedback_b: Одговор је тачан. 
+        :answer_a: Nem
+        :answer_b: Igen
+        :feedback_a: A MakeCode fejlesztői környezet lehet magyar nyelvű is.
+        :feedback_b: A válasz helyes. 
 
-        Окружење *MakeCode* за блоковско програмирање може да се постави да буде на српском језику?
+        A blokk alapú programozást lehetővé tevő *MakeCode* fejlesztői környezet beállítható-e magyar nyelvűre?
 
 .. quizq::
 
