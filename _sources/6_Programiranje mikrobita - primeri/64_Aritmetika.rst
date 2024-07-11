@@ -1,16 +1,17 @@
-Аритметика
+Aritmetika
 ==========
 
-Можда на први поглед делује као обична играчка, али микробит одлично зна да рачуна!
 
-Може да ти помогне да решиш домаћи задатак из математике! Ево и како…
+Lehet, hogy első pillantásra egy közönséges játéknak tűnik, de a microbit nagyon jól tud számolni!
 
-Пример 6
+Segíthet megoldani a matek házit! Mutatjuk is, hogyan...
+
+6. példa
 ~~~~~~~~
 
 .. questionnote::
 
- Израчунај вредност израза: (158 - 33) : (724 - 699)
+ Számold ki a következő kifejezés értékét: (158 - 33) : (724 - 699)
 
 Хајде да прво анализирамо овај задатак.
 
