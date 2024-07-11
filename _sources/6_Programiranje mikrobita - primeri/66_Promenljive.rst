@@ -45,13 +45,14 @@ Nézd meg, hogyan néz ki az a program, amely megoldja ezt a problémát:
 
 .. questionnote::
 
- Отвори групу *Улаз* и погледај који још блокови који имају променљиву вредност постоје. 
- На који начин би их искористио у неком од својих програма?
+ Nyisd meg a *Bemenet* csoportot, és nézd meg, milyen egyéb blokkok vannak, amelyek változó értékkel rendelkeznek.
+ Hogyan használnád ezeket valamelyik programodban? 
 
-Осим ових већ постојећих блокова за вредности које се мењају (температура, јачина осветљења…), можеш да направиш и 
-своје блокове. Да смислиш неки назив за променљиву вредност и да користиш тај блок у свом програму.
+A meglévő blokkokon kívül, amelyek változó értékeket használnak (hőmérséklet, fényerősség stb.), saját blokkokat is készíthetsz. 
+Kitalálhatsz egy nevet a változó értékhez, és használhatod ezt a blokkot a programodban.
 
-Пример 9
+
+9. példa
 ~~~~~~~~
 
 Пред тобом је мало другачији задатак од досадашњих. На екрану треба да буде приказан број. Сваки пут када притиснеш 
