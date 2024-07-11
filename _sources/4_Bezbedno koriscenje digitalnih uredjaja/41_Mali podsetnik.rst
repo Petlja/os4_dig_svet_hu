@@ -1,7 +1,7 @@
 Egy kis emlékeztető
 ===================
 
-Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digitális eszközöket használsz és az internethez csatlakozol.
+Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digitális eszközöket használsz és az internethez csatlakozol!
 
 .. quizq::
 
@@ -39,10 +39,10 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
         :correct: b
         :answer_a: Válaszol az üzenetre és a hívásra.
         :answer_b: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
-        :answer_c: Megosztod velük személyes adataidat. 
+        :answer_c: Megosztod velük személyes adataidat.
         :answer_d: Figyelmen kívül hagyod az üzenetet és a hívást.
-        :feedback_a: A válasz nem helyes. 
-        :feedback_b: A válasz helyes. 
+        :feedback_a: A válasz nem helyes.
+        :feedback_b: A válasz helyes.
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
@@ -83,7 +83,7 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
    .. mchoice:: p416
         :correct: b
         :answer_a: A vezeték- és a keresztnevedet.
-        :answer_b: Betűket (kicsi és nagy) és olyan számokat, amelyek eltérnek a te személyes adataidtól.
+        :answer_b: Betűket (kis- és nagy-) és olyan számokat, amelyek eltérnek a te személyes adataidtól.
         :answer_c: Csak számokat.
         :answer_d: A születési dátumodat.
         :feedback_a: A válasz nem helyes. 
@@ -113,15 +113,15 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
    .. mchoice:: p418
         :correct: a
         :answer_a: Beszélsz a szüleiddel, gondviselőiddel vagy a tanároddal, és tájékoztatod őket a problémáról.
-        :answer_b: Visszavágsz ugyanazzal majd támadásba lendülsz.
+        :answer_b: Visszavágsz ugyanazzal, majd támadásba lendülsz.
         :answer_c: Nem csinálsz semmit, hanem reménykedsz benne, hogy elmúlik.
-        :answer_d: Kikapcsolod a számítógépedet és eszközeidet, és nem használod az internetet.
+        :answer_d: Kikapcsolod a számítógépedet és az eszközeidet, és nem használod az internetet.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz nem helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Mit teendő, ha digitális zaklatás áldozata lettél?
+        Mi a teendő, ha digitális zaklatás áldozata lettél?
 
 .. quizq::
 
@@ -130,7 +130,7 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
         :answer_a: Figyelmen kívül hagyod és törlöd.
         :answer_b: Megosztod a személyes adatait azzal, aki az üzenetet küldte.
         :answer_c: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
-        :answer_d: Megírod egy válasz üzenetben, hogy nem érdekel.
+        :answer_d: Megírod egy válaszüzenetben, hogy nem érdekel.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
