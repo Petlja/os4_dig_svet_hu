@@ -38,9 +38,9 @@ A programozói környezet az első programodhoz készen áll, elkezdheted össze
 
 |
 
-Блокови су смештени у различите групе (1). Сви блокови једне групе имају исту боју. Када кликнеш на назив групе, 
-појавиће се блокови који се у њој налазе. И у овом окружењу програм састављаш тако што мишем превлачиш блокове 
-које желиш у простор који се налази са десне стране (2).
+A blokkok különböző csoportokba vannak rendezve (1). Az egy csoportba tartozó blokkok ugyanolyan színűek. 
+Amikor rákattintasz egy csoport nevére, megjelennek az abban található blokkok. 
+Ebben a környezetben is úgy állítod össze a programot, hogy egérrel áthúzod a kívánt blokkokat a jobb oldalon található területre (2).
 
 .. image:: ../../_images/mb2a.png
 	:width: 800
