@@ -22,21 +22,21 @@ A szimulátoron összeállította a blokkokat – a microbitnek pedig ki kell í
 
  A szimuláció futtatása nélkül válaszolj a kérdésre: mit fog kiírni a microbit Márk programjának futtatásakor?
  
-Indítsd el most a szimulációt! Megjelenik valami a képernyőn? Mit kellene, hogy megjelenjen?
+Indítsd el most a szimulációt! Megjelenik valami a képernyőn? Mi kellene, hogy megjelenjen?
 
-Bár számunkra logikus, hogy a microbit a „Helytelen” szót fogja kiírni, neki ezt senki sem mondta meg!
+Bár számunkra logikus, hogy a microbit a „Helytelen” szót kellene, hogy kiírja, neki ezt senki sem mondta meg!
 
 .. infonote::
 
- Када састављаш програм, обавезно узми у обзир све могуће ситуације!
+ A program összeállításakor mindenképpen vegyél figyelembe minden lehetséges helyzetet!
 
 
 .. image:: ../../_images/mb16.png
 	:width: 800
 	:align: center
 	
-Кликни на знак плус (1) и добићеш проширен блок (слика изнад). Допуни програм – реци микробиту шта треба да ради ако 
-услов није испуњен (2), односно ако је резултат нетачан.
+Kattints a plusz jelre (1), melynek hatására egy kibővített blokkot kapsz (lásd a fenti képet). Egészítsd ki a programot – mondd meg a microbitnek,
+hogy mit kell tennie, ha a feltétel nem teljesül (2), vagyis ha az eredmény helytelen.
 
 .. image:: ../../_images/mb17.png
 	:width: 800
