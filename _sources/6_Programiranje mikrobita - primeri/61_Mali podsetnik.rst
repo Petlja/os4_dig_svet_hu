@@ -63,12 +63,12 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
 
    .. mchoice:: p615
         :correct: a
-        :answer_a: Може.
-        :answer_b: Нема ту могућност.
-        :feedback_a: Одговор је тачан.  
-        :feedback_b: Одговор није тачан. 
+        :answer_a: Igen, képes.
+        :answer_b: Nincs ilyen képessége.
+        :feedback_a: A válasz helyes.  
+        :feedback_b: A válasz nem helyes. 
 
-        Да ли микробит може  да проверава резултате математичких операција?
+        Képes-e egy microbit leellenőrizni a matematikai műveletek eredményeit?
 
 .. quizq::
 
