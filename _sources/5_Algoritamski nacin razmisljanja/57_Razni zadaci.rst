@@ -3,8 +3,8 @@ Feladatok
 
 Most már elegendő tapasztalattal rendelkezel az önálló feladatok megoldásához. Lehetőség szerint többféleképpen oldj meg egy-egy feladatot!
 
-Annak érdekében, hogy egy kicsit megkönnyítsük a munkád, két új blokkcsoportot adtunk az eszköztárhoz: ``Karel elágazás`` és ``Karel ciklus`` néven.
-Az ezekben a csoportokban található blokkok a ``Ciklusok``, az ``Elágazások`` és a ``Kérdezd a robotot`` csoport blokkjainak kombinációját képviselik.
+Annak érdekében, hogy egy kicsit megkönnyítsük a munkád, két új blokkcsoportot adtunk az eszköztárhoz: ``Karel-elágazás`` és ``Karel-ciklus`` néven.
+Az ezekben a csoportokban található blokkok a ``Ciklusok``, az ``Elágazások`` és a ``Kérdezd a robotot!`` csoport blokkjainak kombinációját képviselik.
 Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban megfelelnek!
 
 .. suggestionnote::
@@ -238,10 +238,10 @@ Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
       }           
    }
 
-**Segítség**: Rövidítsd le a programot azzal, hogy ciklust használsz.
+**Segítség**: Rövidítsd le a programot azzal, hogy ciklust használsz!
 A kupacokban különböző számú labda található. Melyik a jobb megoldás, a számláló vagy a feltételes ciklus használata?
 
-Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket többször meg kell ismételni: amíg vannak labdák a mezőn, vegye fel őket, majd lépjen előre a következő mezőre. Majd ismét… amíg vannak labdák a mezőn, vegye fel őket, majd lépjen a következő mezőre… majd ismét… meddig, hányszor? Ismerd fel, hely mely műveletek csoportja ismétlődik meg többször is. Ha felismered, melyek ezek, tedd őket a megfelelő ciklusba.
+Karel először lépjen előre, majd forduljon jobbra! A következő lépéseket többször meg kell ismételni: amíg vannak labdák a mezőn, vegye fel őket, majd lépjen előre a következő mezőre! Majd ismét… amíg vannak labdák a mezőn, vegye fel őket, majd lépjen a következő mezőre… majd ismét… meddig, hányszor? Ismerd fel, hogy mely műveletek csoportja ismétlődik meg többször is! Ha felismered, melyek ezek, tedd őket a megfelelő ciklusba!
 
 |
 
@@ -280,7 +280,7 @@ Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket
       }           
    }
 
-**Segítség**: Az előző példákhoz hasonlóan, keresd meg, hogy mely utasítások ismétlődnek, és helyezd őket egy ciklusba.
+**Segítség**: Az előző példákhoz hasonlóan, keresd meg, hogy mely utasítások ismétlődnek, és helyezd őket egy ciklusba!
 
 |
 
@@ -290,7 +290,7 @@ Karel először lépjen előre, majd forduljon jobbra. A következő lépéseket
 **Karel jelenleg a lyuknál van, ahova három labdát kell bedobnia. Segíts neki ezt megcsinálni!**
  
 Azért, hogy gyakorold a számláló ciklusok, a feltételes ciklusok és az elágazások alkalmazását a programban, 
-próbáld meg ezt a feladatot több különböző módon megoldani!
+próbáld meg ezt a feladatot többféle módon megoldani!
 
 |
 
@@ -357,6 +357,6 @@ próbáld meg ezt a feladatot több különböző módon megoldani!
    
 **Segítség**: Karelnek addig kell haladnia előre, amíg falnak nem ütközik (amíg előre tud haladni). 
 Amikor eléri a falat, balra kell fordulnia. Hányszor kell megismételnie ezt a folyamatot? 
-Amikor eléri az utolsó mezőt, fel kell vennie a labdát, és ezzel a feladat megoldódott!
+Amikor eléri az utolsó mezőt, fel kell vennie a labdát, és ezzel a feladat megoldódott.
 
 
