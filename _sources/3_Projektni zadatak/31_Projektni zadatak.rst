@@ -3,13 +3,13 @@ A projektfeladat leírása
 
 A legjobb módja annak, hogy alkalmazni tudd az eddig tanultakat, ha az ismereteket egy konkrét problémánál vagy egy gyakorlati példánál használod fel.
 
-Ezúttal egy kissé eltérő feladatod lesz az eddigiekhez képest. Egy **projektfeladatot** kell megoldanod, amely több különböző tevékenységből áll. A feladat sikeres végrehajtásához a következőkre lesz szükséged:
+Az eddigiekhez képest ezúttal egy kissé eltérő feladatod lesz. Egy **projektfeladatot** kell megoldanod, amely több különböző tevékenységből áll. A feladat sikeres végrehajtásához a következőkre lesz szükséged:
 
-- az internetet kell böngészned, hogy rátalálj a szükséges információkra,
+- az interneten kell böngészned, hogy rátalálj a szükséges információkra,
 
 - szöveget kell írnod a megadott témáról,
 
-- digitális rajzot kell készítened vagy az interneten megfelelő képeket találnod, amelyek jól illusztrálják a megírt szöveget,
+- digitális rajzot kell készítened, vagy az interneten megfelelő képeket találnod, amelyek jól illusztrálják a megírt szöveget,
 
 - létre kell hoznod és meg kell szerkesztened azt a dokumentumot, amely az általad előkészített szöveget és képeket fogja tartalmazni.
 
@@ -34,19 +34,19 @@ A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
 .. questionnote::
 
- Gondolkodj el, majd válaszolj – mit jelent az, hogy „kritikusan viszonyulsz” valamihez, és hogy „vállalod a felelősséget”?
+ Gondolkodj el, majd válaszolj – mit jelent az, hogy „kritikusan viszonyulsz” valamihez, és hogy „vállalod a felelősséget”!
 
-Íme néhány javasolt projektfeladat téma, amelyeken a elkövetkező időszakban fogsz dolgozni:
+Íme néhány javasolt téma a projektfeladathoz, amelyeken az elkövetkező időszakban fogsz dolgozni:
 
-- A környezetem növényei/állatai.
+- A környezetem növényei/állatai
 
-- Történelmi esemény a környékemen.
+- Egy történelmi esemény a környékemen
 
-- Szűkebb pátriám híres embere.
+- Szűkebb pátriám híres embere
 
-- Felelősségteljes vízhasználat a háztartásomban.
+- Felelősségteljes vízhasználat a háztartásomban
 
-- Felelősségteljes hulladékkezelés a háztartásomban.
+- Felelősségteljes hulladékkezelés a háztartásomban
 
 - ... a te témajavaslatod
 
@@ -55,9 +55,9 @@ A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
  Neked is van témaötleted? A fenti témák közül melyik illik hozzád a legjobban?
  
-Beszéld meg a társaiddal, melyik témát választjátok, hogyan osztjátok fel a feladatokat, és mikorra kell befejezni őket. 
-Ne siessetek, mindent jól tervezzetek meg, mielőtt konkrét lépéseket tesztek...
+Beszéld meg a társaiddal, melyik témát választjátok, hogyan osztjátok fel a feladatokat, és mikorra kell befejezni őket.
+Ne siessetek, mindent jól tervezzetek meg, mielőtt konkrét lépéseket tesztek!
 
-Minden projektfeladat fontos része a **kutatás**. Ebben a feladatban a kutatás az interneten történő információgyűjtést foglalja magába az általad választott témáról. 
+Minden projektfeladat fontos része a **kutatás**. Ebben a feladatban a kutatás az interneten történő információgyűjtést foglalja magába az általad választott témáról.
 Sok esetben fontos, hogy az általad talált szövegeket és képeket elmentsd a számítógépedre is. Meg fogjuk magyarázni, hogy hogyan kell ezt csinálni.
 
