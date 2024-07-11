@@ -75,8 +75,8 @@ Legyen a neve **Szám**.
 	:width: 800
 	:align: center	
 	
-Погледај слику испод. Међу променљивама се појавила и твоја. Сада можеш у њу да смешташ различите вредности – 
-да јој додајеш бројеве, множиш је неким бројем, поредиш… користиш је као блок са било којим другим бројем.
+Nézd meg az alábbi képet. A változók között megjelent a saját változód is. Mostantól különböző értékeket tárolhatsz benne – 
+hozzáadhatsz számokat, megszorozhatod egy számmal, összehasonlíthatod stb., vagy használhatod, mint egy blokkot bármely más számmal.
 
 .. image:: ../../_images/mb21.png
 	:width: 800
