@@ -4,7 +4,7 @@ Lineáris programok
 Tavaly különböző **programozási struktúrákról** beszéltünk. Beszéltünk arról, hogy mikor használunk ciklusokat a programban, 
 milyen esetben mondjuk egy programról, hogy **elágazik**, és hogy miként lehet elvégezni a matematikai műveleteket.
 
-Emlékezz vissza, hogy hogyan kell összeállítani egy programot a Karel környezetben! Kezdjük egy egyszerű példával:
+Emlékezz vissza, hogyan kell összeállítani egy programot Karel környezetében! Kezdjük egy egyszerű példával:
 
 
 1. példa
@@ -48,12 +48,12 @@ Tartalmazza-e a megoldásod a következő lépéseket:
  - lépés előre,
  - vedd fel?
 
-Ha ebben a sorrendben állítottad be a lépéseket, Karel eljut arra a mezőre, ahol a labda van, és felveszi azt. A feladatot sikeresen teljesíti!
+Ha ebben a sorrendben állítottad be a lépéseket, Karel eljut arra a mezőre, ahol a labda van, és felveszi azt. A feladatot sikeresen teljesíti.
 
 
 .. questionnote::
 
- Cseréld fel néhány lépés helyét, keverd össze őket! Mi történt? Sikerült Karelnak most is felvenni a labdát?
+ Cseréld fel néhány lépés helyét, keverd össze őket! Mi történik? Sikerült Karelnak most is felvenni a labdát?
 
 .. infonote::
 
@@ -64,8 +64,8 @@ Mindezt szem előtt tartva oldd meg a következő példafeladatot:
 2. példa
 --------
 
-Márk segíteni akart Karelnak, ezért áthúzott néhány blokkot a programhoz, de utána edzésre kellett mennie! 
-Rendezd sorba az előkészített blokkokat, és ellenőrizd, hogy Karel eljut-e a labdához és felveszi-e azt. 
+Márk segíteni akart Karelnak, ezért áthúzott néhány blokkot a programhoz, de utána edzésre kellett mennie. 
+Rendezd sorba az előkészített blokkokat, és ellenőrizd, hogy Karel eljut-e a labdához, és felveszi-e azt! 
 Ha szükséges, töröld a felesleges blokkot, vagy adj hozzá egyet, ha hiányzik!
 
 .. blockly-karel:: p522
