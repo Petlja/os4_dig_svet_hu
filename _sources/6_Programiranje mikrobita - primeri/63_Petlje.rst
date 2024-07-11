@@ -41,14 +41,14 @@ Indítsd el a szimulációt!
 
 .. questionnote::
 
- Шта ће се десити ако уместо блока почетак употребиш блок стално понављај?
+ Mi történik, ha az állandóan nevű blokkot használod az indításkor nevű blokk helyett?
 
-Пример 5
+5. példa
 ~~~~~~~~
 
-Мара је добила задатак да састави програм који приказује срце како куца. Њено решење је следеће: 
+Mari azt a feladatot kapta, hogy állítson össze egy olyan programot, amelyen dobogó szívet jelenít meg. Így oldotta meg: 
 
-у блок ``стално понављај`` уклопила је блок ``прикажи икону (срце)``. 
+a ``(szív) ikon megjelenítése`` blokkot behúzta az ``állandóan`` blokkba. 
 
 .. image:: ../../_images/mb10.png
 	:width: 800
@@ -56,17 +56,18 @@ Indítsd el a szimulációt!
 	
 .. questionnote::
 
- Да ли је Мара добро урадила задатак? Да ли се види како срце „куца“ (појављује се и нестаје) или само стоји на екрану? 
+ Jól oldotta meg Mari ezt a feladatot? Dobog a szív (megjelenik és eltűnik), vagy csak "áll" a kijelzőn?
  
- Због чега? Који блок треба да дода да би микробит приказивао оно што је речено у задатку?
+ Miért? Melyik blokkot kellene még, hogy hozzáadja ahhoz, hogy a microbit azt jelenítse meg, ami a feladatban szerepel?
  
-Постави блокове тако да срце буде приказано пола секунде, па да екран буде празан пола секунде и тако наизменично, све док је укључен микробит уређај.
+Helyezd el a blokkokat úgy, hogy a szív fél másodpercig jelen legyen a kijelzőn, majd az fél másodpercig üres legyen, és így váltakozzanak mindaddig, amíg a microbit
+bekapcsolt állapotban van.
 
-.. reveal::  Срце - решење
-   :showtitle: Предлог решења   
-   :hidetitle: Затвори
+.. reveal::  Szív - megoldás
+   :showtitle: Javasolt megoldás   
+   :hidetitle: Bezár
 	
-   Предлог решења
+   Javasolt megoldás
  
    .. image:: ../../_images/mb5.png
      :width: 800
@@ -74,10 +75,10 @@ Indítsd el a szimulációt!
 	
    |
 
-Погледај доњи десни угао прозора. Да ли можеш да претпоставиш чему служе ова дугменца?
+Nézd meg az ablak jobb alsó sarkát. El tudod képzelni, mire valók ezek a gombok?
 
-Прва два ти омогућавају да се вратиш корак назад или пролазиш кроз кораке до последњег направљеног (1), а дугменца 
-означена са бројем (2) ти омогућавају да увећаваш/смањујеш блокове ради боље прегледности. 
+Az első két gomb lehetővé teszi, hogy visszalépj egy lépést, vagy végigmenj a lépéseken egészen az utolsóig (1), míg a (2)-sel jelölt gombok lehetővé teszik, hogy felnagyítsd/lekicsinyítsd a blokkokat a jobb áttekinthetőség érdekében.
 
-Присети се како се то ради у Ворду!
+Emlékszel, hogyan csináltuk ezt a Wordben?
+
 	
