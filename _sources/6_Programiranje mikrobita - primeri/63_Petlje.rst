@@ -3,12 +3,11 @@ Ismétlődő programok
 
 .. infonote::
 
- Када у програму користиш блок ``стално понављај``, наредбе које се у њему налазе извршаваће се све док је микробит 
- укључен.
+ Amikor a ``állandóan`` nevű blokkot használod, a benne lévő parancsok mindaddig végrehajtásra kerülnek, amíg a microbit be van kapcsolva.
 
-Присети се Карела. Често си му давао наредбе које треба да се понове тачно одређени број пута. Како се то ради на микробиту? 
+Emlékezz vissza Karelre! Gyakran adtál neki olyan parancsokat, amelyeket meghatározott számú alkalommal kellett megismételni. Hogyan lehet ezt megvalósítani a microbitt esetében?
 
-Пример 4
+4. példa
 ~~~~~~~~
 
 Састави блокове тако да текст „Zdravo“ буде приказан само три пута.
