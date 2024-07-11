@@ -1,7 +1,7 @@
 Egy kis emlékeztető
 ===================
 
-Karel izgatottan vár rád a labirintusában, és alig várja, hogy újra együtt játszatok és labdákat gyűjtsetek!
+Karel izgatottan vár rád a labirintusában, és alig várja, hogy újra együtt játsszatok és labdákat gyűjtsetek!
 
 Mielőtt belevágnál az idei kalandba, emlékezz vissza arra, amit eddig tanultál az algoritmikus gondolkodásmódról!
 
