@@ -1,22 +1,22 @@
-Програми са гранањем
-====================
+Elágazó programok
+=================
 
-У зависности од неког резултата који добијеш или да ли је испуњен неки услов, програм може да извршава различите наредбе.
+A kapott eredménytől vagy egy feltétel teljesülésétől függően a program különböző parancsokat hajthat végre.
  
-Ево најједноставнијег примера – унесеш математички израз и микробит испише да ли је тачан или не.
+Például beírsz egy matematikai kifejezést, és a microbit kiírja, hogy helyes-e vagy sem.
 
-Пример 7
+7. példa
 ~~~~~~~~
 
-Марко треба да провери решење задатка из математике. Он мисли да је 35 - 23 > 18. Одлучио је да то препусти микробиту. 
+Márknak ellenőriznie kell egy matematikai feladat megoldását. Szerinte 35 - 23 > 18. Eldöntötte, hogy ezt a microbitre bízza.
 
-На симулатору је саставио блокове – микробит треба да испише „Tacno“ ако је решење исправно, или „Netacno“ aко је погрешио. 
+A szimulátoron összeállította a blokkokat – a microbitnek pedig ki kell írnia, hogy „Helyes”, ha a megoldás helyes, illetve hogy „Helytelen”, ha tévedett.
 
    .. image:: ../../_images/mb15.png
      :width: 800
      :align: center
 	 
-Састави блокове као Марко. Неки од блокова који су ти потребни налазе се у групи *Услови*.
+Állítsd össze a blokkokat úgy, ahogy Márk csinálta. Néhány blokkot majd a *Feltételek* csoportban fogsz megtalálni.
 
 .. questionnote::
 
