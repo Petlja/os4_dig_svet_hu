@@ -1,9 +1,9 @@
-Мали подсетник
-==============
+Egy kis emlékeztető
+===================
 
-Пред крај прошле школске године упознао си се са микробитом. Подсети се које су све његове могућности!
+A tanév vége felé megismerkedtél a microbittel. Emlékezz vissza, milyen lehetőségei vannak!
 
-Ако којим случајем ниси имао прилике да радиш са микробитом, овај квиз ће ти помоћи да сазнаш нешто ново и корисно!
+Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, hogy új és hasznos dolgokat tudj meg róla!
 
 .. quizq::
 
