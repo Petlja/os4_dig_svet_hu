@@ -13,34 +13,33 @@ Segíthet megoldani a matek házit! Mutatjuk is, hogyan...
 
  Számold ki a következő kifejezés értékét: (158 - 33) : (724 - 699)
 
-Хајде да прво анализирамо овај задатак.
+Először elemezzük ezt a feladatot. 
 
 .. questionnote::
 
- Колико операција треба да извршиш? Којим редом?
+ Hány műveletet kell itt végrehajtani? Milyen sorrendben?
 
-Пре него што се упустиш у решавање било ког проблема, важно је да га добро анализираш и уочиш кораке које је потребно 
-да направиш како би дошао до исправног решења!
+Mielőtt bármilyen probléma megoldásába kezdenél, fontos, hogy alaposan elemezd azt, és felismerd azokat a lépéseket, 
+amelyeket meg kell tenned a helyes megoldás eléréséhez!
 
-Корак 1:  **израчунај 158 - 33**
+1. lépés:  **a 158 - 33 kiszámítása**
 
-Корак 2: **израчунај 724 - 699**
+2. lépés: **a 724 - 699 kiszámítása**
 
-Корак 3: **подели ова два броја (добијена резултата)**
+3. lépés: **e két szám (a kapott eredmények) egymással való elosztása**
 
    .. image:: ../../_images/mb11.png
      :width: 780
      :align: center
 	 
-Блокови за рачун налазе се у групи *Математика* (1), слика изнад. Потребна су ти три блока за основне операције. 
-Превуци их на површину за слагање блокова као на слици испод:
+A számolásra szolgáló blokkok a *Matek* csoportban találhatók (1), lásd a fenti képet. Három blokkra lesz szükséged az alapműveletek elvégzéséhez. 
+Húzd őket a munkaterületre, ahogy az alábbi képen látható:
  
    .. image:: ../../_images/mb13.png
      :width: 780
      :align: center
 
-Блок (1) постави на леву страну блока за дељење. Блок (2) на десну страну овог блока. Превуци блок за дељење у блок 
-за приказ броја. Да ли си добио исправно решење?	
+Az (1) számú blokkot helyezd az osztásra szolgáló blokk bal oldalára. A (2) számú blokkot pedig ennek a blokknak a jobb oldalára. Ezután húzd az osztásra szolgáló blokkot a szám kiírása nevű blokkra. Megkaptad a helyes megoldást?
 
  
    .. image:: ../../_images/mb14.png
