@@ -75,19 +75,20 @@ Az ``állandóan`` blokk ebben az esetben felesleges, így az törölhető (jobb
 	:width: 800
 	:align: center
 
-Твој први програм је састављен!
+Ezzel el is készült az első programod!
 
 .. questionnote::
 
- Како можеш да провериш да ли си добро урадио задатак? 
+ Hogyan tudod leellenőrizni, hogy jól oldottad-e meg a feladatot?
 
-На левој страни се налази слика микробита. Помоћу ње можеш да провериш како се извршава твој програм (ако немаш код себе прави уређај). 
-Кликни на дугменце са троуглом и посматрај шта се дешава. Да ли програм ради онако како си замислио?
+A bal oldalon láthatod a microbit képét. Ezzel ellenőrizheted, hogyan fut a programod (ha nincs nálad valódi eszköz). 
+Kattints a háromszög gombra, és figyeld, mi történik. A program úgy működik, ahogy elképzelted?
 
-Пробај да убациш и остале блокове из групе основни блокови. Нацртај своју икону помоћу блока прикажи диоде. Убаци блок 
-обриши екран. Сваки пут кад направиш неку измену, покрени симулатор и посматрај шта се приказује на екрану микробита.
+Próbáld meg beilleszteni a többi blokkot is az Alapok csoportjából. Rajzolj saját ikont a ledek bakpcsolása nevű blokkal. Illeszd be a kijelző letörlése blokkot is. 
+Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figyeld, mi jelenik meg a microbit kijelzőjén.
 
-Пример 2
+
+2. példa
 ~~~~~~~~
 
 .. image:: ../../_images/mb6.png
