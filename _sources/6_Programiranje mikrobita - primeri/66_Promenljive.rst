@@ -46,7 +46,7 @@ Nézd meg, hogyan néz ki az a program, amely megoldja ezt a problémát:
 .. questionnote::
 
  Nyisd meg a *Bemenet* csoportot, és nézd meg, milyen egyéb blokkok vannak, amelyek változó értékkel rendelkeznek.
- Hogyan használnád ezeket valamelyik programodban? 
+ Hogyan tudnád felhasználni ezeket valamelyik programodban? 
 
 A meglévő blokkokon kívül, amelyek változó értékeket használnak (hőmérséklet, fényerősség stb.), saját blokkokat is készíthetsz. 
 Kitalálhatsz egy nevet a változó értékhez, és használhatod ezt a blokkot a programodban.
