@@ -53,7 +53,7 @@ A projektfeladat sikere mindannyiótokon múlik. Ezért fontos, hogy:
 
 .. questionnote::
 
- Neked is van témaötleted? A fenti témák közül melyik illik hozzád a legjobban?
+ Neked is van témajavaslatod? A fenti témák közül melyik illik hozzád a legjobban?
  
 Beszéld meg a társaiddal, melyik témát választjátok, hogyan osztjátok fel a feladatokat, és mikorra kell befejezni őket.
 Ne siessetek, mindent jól tervezzetek meg, mielőtt konkrét lépéseket tesztek!
