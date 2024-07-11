@@ -30,14 +30,14 @@ Rendezd el a blokkokat az alábbi képen látható módon:
 	:width: 800
 	:align: center
 	
-Микробит је само једном измерио температуру и написао „toplo“ (на симулатору смо померили термометар на 36 степени). 
-И то је то… А шта ако се температура у међувремену промени? Где смо погрешили?
+A microbit csak egyszer mérte meg a hőmérsékletet, és kiírta, hogy „meleg” (a szimulátoron a hőmérőt 36 fokra állítottuk).
+És ennyi... De mi van, ha időközben megváltozik a hőmérséklet? Hol hibáztunk?
 
-Логично је да микробит стално мери температуру и проверава да ли је топло или хладно. 
+Logikus, hogy a microbitnek folyamatosan kellene, hogy mérje a hőmérsékletet és ellenőrizze, hogy meleg vagy hideg van-e.
 
-Који блок онда треба да применимо уместо блока ``почетак``?
+Milyen blokkot kellene alkalmaznunk a ``indításkor`` blokk helyett?
 
-Погледај како изгледа исправно састављен програм за овај проблем:
+Nézd meg, hogyan néz ki az a program, amely megoldja ezt a problémát:
 
 .. image:: ../../_images/mb19.png
 	:width: 800
