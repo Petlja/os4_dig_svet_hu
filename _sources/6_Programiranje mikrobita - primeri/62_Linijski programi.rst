@@ -95,12 +95,12 @@ Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figy
 	:width: 800
 	:align: center
 
-Зока је одлучила да поређа блокове тако да направи анимацију бродића који се креће. Почела је да слаже блокове, 
-али се мало збунила. 
+Zita úgy döntött, hogy a blokkokat úgy rendezi el, hogy azok egy mozgó hajót jelenítsenek meg. Elkezdte összeállítani a blokkokat, de kicsit összezavarodott.
+ 
 
 .. questionnote::
 
- Да ли је свеједно којим ће редом поређати преостале блокове?
+ Számít-e az, hogy milyen sorrendben rendezzük el a megmaradt blokkokat?
 
 .. quizq::
 
@@ -110,14 +110,14 @@ Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figy
         :answer_b: 4-2-1-5-3-6
         :answer_c: 5-1-2-4-3-6
         :answer_d: 3-5-1-4-2-6
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор је тачан. 
-        :feedback_c: Одговор није тачан. 
-        :feedback_d: Одговор није тачан.
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz helyes. 
+        :feedback_c: A válasz nem helyes.  
+        :feedback_d: A válasz nem helyes. 
 
-        Означи исправан редослед блокова како би се на екрану видео бродић који плови:
+        Jelöld meg a blokkok helyes sorrendjét, úgy hogy a kijelző egy úszó hajót jelenítsen meg:
 		
-Пример 3
+3. példa
 ~~~~~~~~
 
 У првом примеру твоје име је било написано само једном. А шта ако желиш да се стално појављује на екрану? Уместо блока почетак употреби блок стално понављај. Покрени симулацију. 
