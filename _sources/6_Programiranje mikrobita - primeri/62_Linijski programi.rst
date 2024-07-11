@@ -95,7 +95,7 @@ Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figy
 	:width: 800
 	:align: center
 
-Zita úgy döntött, hogy a blokkokat úgy rendezi el, hogy azok egy mozgó hajót jelenítsenek meg. Elkezdte összeállítani a blokkokat, de kicsit összezavarodott.
+Zita szerette volna a blokkokat elrendezni, hogy azok egy mozgó hajót jelenítsenek meg. Elkezdte összeállítani a blokkokat, de kicsit összezavarodott.
  
 
 .. questionnote::
@@ -120,10 +120,10 @@ Zita úgy döntött, hogy a blokkokat úgy rendezi el, hogy azok egy mozgó haj�
 3. példa
 ~~~~~~~~
 
-У првом примеру твоје име је било написано само једном. А шта ако желиш да се стално појављује на екрану? Уместо блока почетак употреби блок стално понављај. Покрени симулацију. 
+Az első példában a neved csak egyszer volt kiíratva. És mi van akkor, ha azt szeretnéd, hogy az folyamatosan megjelenjen a kijelzőn? Az indításkor blokk helyett használd az állandóan nevű blokkot. Futtasd le a szimulációt! 
 
 .. questionnote::
 
- Колико ће пута бити исписано твоје име? Да ли можеш унапред то да знаш?
+ Hányszor lesz kiírva a neved? Meg lehet ezt előre mondani?
  
-Замени блок ``почетак`` блоком ``стално понављај`` и у Примеру 2. Да ли се бродић поново појавио на екрану?
+A 2. pédában is cseréld le az ``indításkor`` blokkot az ``állandóan`` nevű blokkra. Megjelent-e újra a kis hajó a kijelzőn? 
