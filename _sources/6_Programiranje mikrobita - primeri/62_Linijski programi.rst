@@ -61,15 +61,15 @@ ahogy az az alábbi képen is látható.
 	:width: 800
 	:align: center
 
-Када кликнеш на стрелицу поред сличице (иконе) (3), појавиће се и друге опције. Изабери насмејан емотикон.
+Amikor rákattintasz az kép (ikon) melletti nyílra (3), további lehetőségek jelennek meg. Válaszd ki a mosolygó emotikont.
 
-Испод овог блока постави блок прикажи текст из исте групе и промени текст који треба да буде приказан – напиши своје име!
+Az ikon megjelenítése blokk alá helyezd el a szöveg megjelenítése blokkot ugyanabból a csoportból, és változtasd meg a megjelenítendő szöveget – írd be a nevedet!
 
 .. infonote::
 
- Текст на микробиту може да буде написан само латиничким писмом без додатака за š, ć, č, đ (осим ако не пишеш сам слово по слово тако да буде исписано ћирилицом или са додацима).
+ A mikrobit kijelzőjén a szöveg csak latin betűkkel jeleníthető meg, ékezetek nélkül (kivéve, ha egyesével íratod ki a saját magad által létrehozott betűket).
 
-Блок ``стално понављај`` је у овом случају вишак, тако да можеш да га избришеш (десни клик на блок, *Брисање блока*).
+Az ``állandóan`` blokk ebben az esetben felesleges, így az törölhető (jobb egérgomb kattintás a blokkon, majd a *Blokk törlése* menüelem kiválasztása).
 		
 .. image:: ../../_images/mb4.png
 	:width: 800
