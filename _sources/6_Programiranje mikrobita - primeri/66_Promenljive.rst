@@ -88,18 +88,19 @@ hozzáadhatsz számokat, megszorozhatod egy számmal, összehasonlíthatod stb.,
  Matematika órán változó értékekkel kapcsolatos feladatokat is oldottatok már meg. Általában milyen betűkkel jelöltétek őket?
  Milyen módokon hasonlíthatjuk össze a változókat?
 
-Вратимо се на наш програм. Постави блокове као на слици испод:
+Térjünk vissza a feladathoz. Állítsd össze a programot alkotó blokkokat az alábbi kép alapján:
 
 .. image:: ../../_images/mb22.png
 	:width: 800
 	:align: center	
 	
-Дакле, на почетку извршавања програма број је постављен на нулу. Сваки пут кад се притисне тастер А Број се увећа 
-за два и прикаже.
+Tehát a program elején a szám nullára van állítva. Minden alkalommal, amikor megnyomod az A gombot, 
+a Szám kettővel növekszik és megjelenik kijelzőn.
 
-Измени или допуни програм тако да буде приказана и нула на почетку!
+Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket is megjelenítse!
 
-Пример 10
+
+10. példa
 ~~~~~~~~~
 
 У претходном примеру приметио си и један нови блок из групе Улаз. Он омогућава да се неке наредбе изврше када се 
