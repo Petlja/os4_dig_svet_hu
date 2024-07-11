@@ -77,11 +77,11 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
         :answer_a: 3
         :answer_b: 1
         :answer_c: 2
-        :answer_d: Микробит нема тастере!
-        :feedback_a: Одговор није тачан. 
-        :feedback_b: Одговор није тачан. 
-        :feedback_c: Одговор је тачан. 
-        :feedback_d: Одговор није тачан.
+        :answer_d: A microbit nem rendelkezik gombokkal!
+        :feedback_a: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes. 
+        :feedback_c: A válasz helyes. 
+        :feedback_d: A válasz nem helyes.
 
-        Колико има тастера на предњој страни микробита?
+        Hány gomb van a mikrobit elülső részén?
 
