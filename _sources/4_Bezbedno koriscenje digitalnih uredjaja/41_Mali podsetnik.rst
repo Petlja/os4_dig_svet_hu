@@ -114,7 +114,7 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
         :correct: a
         :answer_a: Beszélsz a szüleiddel, gondviselőiddel vagy a tanároddal, és tájékoztatod őket a problémáról.
         :answer_b: Visszavágsz ugyanazzal, majd támadásba lendülsz.
-        :answer_c: Nem csinálsz semmit, hanem reménykedsz benne, hogy elmúlik.
+        :answer_c: Nem csinálsz semmit, hanem reménykedsz benne, hogy véget ér.
         :answer_d: Kikapcsolod a számítógépedet és az eszközeidet, és nem használod az internetet.
         :feedback_a: A válasz helyes. 
         :feedback_b: A válasz nem helyes. 
@@ -128,7 +128,7 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
    .. mchoice:: p419
         :correct: c
         :answer_a: Figyelmen kívül hagyod és törlöd.
-        :answer_b: Megosztod a személyes adatait azzal, aki az üzenetet küldte.
+        :answer_b: Megosztod a személyes adataidat azzal, aki az üzenetet küldte.
         :answer_c: Értesíted a szüleidet, gondviselőidet vagy a tanárodat.
         :answer_d: Megírod egy válaszüzenetben, hogy nem érdekel.
         :feedback_a: A válasz nem helyes. 
