@@ -19,7 +19,7 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz helyes.
 
-        A Microbit képes… (jelöld be az összes helyes választ)Микробит може да… (означи све тачне одговоре)
+        A Microbit képes… (jelöld be az összes helyes választ!)
 
 
 .. quizq::
