@@ -22,7 +22,7 @@ Nézzük meg, hogyan használhatod ezt a blokkot!
 8. példa
 ~~~~~~~~
 
-Készíts egy programot, amely a microbit környezetének hőmérsékletétől függően a képernyőn „meleg” vagy „hideg” szót jelenít meg.
+Készíts egy programot, amely a microbit környezetének hőmérsékletétől függően a képernyőn „meleg” vagy „hideg” szót jelenít meg!
 
 Rendezd el a blokkokat az alábbi képen látható módon:
 
