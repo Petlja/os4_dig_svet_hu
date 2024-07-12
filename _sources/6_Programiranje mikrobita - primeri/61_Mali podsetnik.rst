@@ -3,7 +3,7 @@ Egy kis emlékeztető
 
 A tanév vége felé megismerkedtél a microbittel. Emlékezz vissza, milyen lehetőségei vannak!
 
-Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, hogy új és hasznos dolgokat tudj meg róla!
+Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, hogy új és hasznos dolgokat tudj meg róla.
 
 .. quizq::
 
@@ -77,11 +77,11 @@ Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, h
         :answer_a: 3
         :answer_b: 1
         :answer_c: 2
-        :answer_d: A microbit nem rendelkezik gombokkal!
+        :answer_d: A microbit nem rendelkezik gombokkal.
         :feedback_a: A válasz nem helyes. 
         :feedback_b: A válasz nem helyes. 
         :feedback_c: A válasz helyes. 
         :feedback_d: A válasz nem helyes.
 
-        Hány gomb van a mikrobit elülső részén?
+        Hány gomb van a microbit elülső részén?
 
