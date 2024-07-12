@@ -11,7 +11,7 @@ Ahhoz, hogy felelevenítsd magadban a microbit programozását, oldd meg a köve
 1. példa
 ~~~~~~~~
 
-Állítsd össze az utasítás blokkokat úgy, hogy a microbit megjelenítse egy szív képét, egy boldog emotikont, majd a nevedet.
+Állítsd össze az utasítás blokkokat úgy, hogy a microbit megjelenítsen egy szívet ábrázoló képet, egy boldog emotikont, majd a nevedet!
 
 Bár ezt már tavaly is csináltad, ismételjük át az első lépéseket! Minden feladat megoldásának folyamata hasonló, jól jegyezd meg!
 
