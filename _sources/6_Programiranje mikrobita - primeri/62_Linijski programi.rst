@@ -61,7 +61,7 @@ ahogy az az alábbi képen is látható!
 	:width: 800
 	:align: center
 
-Amikor rákattintasz az kép (ikon) melletti nyílra (3), további lehetőségek jelennek meg. Válaszd ki a mosolygó emotikont!
+Amikor rákattintasz a kép (ikon) melletti nyílra (3), további lehetőségek jelennek meg. Válaszd ki a mosolygó emotikont!
 
 Az ikon megjelenítése blokk alá helyezd el a szöveg megjelenítése blokkot ugyanabból a csoportból, és változtasd meg a megjelenítendő szöveget – írd be a nevedet!
 
