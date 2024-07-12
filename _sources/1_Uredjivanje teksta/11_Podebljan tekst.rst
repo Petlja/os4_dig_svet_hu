@@ -35,7 +35,7 @@ Amikor az egeret a gomb fölé viszed, megjelenik egy szövegdoboz **Ctrl + B** 
 
  Ha félkövérré szeretnéd alakítani a szöveget a billentyűzet segítségével, használd a **Ctrl + B** billentyűkombinációt.
  
-Jelöld ki az egérrel a *Lineáris programok* szavakat, amelyekkel a harmadik bekezdés kezdődik, és nyomd meg a billentyűzeten a **Ctrl** gombot.
+Jelöld ki az egérrel a *lineáris programok* szavakat, amelyekkel a harmadik bekezdés kezdődik, és nyomd meg a billentyűzeten a **Ctrl** gombot.
 Ezután (továbbra is nyomva tartva a **Ctrl**-t) nyomd meg a B betűt. Sikerült megvastagítanod ezeknek a szavaknak a betűit?
 
 .. questionnote::
