@@ -3,7 +3,7 @@ Ismétlődő programok
 
 .. infonote::
 
- Amikor a ``állandóan`` nevű blokkot használod, a benne lévő parancsok mindaddig végrehajtásra kerülnek, amíg a microbit be van kapcsolva.
+ Amikor az ``állandóan`` nevű blokkot használod, a benne lévő parancsok mindaddig végrehajtásra kerülnek, amíg a microbit be van kapcsolva.
 
 Emlékezz vissza Karelre! Gyakran adtál neki olyan parancsokat, amelyeket meghatározott számú alkalommal kellett megismételni. Hogyan lehet ezt megvalósítani a microbit esetében?
 
