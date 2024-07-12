@@ -2,9 +2,9 @@ Aritmetika
 ==========
 
 
-Lehet, hogy első pillantásra egy közönséges játéknak tűnik, de a microbit nagyon jól tud számolni!
+Lehet, hogy első pillantásra egy közönséges játéknak tűnik, de a microbit nagyon jól tud számolni.
 
-Segíthet megoldani a matek házit! Mutatjuk is, hogyan...
+Segíthet például megoldani a matek házit. Mutatjuk is, hogyan...
 
 6. példa
 ~~~~~~~~
@@ -13,7 +13,7 @@ Segíthet megoldani a matek házit! Mutatjuk is, hogyan...
 
  Számold ki a következő kifejezés értékét: (158 - 33) : (724 - 699)
 
-Először elemezzük ezt a feladatot. 
+Először elemezzük ezt a feladatot.
 
 .. questionnote::
 
@@ -39,7 +39,7 @@ Húzd őket a munkaterületre, ahogy az alábbi képen látható:
      :width: 780
      :align: center
 
-Az (1) számú blokkot helyezd az osztásra szolgáló blokk bal oldalára. A (2) számú blokkot pedig ennek a blokknak a jobb oldalára. Ezután húzd az osztásra szolgáló blokkot a szám kiírása nevű blokkra. Megkaptad a helyes megoldást?
+Az (1) számú blokkot helyezd az osztásra szolgáló blokk bal oldalára, a (2) számú blokkot pedig ennek a blokknak a jobb oldalára! Ezután húzd az osztásra szolgáló blokkot a szám kiírása nevű blokkra! Megkaptad a helyes megoldást?
 
  
    .. image:: ../../_images/mb14.png
