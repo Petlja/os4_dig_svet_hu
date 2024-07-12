@@ -95,7 +95,7 @@ Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figy
 	:width: 800
 	:align: center
 
-Zita szerette volna a blokkokat elrendezni, hogy azok egy mozgó hajót jelenítsenek meg. Elkezdte összeállítani a blokkokat, de kicsit összezavarodott.
+Zita szerette volna a blokkokat elrendezni, hogy azok egy mozgó hajót jelenítsenek meg. Elkezdte összeállítani a blokkokat, de egy kissé összezavarodott.
  
 
 .. questionnote::
