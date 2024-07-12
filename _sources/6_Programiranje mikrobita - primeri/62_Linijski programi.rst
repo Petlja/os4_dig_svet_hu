@@ -11,34 +11,34 @@ Ahhoz, hogy felelevenítsd magadban a microbit programozását, oldd meg a köve
 1. példa
 ~~~~~~~~
 
-Állítsd össze az utasítás blokkokat úgy, hogy a microbit megjelenítse egy szív képet, egy boldog emotikont, majd a nevedet.
+Állítsd össze az utasítás blokkokat úgy, hogy a microbit megjelenítse egy szív képét, egy boldog emotikont, majd a nevedet.
 
-Bár ezt már tavaly is csináltad, ismételjük át az első lépéseket. Minden feladat megoldásának folyamata hasonló, jól jegyezd meg!
+Bár ezt már tavaly is csináltad, ismételjük át az első lépéseket! Minden feladat megoldásának folyamata hasonló, jól jegyezd meg!
 
-A böngésző címsorába írd be a következő címet: https://makecode.microbit.org (1). Ennek hatására be fog töltődni a microbit programozási környezet.
+A böngésző címsorába írd be a következő címet: https://makecode.microbit.org (1)! Ekkor be fog töltődni a microbit programozási környezet.
 
-Ha nincs beállítva, állítsd a környezetet magyar nyelvűre. Ehhez kattints a kis fogaskerékre az ablak jobb felső sarkában, majd a *Language* (Nyelv) (2) gombra, ahogy az alábbi képen látható.
+Ha nincs beállítva, állítsd a környezetet magyar nyelvűre! Ehhez kattints a kis fogaskerékre az ablak jobb felső sarkában, majd a *Language* (Nyelv) (2) gombra, ahogy az alábbi képen látható!
 
 .. image:: ../../_images/mb1.png
 	:width: 800
 	:align: center
 	
-Keresd meg a *Magyar* feliratú gombot, és kattints rá. A programozói környezetet most magyar nyelvűre változott.
-Ez nagyban megkönnyíti a további munkád!
+Keresd meg a *Magyar* feliratú gombot, és kattints rá! A programozói környezet most magyar nyelvűre változott.
+Ez nagyban megkönnyíti a további munkád.
 
 |
 
-Készítsd el az első programod! Kattintson az *Új projekt* elemre (1), adj nevet a projektnek (2), majd kattints a *Létrehoz* gombra (3).
+Készítsd el az első programod! Kattintson az *Új projekt* elemre (1), adj nevet a projektnek (2), majd kattints a *Létrehoz* gombra (3)!
 
 .. image:: ../../_images/mb2.png
 	:width: 800
 	:align: center
 	
-A programozói környezet az első programodhoz készen áll, elkezdheted összeállítani a blokkokat!
+A programozói környezet készen áll az első programodhoz, elkezdheted összeállítani a blokkokat!
 
 |
 
-A blokkok különböző csoportokba vannak rendezve (1). Az egy csoportba tartozó blokkok ugyanolyan színűek. 
+A blokkok különböző csoportokba vannak rendezve (1). Az egy csoportba tartozó blokkok ugyanolyan színűek.
 Amikor rákattintasz egy csoport nevére, megjelennek az abban található blokkok. 
 Ebben a környezetben is úgy állítod össze a programot, hogy egérrel áthúzod a kívánt blokkokat a jobb oldalon található területre (2).
 
@@ -49,25 +49,25 @@ Ebben a környezetben is úgy állítod össze a programot, hogy egérrel áthú
 Amikor elindítod a projektet, látni fogod, hogy már két blokk rögtön be van állítva: az ``indításkor`` és az ``állandóan``. 
 Minden, amit az ``indításkor`` blokkon belül elhelyezel, csak egyszer fog végrehajtódni. Az ``állandóan`` blokk lehetővé teszi, hogy az abban található utasítások addig ismétlődjenek, amíg a microbit be van kapcsolva.
 
-Térjünk vissza a feladat szövegéhez. Keresd meg, melyik csoportban találhatók azok a blokkok, amelyeket a megoldásodhoz használhatnál. Segítünk!
+Térjünk vissza a feladat szövegéhez. Keresd meg, melyik csoportban találhatók azok a blokkok, amelyeket a megoldásodhoz használhatnál! Segítünk.
 
-Kövesd az alábbi képet. Kattints az *Alapok* (1) csoportra. Ebben találhatók azok a blokkok, amelyeket most használni fogsz – 
+Kövesd az alábbi képet! Kattints az *Alapok* (1) csoportra! Ebben találhatók azok a blokkok, amelyeket most használni fogsz – 
 az ``ikon megjelenítése`` (2) és a ``szöveg kiírása``.
 
 Mivel a feladat szövegében az szerepel, hogy ezek a képek és szövegek csak egyszer jelenjenek meg, húzd ezeket a blokkokat az ``indításkor`` blokkba, 
-ahogy az az alábbi képen is látható.
+ahogy az az alábbi képen is látható!
 
 .. image:: ../../_images/mb3.png
 	:width: 800
 	:align: center
 
-Amikor rákattintasz az kép (ikon) melletti nyílra (3), további lehetőségek jelennek meg. Válaszd ki a mosolygó emotikont.
+Amikor rákattintasz az kép (ikon) melletti nyílra (3), további lehetőségek jelennek meg. Válaszd ki a mosolygó emotikont!
 
 Az ikon megjelenítése blokk alá helyezd el a szöveg megjelenítése blokkot ugyanabból a csoportból, és változtasd meg a megjelenítendő szöveget – írd be a nevedet!
 
 .. infonote::
 
- A mikrobit kijelzőjén a szöveg csak latin betűkkel jeleníthető meg, ékezetek nélkül (kivéve, ha egyesével íratod ki a saját magad által létrehozott betűket).
+ A microbit kijelzőjén a szöveg csak latin betűkkel jeleníthető meg, ékezetek nélkül (kivéve, ha egyesével íratod ki a saját magad által létrehozott betűket).
 
 Az ``állandóan`` blokk ebben az esetben felesleges, így az törölhető (jobb egérgomb kattintás a blokkon, majd a *Blokk törlése* menüelem kiválasztása).
 		
@@ -75,17 +75,17 @@ Az ``állandóan`` blokk ebben az esetben felesleges, így az törölhető (jobb
 	:width: 800
 	:align: center
 
-Ezzel el is készült az első programod!
+Ezzel el is készült az első programod.
 
 .. questionnote::
 
  Hogyan tudod leellenőrizni, hogy jól oldottad-e meg a feladatot?
 
-A bal oldalon láthatod a microbit képét. Ezzel ellenőrizheted, hogyan fut a programod (ha nincs nálad valódi eszköz). 
-Kattints a háromszög gombra, és figyeld, mi történik. A program úgy működik, ahogy elképzelted?
+A bal oldalon láthatod a microbit képét. Ezzel ellenőrizheted, hogyan fut a programod (ha nincs nálad valódi eszköz).
+Kattints a háromszög gombra, és figyeld, mi történik! A program úgy működik, ahogy elképzelted?
 
-Próbáld meg beilleszteni a többi blokkot is az Alapok csoportjából. Rajzolj saját ikont a ledek bakpcsolása nevű blokkal. Illeszd be a kijelző letörlése blokkot is. 
-Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figyeld, mi jelenik meg a microbit kijelzőjén.
+Próbáld meg beilleszteni a többi blokkot is az Alapok csoportjából. Rajzolj saját ikont a ledek bekapcsolása nevű blokkal! Illeszd be a kijelző letörlése blokkot is! 
+Minden alkalommal, amikor változtatsz valamit, futtasd a szimulátort, és figyeld, mi jelenik meg a microbit kijelzőjén!
 
 
 2. példa
@@ -115,15 +115,15 @@ Zita szerette volna a blokkokat elrendezni, hogy azok egy mozgó hajót jelenít
         :feedback_c: A válasz nem helyes.  
         :feedback_d: A válasz nem helyes. 
 
-        Jelöld meg a blokkok helyes sorrendjét, úgy hogy a kijelző egy úszó hajót jelenítsen meg:
+        Jelöld meg a blokkok helyes sorrendjét úgy, hogy a kijelző egy úszó hajót jelenítsen meg:
 		
 3. példa
 ~~~~~~~~
 
-Az első példában a neved csak egyszer volt kiíratva. És mi van akkor, ha azt szeretnéd, hogy az folyamatosan megjelenjen a kijelzőn? Az indításkor blokk helyett használd az állandóan nevű blokkot. Futtasd le a szimulációt! 
+Az első példában a neved csak egyszer volt kiíratva. És mi van akkor, ha azt szeretnéd, hogy az folyamatosan megjelenjen a kijelzőn? Az indításkor blokk helyett használd az állandóan nevű blokkot! Futtasd le a szimulációt! 
 
 .. questionnote::
 
  Hányszor lesz kiírva a neved? Meg lehet ezt előre mondani?
  
-A 2. példában is cseréld le az ``indításkor`` blokkot az ``állandóan`` nevű blokkra. Megjelent-e újra a kis hajó a kijelzőn? 
+A 2. példában is cseréld le az ``indításkor`` blokkot az ``állandóan`` nevű blokkra! Megjelent-e újra a kis hajó a kijelzőn? 
