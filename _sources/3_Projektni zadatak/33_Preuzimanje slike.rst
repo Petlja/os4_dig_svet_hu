@@ -31,8 +31,8 @@ Ha el akarod menteni a képet a számítógépedre, hogy később felhasználhas
 	:width: 800
 	:align: center
 	
-A legjobb, ha a képet a *Pictures* (Képek) mappába mented. Keresd meg ezt a mappát a párbeszédablak bal oldalán (1)!
-Válaszd ki a nevet, amellyel el szeretnéd menteni a képet (2), és erősítsd meg a *Save* (Mentés) (3) gombra kattintva! 
+A legjobb, ha a képet a *Képek* (Pictures) mappába mented. Keresd meg ezt a mappát a párbeszédablak bal oldalán (1)!
+Válaszd ki a nevet, amellyel el szeretnéd menteni a képet (2), és erősítsd meg a *Mentés* (Save) (3) gombra kattintva! 
 A kép ugyanoda kerül mentésre, ahol a többi digitális rajzod is található.
 
 Nyiss meg egy új Word-dokumentumot, és mentsd el *Paja Jovanovic.docx* néven! Illeszd be a képet a dokumentumba úgy, 
