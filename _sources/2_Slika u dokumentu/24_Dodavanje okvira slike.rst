@@ -15,7 +15,7 @@ A Word egyik képessége, hogy bekeretezheted vele a képet. Ahogy különböző
 
 Be fogjuk keretezni Karel képét.
 
-Kattints a képre (1)! Ha szeretnéd, valamelyest fel is nagyíthatod. A főmenüben megjelenik a *Picture Format* (Köp formátum) (2) lehetőség, 
+Kattints a képre (1)! Ha szeretnéd, valamelyest fel is nagyíthatod. A főmenüben megjelenik a *Picture Format* (Kép formátum) (2) lehetőség, 
 és alatta a különböző keretek (3). Ha nem vagy elégedett a választékkal, a nyílra kattintva (4) további kerettípusok közül választhatsz.
 
 .. image:: ../../_images/pic_11.png
