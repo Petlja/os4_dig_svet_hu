@@ -1,5 +1,5 @@
 Feladatok
-=========
+==========
 
 Most már elegendő tapasztalattal rendelkezel az önálló feladatok megoldásához. Lehetőség szerint többféleképpen oldj meg egy-egy feladatot!
 
@@ -14,7 +14,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 |
 
 1. feladat
-----------
+-----------
 
 **Karel egy szűk járatban találta magát. Segíts neki megszerezni mindkét labdát!**
 
@@ -46,7 +46,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 
 
 2. feladat
-----------
+-----------
 
 **Karelnek be kell dobnia a labdát a lyukba!**
 
@@ -75,7 +75,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
    }
 
 3. feladat
-----------
+-----------
   
 **Karelnek két labdát kell gyűjtenie. Jó felé fordult? Válassz rövidebb utat!**
 
@@ -106,7 +106,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
       
 
 4. feladat
-----------
+-----------
 
 **Segíts Karelnek összeszedni az összes labdát a kupacból, majd visszatérni az (1, 1) mezőre!**
 
@@ -136,7 +136,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
    
 
 5. feladat
-----------
+-----------
   
 **Segíts Karelnek összeszedni az összes labdát, majd visszatérni az (1, 1) mezőre!**
 
@@ -170,7 +170,7 @@ Nyugodtan fedezd fel és használd azokat a blokkokat, amelyek neked a legjobban
 **Segítség**: Keresd meg a program ismétlődő részeit!
 
 6. feladat
-----------
+------------
   
 **A feladat hasonló az előzőhöz. Karelnek össze kell szednie a labdákat, és be kell dobnia az (1, 1) mezőn található lyukba **.
 Ha a programban ismétlődő részekkel találkozol, használj ciklust!**
@@ -285,7 +285,7 @@ Karel először lépjen előre, majd forduljon jobbra! A következő lépéseket
 |
 
 9. feladat
----------
+------------
 
 **Karel jelenleg a lyuknál van, ahova három labdát kell bedobnia. Segíts neki ezt megcsinálni!**
  

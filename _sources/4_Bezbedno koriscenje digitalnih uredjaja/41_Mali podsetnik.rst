@@ -1,5 +1,5 @@
 Egy kis emlékeztető
-===================
+====================
 
 Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digitális eszközöket használsz és az internethez csatlakozol!
 
@@ -7,16 +7,16 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p411
         :correct: a
-        :answer_a: nem osztasz meg személyes adatokat ismeretlen személyekkel. 
+        :answer_a: nem osztasz meg személyes adatokat ismeretlen személyekkel.
         :answer_b: gyenge jelszavakat használsz a fiókjaidhoz, hogy azok könnyebben megjegyezhetőek legyenek.
         :answer_c: letöltheted az internetről az összes alkalmazást és játékot.
         :answer_d: ellenőrzés nélkül megnyitod az e-mailben kapott mellékleteket.
         :feedback_a: A válasz helyes.
-        :feedback_b: A válasz nem helyes. 
-        :feedback_c: A válasz nem helyes. 
+        :feedback_b: A válasz nem helyes.
+        :feedback_c: A válasz nem helyes.
         :feedback_d: A válasz nem helyes.
 
-       A digitális világban...
+        Hogyan védheted meg a személyes adataidat az interneten?
 
 .. quizq::
 
