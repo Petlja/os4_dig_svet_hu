@@ -51,7 +51,7 @@ Kép másolása az internetről
 
 Létezik egy másik, rövidebb és egyszerűbb módja annak, hogy képet illessz be az internetről a dokumentumodba – egyszerűen csak másold ki!
 
-Kattints jobb gombbal arra a képre, amit másolni szeretnél, és válaszd a *Copy* (Másolás) (1) lehetőséget!
+Kattints jobb gombbal arra a képre, amit másolni szeretnél, és válaszd a *Copy image* (Kép másolása) (1) lehetőséget!
 
 .. image:: ../../_images/pretraga_11.png
 	:width: 800
