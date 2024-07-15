@@ -41,7 +41,7 @@ Válaszd ki most a szöveg következő elhelyezkedését a képhez viszonyítva 
 
  Most hogy helyezkedik el a szöveg? Mi a különbség?
  
-Hasonló módon próbáld ki, mi történik, amikor a fennmaradt lehetőségeket váasztod ki! Helyezd a képet a szövegre, a szöveget a képre...
+Hasonló módon próbáld ki, mi történik, amikor a fennmaradt lehetőségeket választod ki! Helyezd a képet a szövegre, a szöveget a képre...
 
 .. suggestionnote::
 
