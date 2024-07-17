@@ -14,7 +14,7 @@ Először végezd el a következő gyakorlatot! Ez a szép vers példaként fog 
 A szöveg másolása
 ~~~~~~~~~~~~~~~~~
 
-A következő feladatod az, hogy begépeld Ljubivoje Ršumović „*A gyerekek tudnak repülni*” című versét.
+A következő feladatod az, hogy begépeld Weöres Sándor „*Nyári este*” című versét.
 
 Észre fogod venni, hogy a versben van egy rész, amely ismétlődik – ez a refrén. A digitális dokumentum egyik előnye, hogy nem kell ugyanazt a szöveget többször begépelni. Csak egyszer gépeld be a refrén szövegét, majd később másold be a második versszak alá. Hogyan kell ezt csinálni?
 
