@@ -112,11 +112,11 @@ Itt van egy feladat, amely a szöveg áthelyezésének gyakorlására szolgál:
 
 .. questionnote::
 
- Nyiss meg egy új dokumentumot! Gépeld be Duško Radovićnak azt a versét, amely az alábbi képen olvasható!
+ Nyiss meg egy új dokumentumot! Gépeld be Juhász Gyulának azt a versét, amely az alábbi képen olvasható!
  Gyakorold a másolást és az áthelyezést úgy, hogy nem gépeled be többször is az ismétlődő szövegrészeket!
 
 .. image:: ../../_images/deca_vole.png
 	:width: 800
 	:align: center
 
-Mentsd el a dokumentumot *A gyerekek szeretik.docx* néven!
+Mentsd el a dokumentumot *Betlehemes enek.docx* néven!
