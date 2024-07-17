@@ -8,9 +8,9 @@ A kurzust integrálhatja saját LMS-ébe a SCORM csomagok segítségével, amely
 
 ## Átalakítás *HTML*-be
 
-U ovom repozitorijumu se nalazi izvorna forma sadržaja koju pomoću alata [PetljaDoc](https://github.com/Petlja/PetljaDoc) možete konvertovati u skup *HTML* strana.
+Ebben a repozitóriumban az eredeti tartalom található, amely a [PetljaDoc](https://github.com/Petlja/PetljaDoc) eszközzel *HTML* oldalakká alakítható.
 
-Na https://petlja.github.io/os4_dig_svet možete pregledati na taj način dobijene *HTML* strane.
+A https://petlja.github.io/os4_dig_svet oldalon tekintheti meg az így kapott *HTML* oldalakat.
 
 ## License
 
