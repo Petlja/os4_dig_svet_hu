@@ -1,16 +1,16 @@
 Betűméret és betűtípus
 ======================
 
-Dusko Radović egyik kis verse segíteni fog nekünk abban, hogy bemutassuk számodra a szövegkiemelés további lehetőségeit. 
-Arról van szó, hogy megváltoztatjuk a betűk méretét és formáját. Ezekkel a lehetőségekkel már találkoztál a Paintben.
+Juhász Gyula egy szép versének segítségével mutatjuk be neked a szövegkiemelés további lehetőségeit. 
+Meg fogjuk változtatni a betűk méretét és formáját. Ezekkel a lehetőségekkel már találkoztál a Paintben.
 
 .. questionnote::
 
  Hogyan lehet megváltoztatni a betűméretet a Wordben?
 
-Ha fellapozod akármelyik folyóiratot vagy tankönyvet, észre fogod venni, hogy a címek gyakran nagyobb betűkkel vannak kinyomtatva, mint a szöveg többi része. Alakítsuk át ilyen módon *A gyerekek szeretik* vers címét is!
+Ha fellapozod akármelyik folyóiratot vagy tankönyvet, észre fogod venni, hogy a címek gyakran nagyobb betűkkel vannak kinyomtatva, mint a szöveg többi része. Alakítsuk át ilyen módon a *Betlehemes ének* címét is!
 
-Nyisd meg *A gyerekek szeretik.docx* dokumentumot!
+Nyisd meg a *Betlehemes enek.docx* dokumentumot!
 
 Kövesd az alábbi képet! Jelöld ki a címet (1), majd kattints a nyílra, amely a számot tartalmazó mező mellett található (2)! Válassz egyet a felkínált értékek közül (például: 20) (3)!
 
