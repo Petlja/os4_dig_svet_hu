@@ -1,12 +1,12 @@
-# Digitalni svet za četvrti razred - HU
+# Digitális világ az általános iskolák negyedik osztálya számára - HU
 
-Ovaj repozitorijum posvećen je kursu za Digitalni svet za četvrti razred. 
+Ez a negyedik osztályos Digitális világ című tantárgy repozitóriuma.  
 
-Kurs je na Petljinom portalu dotupan ovde: [https://petlja.org/kurs/11201/0](https://petlja.org/kurs/11201/0)
+A tanfolyam a Petlja portálon itt érhető el: [https://petlja.org/kurs/11201/0](https://petlja.org/kurs/11201/0)
 
-Kurs možete integrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/os4_dig_svet/releases
+A kurzust integrálhatja saját LMS-ébe a SCORM csomagok segítségével, amelyeket innen tölthet le: https://github.com/Petlja/os4_dig_svet/releases
 
-## Konverzija u *HTML*
+## Átalakítás *HTML*-be
 
 U ovom repozitorijumu se nalazi izvorna forma sadržaja koju pomoću alata [PetljaDoc](https://github.com/Petlja/PetljaDoc) možete konvertovati u skup *HTML* strana.
 
