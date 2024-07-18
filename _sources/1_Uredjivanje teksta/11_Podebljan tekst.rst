@@ -22,7 +22,7 @@ A szövegrészek vastagítását egy konkrét példán keresztül fogjuk neked b
 
 Keresd meg és nyisd meg a *Karel es a programozas.docx* dokumentumot, amit már korábban elkészítettél!
 
-Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot) (1)!
+Kezdjük azzal, hogy megvastagítjuk a szöveg címének betűit. Jelöld ki a címet (húzd végig az egeret a címen, miközben nyomva tartod a bal gombot!) (1)!
 
 .. image:: ../../_images/bold1.png
 	:width: 800
