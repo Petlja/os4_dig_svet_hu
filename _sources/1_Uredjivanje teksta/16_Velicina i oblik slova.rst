@@ -25,7 +25,7 @@ A cím most nagyobb betűkkel van írva, mint a szöveg többi része.
 A füzetbe írhatsz nyomtatott és írott betűkkel is. A betűk lehetnek kerekek, hosszúkásak, dőlhetnek egyik vagy másik irányba.
 Az embereknek különböző a kézírásuk.
 
-Ehhez hasonlítható az, amikor szöveget viszel be a számítógépbe, és választhatsz a betűtípusok között, amelyeket használni szeretnél.
+Ehhez hasonlítható az, amikor szöveget viszel be a számítógépbe, és választhatsz a betűtípusok közül, amelyeket használni szeretnél.
 
 A számítógépen különböző **betűtípusok** (idegen szóval **fontok**) vannak. Ezek olyan karaktercsoportok, amelyek közös grafikai formával rendelkeznek.
 
