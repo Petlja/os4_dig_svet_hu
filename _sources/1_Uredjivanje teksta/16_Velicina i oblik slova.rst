@@ -1,7 +1,7 @@
 Betűméret és betűtípus
 ======================
 
-Juhász Gyula egy szép versének segítségével mutatjuk be neked a szövegkiemelés további lehetőségeit. 
+Egy szép Juhász Gyula-vers segítségével mutatjuk be neked a szövegkiemelés további lehetőségeit. 
 Meg fogjuk változtatni a betűk méretét és formáját. Ezekkel a lehetőségekkel már találkoztál a Paintben.
 
 .. questionnote::
