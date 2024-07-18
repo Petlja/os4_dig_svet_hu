@@ -54,7 +54,7 @@ Hogyan lehet dőlt betűsen írni egy dokumentumban?
 
 |
 
-Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki a szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2)! Dőltté váltak a betűk? Ha nem, próbáld újra...
+Segítünk neked a szöveg első olyan mondatánál, amely közvetlen beszédet tartalmaz. Jelöld ki a szövegrészt úgy, ahogy az alábbi képen látható (1), majd kattints az *I* betűvel jelölt gombra (2)! Dőltté váltak a betűk? Ha nem, próbáld újra!
 
 .. image:: ../../_images/kurziv2.png
 	:width: 800
