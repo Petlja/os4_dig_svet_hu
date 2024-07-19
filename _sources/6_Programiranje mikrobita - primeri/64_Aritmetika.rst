@@ -4,7 +4,7 @@ Aritmetika
 
 Lehet, hogy első pillantásra egy közönséges játéknak tűnik, de a microbit nagyon jól tud számolni.
 
-Segíthet például megoldani a matek házit. Mutatjuk is, hogyan...
+Segíthet például megoldani a matek házit. Mutatjuk is, hogyan.
 
 6. példa
 ~~~~~~~~
