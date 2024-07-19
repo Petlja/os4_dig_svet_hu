@@ -106,7 +106,7 @@ Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket
 Az előző példában felfigyelhettél egy új blokkra a *Bemenet* csoportból. Ez lehetővé teszi, hogy bizonyos parancsok végrehajtódjanak, amikor megnyomjuk az **A** gombot. Ugyanígy beprogramozhatod, hogy mi legyen, ha megnyomjuk a **B** gombot, vagy esetleg mindkét gombot egyszerre **(A + B)**.
 
 A microbit más eseményekre is reagálhat – például amikor megrázzák, amikor egy adott irányba fordítják, amikor megütik valamivel, és hasonlók. 
-Nézd meg, milyen blokkok találhatók még a Bemenet csoportban! Ehhez az érdekes példához használjuk fel az ``amikor rázás érzékelve`` blokkot.
+Nézd meg, milyen blokkok találhatók még a *Bemenet* csoportban! Ehhez az érdekes példához használjuk fel az ``amikor rázás érzékelve`` blokkot.
 
 .. image:: ../../_images/mb23.png
 	:width: 800
