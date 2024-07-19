@@ -16,7 +16,7 @@ Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a kép
 
 .. questionnote::
 
- Ismered az „egy kép többet ér ezer szónál“ mondást? Mit jelent ez? Egyetértesz ezzel?
+ Ismered az „egy kép többet mond ezer szónál“ mondást? Mit jelent ez? Egyetértesz ezzel?
  
 Képet több okból is illeszthetünk egy dokumentumba. Szolgálhatnak illusztrációként, megjeleníthetnek ötleteket, információkat. 
 A különböző grafikonok és diagramok hasznosak lehetnek összetett adatok megjelenítésére. Az így bemutatott adatok biztosan 
