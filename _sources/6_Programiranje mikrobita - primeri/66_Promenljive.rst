@@ -95,7 +95,7 @@ Térjünk vissza a feladathoz! Állítsd össze a programot alkotó blokkokat az
 	:align: center	
 	
 Tehát a program elején a szám nullára van állítva. Minden alkalommal, amikor megnyomod az A gombot, 
-a Szám kettővel növekszik, és megjelenik a kijelzőn.
+a *Szám* kettővel növekszik, és megjelenik a kijelzőn.
 
 Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket is megjelenítse!
 
@@ -103,7 +103,7 @@ Módosítsd vagy egészítsd ki a programot úgy, hogy a kezdeti nulla értéket
 10. példa
 ~~~~~~~~~
 
-Az előző példában felfigyelhettél egy új blokkra a Bemenet csoportból. Ez lehetővé teszi, hogy bizonyos parancsok végrehajtódjanak, amikor megnyomjuk az **A** gombot. Ugyanígy beprogramozhatod, hogy mi legyen, ha megnyomjuk a **B** gombot, vagy esetleg mindkét gombot egyszerre **(A + B)**.
+Az előző példában felfigyelhettél egy új blokkra a *Bemenet* csoportból. Ez lehetővé teszi, hogy bizonyos parancsok végrehajtódjanak, amikor megnyomjuk az **A** gombot. Ugyanígy beprogramozhatod, hogy mi legyen, ha megnyomjuk a **B** gombot, vagy esetleg mindkét gombot egyszerre **(A + B)**.
 
 A microbit más eseményekre is reagálhat – például amikor megrázzák, amikor egy adott irányba fordítják, amikor megütik valamivel, és hasonlók. 
 Nézd meg, milyen blokkok találhatók még a Bemenet csoportban! Ehhez az érdekes példához használjuk fel az ``amikor rázás érzékelve`` blokkot.
