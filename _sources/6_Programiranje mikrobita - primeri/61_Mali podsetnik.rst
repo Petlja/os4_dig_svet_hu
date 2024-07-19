@@ -1,7 +1,7 @@
 Egy kis emlékeztető
 ===================
 
-A tanév vége felé megismerkedtél a microbittel. Emlékezz vissza, milyen lehetőségei vannak!
+A tanév vége felé megismerkedtél a microbittel. Elevenítsd fel, milyen lehetőségei vannak!
 
 Ha esetleg nem volt alkalmad dolgozni a microbittel, ez a kvíz segíteni fog, hogy új és hasznos dolgokat tudj meg róla.
 
