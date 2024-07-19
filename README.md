@@ -1,6 +1,6 @@
 # Digitális világ az általános iskolák negyedik osztálya számára - HU
 
-Ez a negyedik osztályos Digitális világ című tantárgy repozitóriuma.  
+Ez a negyedik osztályos Digitális világ nevű tantárgy repozitóriuma.  
 
 A tanfolyam a Petlja portálon itt érhető el: [https://petlja.org/kurs/11201/0](https://petlja.org/kurs/11201/0)
 
