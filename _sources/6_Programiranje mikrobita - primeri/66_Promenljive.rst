@@ -13,7 +13,7 @@ Egy egyszerű példa: a felhasználó beír egy számot, és ha az osztható ket
 
  Említettük, hogy a microbit képes megmérni a hőmérsékletet. Vajon a hőmérséklet mindig ugyanaz, vagy változik?
  
-Ebben a programozói környezetben a Bemenet csoportban egy „hőmérséklet (°C)“ blokk is található, amelyet felhasználhatsz a programodban is egy konkrét szám helyett. 
+Ebben a programozói környezetben a *Bemenet* csoportban egy „hőmérséklet (°C)“ blokk is található, amelyet felhasználhatsz a programodban is egy konkrét szám helyett. 
 Ebben a blokkban a pillanatnyi hőmérséklet tárolódik, ami a program futása során különböző értékeket vehet fel.
 
 Nézzük meg, hogyan használhatod ezt a blokkot!
@@ -60,7 +60,7 @@ Ez a feladat egy kissé eltér az eddigiektől. A képernyőn egy számnak kell 
 Olvasd el még egyszer a feladatot! Mit is kell valójában tenned? A **számnak** meg kell jelennie, amikor megnyomod a gombot.
 A szám mindig ugyanaz? Nem. A **szám** minden alkalommal változik, vagyis egy változó.
 
-Hozzunk létre egy Szám nevű változót, és minden alkalommal, amikor megnyomod a gombot, változtassuk meg az értékét, majd jelenítsük meg.
+Hozzunk létre egy *Szám* nevű változót, és minden alkalommal, amikor megnyomod a gombot, változtassuk meg az értékét, majd jelenítsük meg!
 
 .. questionnote::
 
