@@ -1,7 +1,7 @@
 Elágazó programok
 =================
 
-Térjünk vissza az iskolatáska bepakolásáról szóló példánkhoz. Mindennap magaddal viszed az összes könyvet? És a tempera festéket? Mitől függ ez?
+Térjünk vissza az iskolatáska bepakolásáról szóló példánkhoz. Mindennap magaddal viszed az összes könyvet? És a tempera festéket? Mikor melyiket?
 Tegyük fel, hogy képzőművészet-órád péntekenként van. **Ha** péntek van - a temperát is bepakolod. Akkor is magaddal viszed az iskolába, ha nem péntek van?
 Vagy hasonlóképpen - **ha** van matematikaórád, akkor bepakolsz két füzetet, a feladatlapokat, egy könyvet... Kell-e a matekkönyv, **ha** például pénteken nincs ilyen órád?
 
