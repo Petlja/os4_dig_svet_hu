@@ -7,10 +7,10 @@ Emlékezz vissza arra, hogyan kell eljárni azokban a helyzetekben, amikor digit
 
    .. mchoice:: p411
         :correct: a
-        :answer_a: nem osztasz meg személyes adatokat ismeretlen személyekkel.
-        :answer_b: gyenge jelszavakat használsz a fiókjaidhoz, hogy azok könnyebben megjegyezhetőek legyenek.
-        :answer_c: letöltheted az internetről az összes alkalmazást és játékot.
-        :answer_d: ellenőrzés nélkül megnyitod az e-mailben kapott mellékleteket.
+        :answer_a: Nem osztasz meg személyes adatokat ismeretlen személyekkel.
+        :answer_b: Gyenge jelszavakat használsz a fiókjaidhoz, hogy azok könnyebben megjegyezhetők legyenek.
+        :answer_c: Letöltheted az internetről az összes alkalmazást és játékot.
+        :answer_d: Ellenőrzés nélkül megnyitod az e-mailben kapott mellékleteket.
         :feedback_a: A válasz helyes.
         :feedback_b: A válasz nem helyes.
         :feedback_c: A válasz nem helyes.
