@@ -11,7 +11,7 @@ Kép beillesztése a dokumentumba
 
  - hozhatsz létre keretet a kép körül.
  
-Képzeld el ezt a tankönyvet képek nélkül! Mennyivel lennének bonyolultabbak az itt található útmutatók? Nézd meg a Természet és társadalom című tankönyvet!
+Képzeld el ezt a tankönyvet képek nélkül! Mennyivel lennének bonyolultabbak az itt található útmutatók? Nézd meg a *Természet és társadalom* című tankönyvet!
 Vannak-e benne illusztrációk, fényképek? Mi mindent ábrázolnak ezek a képek?
 
 .. questionnote::
