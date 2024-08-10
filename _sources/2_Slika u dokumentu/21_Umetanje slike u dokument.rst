@@ -34,6 +34,7 @@ Nyisd meg ezt a dokumentumot!
 
 Helyezd a kurzort az első bekezdés alá! Kattints az *Insert* (Beszúrás) (1) gombra, majd a *Pictures* (Képek) (2) gombra, ahogy az az alábbi ábrán látható!
 
+
 .. image:: ../../_images/pic_1.png
 	:width: 800
 	:align: center
