@@ -1,18 +1,18 @@
 courseId: os4_dig_svet_hu
 lang: hu
-title: Дигитални свет за четврти разред
+title: Digitális világ az általános iskolák negyedik osztálya számára
 description:
   willLearn: 
-    - како се уређује текст
-    - како се копира и исеца текст
-    - како се умеће слика у документ
-    - како се преузима текст са интернета
-    - како се преузима слика са интернета
-    - безбедно коришћење дигиталних уређаја
-    - како се решавају алгоритамски проблеми у визуелном програмском језику
+    - hogyan kell szöveget szerkeszteni
+    - hogyan kell szöveget másolni és kivágni
+    - hogyan kell képet beilleszteni egy dokumentumba
+    - hogyan lehet szöveget letölteni az internetről
+    - hogyan lehet képet letölteni az internetről
+    - a digitális eszközök biztonságos használata
+    - hogyan lehet algoritmikus problémákat megoldani vizuális programozási nyelven
   requirements:
-    - Персонални рачунар са оперативним системом <i>Windows</i> и приступом интернету
-    - Инсталиран <i>Microsoft Word</i> на персоналном рачунару
+    - Személyi számítógép <i>Windows</i> operációs rendszerrel és internet-hozzáféréssel
+    - A számítógépre telepített <i>Microsoft Word</i> szövegszerkesztő
   toc:
     - Intro to Petljadoc INDEX.yaml
   externalLinks:  
@@ -23,18 +23,18 @@ description:
     - text: Runestone Interactive
       href: https://github.com/RunestoneInteractive/overview
   longDescription: |
-    Овај курс је намењен ученицима четвртог разреда основне школе за предмет Дигитални свет. 
-    У оквиру курса детаљно су обрађене наставне теме предвиђене програмом наставе и учења за овај предмет. 
+    Ez a kurzus az általános iskola negyedik osztályos tanulói számára készült a Digitális világ tantárgyhoz.
+    A kurzus tananyaga részletesen feldolgozza a tantárgy tantervében előirányzott témákat.
 
-    Поред рада у школи, курс се може пролазити и самостално.
+    Az iskolai órákon való feldolgozás mellett ez a tanfolyam önállóan is elvégezhető.
     
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-    <br />Овај курс Фондација Петља објавила je под лиценцом <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)</a>.
+    <br />Ezt a kurzust a Petlja Alapítvány tette közzé a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Nevezd meg! 4.0 nemzetközi licenc alatt (CC BY 4.0)</a>.
     </p>  
 
-  shortDescription: Дигитални свет за четврти разред
+  shortDescription: Digitális világ az általános iskolák negyedik osztálya számára
 
 
 lessons:
